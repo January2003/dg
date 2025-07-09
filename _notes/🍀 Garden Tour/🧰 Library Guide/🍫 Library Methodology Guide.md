@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/🍫 Library Methodology Guide.md
 publish: true
-published: '2025-07-09T01:55:36.767+08:00'
+published: '2025-07-09T10:55:55.034+08:00'
 title: 🍫 Library Methodology Guide
 ---
 ### Methodologies referenced in the creation of this library

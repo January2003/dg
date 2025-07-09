@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/§ This Library's Obsidian User
   Manual.md
 publish: true
-published: '2025-07-09T01:58:28.823+08:00'
+published: '2025-07-09T10:56:10.114+08:00'
 tags:
 - directory-note
 - todo/someday

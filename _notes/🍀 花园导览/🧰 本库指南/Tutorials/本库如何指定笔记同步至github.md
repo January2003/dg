@@ -2,7 +2,7 @@
 created: '2022-09-03'
 cssclasses: ''
 modified: '2023-03-14'
-permalink: /🧰 本库指南/Tutorials/本库如何指定笔记同步至github.md
+permalink: /🍀 花园导览/🧰 本库指南/Tutorials/本库如何指定笔记同步至github.md
 publish: true
 published: '2025-07-07T17:10:23.960+08:00'
 title: 本库如何指定笔记同步至github

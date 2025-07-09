@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /📥 Inbox/action first.md
 publish: true
-published: '2025-07-09T16:02:04.089+08:00'
+published: '2025-07-10T00:45:03.427+08:00'
 title: action first
 ---
 当笔记带有任务性质。多使用清单语法，进行勾选完成。则可以简单认为是 action first。

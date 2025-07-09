@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /📥 Inbox/architect first.md
 publish: true
-published: '2025-07-09T16:04:16.557+08:00'
+published: '2025-07-10T00:45:03.427+08:00'
 title: architect first
 ---
 [[Spaces/2-Area/知识管理/obsidian base 和 notion database的本质不同]]

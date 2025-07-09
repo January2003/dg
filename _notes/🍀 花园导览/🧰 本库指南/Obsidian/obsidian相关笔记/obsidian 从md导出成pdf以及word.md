@@ -2,7 +2,7 @@
 publish: true
 title: obsidian 从md导出成pdf以及word
 ---
-新发现，用[[Cards/飞书文档]]做中转：[[🧰 本库指南/Obsidian/obsidian相关笔记/obsidian md文档导入到其他docx企业微信文档等地方的方法]]
+新发现，用[[Cards/飞书文档]]做中转：[[🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian md文档导入到其他docx企业微信文档等地方的方法]]
 
 ## pandoc工具
 

@@ -5,7 +5,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /Atlas/MOCs/∑ MOCs.md
 publish: true
-published: '2025-07-09T18:42:14.943+08:00'
+published: '2025-07-10T00:45:03.575+08:00'
 title: MOC
 ---
 Map Of Content，简单理解就是内容地图，是索引性质的笔记。往往带有很多链接，引导自己或读者跳转到其他笔记中。

@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/The core reason why I chose obsidian
   among many two-way linked note software.md
 publish: true
-published: '2025-07-09T02:01:52.692+08:00'
+published: '2025-07-09T10:56:17.806+08:00'
 title: The core reason why I chose obsidian among many two-way linked note software
 ---
 The following are the initial reasons for choosing it among many two-way linked note software, that is, the original intention.

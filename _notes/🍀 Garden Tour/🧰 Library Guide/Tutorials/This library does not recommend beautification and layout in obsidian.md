@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/This library does not recommend
   beautification and layout in obsidian.md
 publish: true
-published: '2025-07-09T02:04:20.516+08:00'
+published: '2025-07-09T10:56:12.782+08:00'
 title: This library does not recommend beautification and layout in obsidian
 ---
 Many friends may be new to [[Spaces/2-Area/知识管理/markdown]]. They will also find that various layout formats that can be easily implemented in word cannot be achieved in markdown. So they start to look for solutions, first adding html to the md file, and then not satisfied, adding css. Finally, they achieve the same layout effect as word, but it takes much more extra time than word.

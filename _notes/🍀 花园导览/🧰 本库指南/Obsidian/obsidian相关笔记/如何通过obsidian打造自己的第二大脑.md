@@ -2,7 +2,7 @@
 created: '2022-07-20'
 cssclasses: ''
 modified: '2023-03-14'
-permalink: /🧰 本库指南/Obsidian/obsidian相关笔记/如何通过obsidian打造自己的第二大脑.md
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/如何通过obsidian打造自己的第二大脑.md
 publish: true
 published: '2025-07-07T17:10:23.996+08:00'
 title: 如何通过obsidian打造自己的第二大脑

@@ -3,10 +3,10 @@ created: '2025-06-20T01:50:32.039+08:00'
 cssclasses: ''
 description: 'A commenting system powered by GitHub Discussions. :octocat: :speech_balloon:
   :gem:'
-modified: '2025-07-09T18:51:13.220+08:00'
+modified: '2025-07-09T18:51:02.580+08:00'
 permalink: /Sources/GithubStarsSync/giscus.md
 publish: true
-published: '2025-07-09T18:51:13.220+08:00'
+published: '2025-07-09T18:51:02.580+08:00'
 tags:
 - github开源
 title: giscus

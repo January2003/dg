@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-08'
 permalink: /🍀 Garden Tour/🔧 How to Use AI Tools Well.md
 publish: true
-published: '2025-07-09T01:53:13.782+08:00'
+published: '2025-07-09T10:55:57.118+08:00'
 title: 🤖 How to Use AIGC Tools Well
 ---
 To use AI well now, there are 3 steps:

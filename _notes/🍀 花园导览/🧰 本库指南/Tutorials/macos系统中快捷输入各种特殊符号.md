@@ -2,7 +2,7 @@
 created: '2022-08-24'
 cssclasses: ''
 modified: '2023-03-14'
-permalink: /🧰 本库指南/Tutorials/macos系统中快捷输入各种特殊符号.md
+permalink: /🍀 花园导览/🧰 本库指南/Tutorials/macos系统中快捷输入各种特殊符号.md
 publish: true
 published: '2025-07-07T17:10:23.992+08:00'
 title: macos系统中快捷输入各种特殊符号

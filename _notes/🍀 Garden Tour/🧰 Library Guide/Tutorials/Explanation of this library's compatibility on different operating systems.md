@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/Explanation of this library's
   compatibility on different operating systems.md
 publish: true
-published: '2025-07-09T02:06:17.704+08:00'
+published: '2025-07-09T10:56:10.734+08:00'
 title: Explanation of this library's compatibility on different operating systems
 ---
 ## Discovered incompatibilities

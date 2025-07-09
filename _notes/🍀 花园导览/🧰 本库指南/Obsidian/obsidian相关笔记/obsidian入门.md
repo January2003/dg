@@ -2,7 +2,7 @@
 created: '2022-06-09'
 cssclasses: ''
 modified: '2025-07-05'
-permalink: /🧰 本库指南/Obsidian/obsidian相关笔记/obsidian入门.md
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian入门.md
 publish: true
 published: '2025-07-07T17:10:23.996+08:00'
 title: obsidian入门

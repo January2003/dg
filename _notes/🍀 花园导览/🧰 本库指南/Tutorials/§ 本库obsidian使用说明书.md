@@ -25,7 +25,7 @@ x:: [[🍀 花园导览/🧰 本库指南/Tutorials/» 本库tutorial编写工�
 - [[🍀 花园导览/🧰 本库指南/Tutorials/∑ 本库 ACCESS 工作流汇总]]。
 - [[🍀 花园导览/🧰 本库指南/Tutorials/∑ 本库obsidian基本配置及原因]]
 
-[[旧笔记如何迁移至obsidian等双链笔记]]
+[[📥 Inbox/旧笔记如何迁移至obsidian等双链笔记]]
 
 ## obsidian和外部的联动。
 

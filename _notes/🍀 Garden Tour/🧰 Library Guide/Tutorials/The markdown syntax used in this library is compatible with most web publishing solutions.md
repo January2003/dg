@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/The markdown syntax used in this
   library is compatible with most web publishing solutions.md
 publish: true
-published: '2025-07-09T02:04:48.323+08:00'
+published: '2025-07-09T10:56:05.422+08:00'
 title: The markdown syntax used in this library is compatible with most web publishing
   solutions
 ---

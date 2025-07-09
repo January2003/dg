@@ -6,7 +6,7 @@ title: obsidian 搜索技巧
 ---
 [搜索 - Obsidian 中文帮助 - Obsidian Publish](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E6%90%9C%E7%B4%A2)
 
-[[🧰 本库指南/Obsidian/obsidian相关笔记/Obsidian 搜索系统搭建]]
+[[🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/Obsidian 搜索系统搭建]]
 
 ## 搜索语法
 

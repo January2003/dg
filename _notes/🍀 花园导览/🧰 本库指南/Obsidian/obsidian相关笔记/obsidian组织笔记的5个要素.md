@@ -4,7 +4,7 @@ date modified: 2023-03-14
 publish: true
 title: obsidian组织笔记的5个要素
 ---
-x:: [[🧰 本库指南/Obsidian/obsidian相关笔记/obsidian组织笔记的N个 xx first]]
+x:: [[🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian组织笔记的N个 xx first]]
 
 ## 5个要素，综合形成了obsidian独特的笔记组织方法
 

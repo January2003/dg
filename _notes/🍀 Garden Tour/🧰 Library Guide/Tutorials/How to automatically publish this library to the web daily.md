@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/How to automatically publish this
   library to the web daily.md
 publish: true
-published: '2025-07-09T02:06:44.839+08:00'
+published: '2025-07-09T10:56:12.090+08:00'
 title: How to automatically publish this library to the web daily
 ---
 To publish the obsidian note library to the web like a blog, this library currently adopts 2 third-party free solutions. For details, see [[The most perfect free publishing solution for obsidian at present - a progressive tutorial]].

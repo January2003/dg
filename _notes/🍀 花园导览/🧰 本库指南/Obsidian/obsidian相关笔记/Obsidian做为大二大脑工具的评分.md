@@ -2,7 +2,7 @@
 created: '2025-04-04T01:03:31.533+08:00'
 cssclasses: ''
 modified: '2025-07-07T17:10:24.359+08:00'
-permalink: /🧰 本库指南/Obsidian/obsidian相关笔记/Obsidian做为大二大脑工具的评分.md
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/Obsidian做为大二大脑工具的评分.md
 publish: true
 published: '2025-07-07T17:10:24.359+08:00'
 title: Obsidian做为大二大脑工具的评分

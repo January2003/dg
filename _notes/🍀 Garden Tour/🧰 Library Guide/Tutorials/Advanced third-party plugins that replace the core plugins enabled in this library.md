@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/Advanced third-party plugins that
   replace the core plugins enabled in this library.md
 publish: true
-published: '2025-07-09T02:05:44.372+08:00'
+published: '2025-07-09T10:55:55.698+08:00'
 title: Advanced third-party plugins that replace the core plugins enabled in this
   library
 ---

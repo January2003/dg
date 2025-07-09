@@ -2,7 +2,7 @@
 created: '2023-02-27'
 cssclasses: ''
 modified: '2024-08-09'
-permalink: /🧰 本库指南/Obsidian/obsidian相关笔记/obsidian canvas当前的致命缺陷.md
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian canvas当前的致命缺陷.md
 publish: true
 published: '2025-07-07T17:10:24.430+08:00'
 title: obsidian canvas当前的致命缺陷

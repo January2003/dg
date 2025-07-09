@@ -3,13 +3,12 @@ created: '2022-08-06'
 cssclasses: ''
 description: 上面这些字段，大多是为了适配第三方发布方案，如hugo和jekyll。
 modified: '2024-10-23'
-permalink: /
+permalink: /AboutTheGarden.md
 publish: true
 published: '2025-07-08T14:05:33.272+08:00'
 tags:
 - 本库教程
 title: AboutTheGarden
-layout: default
 ---
 hello 👋，我是 oldwinter ❄️，一个云计算工程师，写过几万行代码，带过十几人团队。
 

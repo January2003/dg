@@ -2,7 +2,7 @@
 created: '2025-06-27'
 cssclasses: ''
 modified: '2025-06-27'
-permalink: /🧰 本库指南/Obsidian/obsidian相关笔记/这才是真的AI Agent：使用Cursor对Obsidian进行一键批量智能操作.md
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/这才是真的AI Agent：使用Cursor对Obsidian进行一键批量智能操作.md
 publish: true
 published: '2025-07-07T17:10:23.996+08:00'
 tags:
@@ -52,7 +52,7 @@ title: 这才是真的AI Agent：使用Cursor对Obsidian进行一键批量智能
 ## 实现细节详细拆分讲解
 
 > 由于现在缺少真正的能获取以及修改Obsidian的tag、properties等数据的mcp，所以使用cursor直接打开Obsidian vault，让其完整获取目录及文件，是赋予AI上下文最有效的方式了。
-> 同时，由于ai针对某个文件内的文件进行批量操作，是非常稳定可靠的，所以这里考虑新建一个文件夹，把相关笔记挪进来。[[📥 Inbox/使用File Cooker插件批量高效、不丢失双链地移动Obsidian笔记]]，可以一键将符合特定特征的笔记挪到指定文件夹中。
+> 同时，由于ai针对某个文件内的文件进行批量操作，是非常稳定可靠的，所以这里考虑新建一个文件夹，把相关笔记挪进来。[[Cards/使用File Cooker插件批量高效、不丢失双链地移动Obsidian笔记]]，可以一键将符合特定特征的笔记挪到指定文件夹中。
 
 ### 0. 任何批量操作之前，先备份
 
@@ -119,9 +119,9 @@ title: 这才是真的AI Agent：使用Cursor对Obsidian进行一键批量智能
 
 ## 其他相关笔记
 
-- [[🧰 本库指南/Obsidian/obsidian相关笔记/obsidian 笔记文件批量重命名 - 千万别在外部用脚本实施]]
+- [[🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian 笔记文件批量重命名 - 千万别在外部用脚本实施]]
 - Cursor还可用于批量生成canvas或修改canvas：
-	- 教程：[[🧰 本库指南/Obsidian/obsidian相关笔记/Obsidian canvas 使用 cursor生成]]
+	- 教程：[[🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/Obsidian canvas 使用 cursor生成]]
 	- 自动一键生成的canvas：
 		- [[甄嬛传人物关系与时间线.canvas|甄嬛传人物关系与时间线]]
 		- ![甄嬛传人物关系与时间线.png](https://pub-pic.oldwinter.top/2025/06/546bafe08ca13f470b6eda7878dde4ff.png)

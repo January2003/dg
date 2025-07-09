@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/This library does not recommend
   embedding Iframes in obsidian.md
 publish: true
-published: '2025-07-09T02:03:19.343+08:00'
+published: '2025-07-09T10:56:11.450+08:00'
 title: This library does not recommend embedding Iframes in obsidian
 ---
 As mentioned in [[This library does not recommend doing too many fancy tricks in obsidian]], using Iframes to embed various web pages into obsidian is actually a kind of fancy trick.

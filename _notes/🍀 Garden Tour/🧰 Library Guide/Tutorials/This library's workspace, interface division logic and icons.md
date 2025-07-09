@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/This library's workspace, interface
   division logic and icons.md
 publish: true
-published: '2025-07-09T02:07:19.894+08:00'
+published: '2025-07-09T10:56:25.406+08:00'
 title: This library's workspace, interface division logic and icons
 ---
 up:: [[🍀 Garden Tour/🧰 Library Guide/🧰 Library Usage Guide]]

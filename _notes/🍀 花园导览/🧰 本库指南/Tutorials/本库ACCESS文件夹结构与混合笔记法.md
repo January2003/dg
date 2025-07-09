@@ -2,7 +2,7 @@
 created: '2022-08-07'
 cssclasses: ''
 modified: '2024-11-22'
-permalink: /🧰 本库指南/Tutorials/本库ACCESS文件夹结构与混合笔记法.md
+permalink: /🍀 花园导览/🧰 本库指南/Tutorials/本库ACCESS文件夹结构与混合笔记法.md
 publish: true
 published: '2025-07-07T17:10:23.996+08:00'
 title: 本库ACCESS文件夹结构与混合笔记法
@@ -13,9 +13,9 @@ x:: [[Cards/混合笔记法]]
 	- 局部和整体。局部就是某个细分领域的知识点，整体就是全部自己感兴趣的内容。
 	- [[Spaces/2-Area/知识管理/自上而下]] 和 [[Spaces/2-Area/知识管理/自下而上]]。前者类似思维导图，一分二，二分四，先有骨架，后填内容。后者先散状积累孤立知识点，积累到一定程度形成局部聚合，先有内容，再画骨。
 - 从笔记组织角度而言：
-	- [[🧰 本库指南/Obsidian/obsidian相关笔记/obsidian组织笔记的N个 xx first]]
+	- [[🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian组织笔记的N个 xx first]]
 - 从笔记实践角度而言：
-	- [[🧰 本库指南/Tutorials/笔记法的文件夹和目录该如何组织和搭建]]
+	- [[🍀 花园导览/🧰 本库指南/Tutorials/笔记法的文件夹和目录该如何组织和搭建]]
 - Atalas
 	- 整体上，[[Spaces/2-Area/知识管理/自上而下]]，俯瞰全局
 - Calendar

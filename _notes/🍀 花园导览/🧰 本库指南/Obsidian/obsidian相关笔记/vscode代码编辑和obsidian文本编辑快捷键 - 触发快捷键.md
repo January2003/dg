@@ -3,7 +3,7 @@ aliases: Obsidian 文本编辑快捷键
 created: '2022-06-15'
 cssclasses: ''
 modified: '2025-06-14'
-permalink: /🧰 本库指南/Obsidian/obsidian相关笔记/vscode代码编辑和obsidian文本编辑快捷键 - 触发快捷键.md
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/vscode代码编辑和obsidian文本编辑快捷键 - 触发快捷键.md
 publish: true
 published: '2025-07-07T17:10:23.996+08:00'
 title: vscode代码编辑和obsidian文本编辑快捷键

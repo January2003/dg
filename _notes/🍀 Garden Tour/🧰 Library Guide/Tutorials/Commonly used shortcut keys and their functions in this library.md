@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/Commonly used shortcut keys and
   their functions in this library.md
 publish: true
-published: '2025-07-09T02:07:41.377+08:00'
+published: '2025-07-09T10:56:26.106+08:00'
 title: Commonly used shortcut keys and their functions in this library
 ---
 up:: [[🍀 Garden Tour/🧰 Library Guide/🧰 Library Usage Guide]]

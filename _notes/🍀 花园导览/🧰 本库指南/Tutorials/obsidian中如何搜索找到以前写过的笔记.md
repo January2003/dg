@@ -2,7 +2,7 @@
 created: '2022-12-10'
 cssclasses: ''
 modified: '2023-03-14'
-permalink: /🧰 本库指南/Tutorials/obsidian中如何搜索找到以前写过的笔记.md
+permalink: /🍀 花园导览/🧰 本库指南/Tutorials/obsidian中如何搜索找到以前写过的笔记.md
 publish: true
 published: '2025-07-07T17:10:23.992+08:00'
 title: obsidian中如何找到以前写过的笔记

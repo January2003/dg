@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /🍀 Garden Tour/🏋 How to Stay Healthy.md
 publish: true
-published: '2025-07-09T01:52:40.938+08:00'
+published: '2025-07-09T10:56:30.606+08:00'
 title: 🏋 How to Stay Healthy
 ---
 >[!INFO]+ Tip

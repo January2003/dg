@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/Obsidian core plugins enabled
   in this library and why.md
 publish: true
-published: '2025-07-09T02:06:04.495+08:00'
+published: '2025-07-09T10:56:26.878+08:00'
 title: Obsidian core plugins enabled in this library and why
 ---
 ## Enabled
