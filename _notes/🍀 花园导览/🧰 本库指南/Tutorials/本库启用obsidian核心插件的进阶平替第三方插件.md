@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Tutorials/本库启用obsidian核心插件的进阶平替第三方插件.md
 publish: true
-published: '2025-07-09T02:30:13.642+08:00'
+published: '2025-07-10T22:03:41.697+08:00'
 title: 本库启用obsidian核心插件的进阶平替第三方插件
 ---
 - 快速切换
@@ -12,11 +12,11 @@ title: 本库启用obsidian核心插件的进阶平替第三方插件
 - 命令面板
 	- 改用[[Cards/Better Command Palette]]。
 - 模板
-	- 改用[[Cards/Templater]]。
+	- 改用[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Templater]]。
 - 大纲
 	- 改用。
 - 同步
-	- 用[[Cards/Remotely Save]]平替
+	- 用[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Remotely Save]]平替
 - 发布
 	- 用[[Cards/DIgital Garden]]平替
 - 幻灯片

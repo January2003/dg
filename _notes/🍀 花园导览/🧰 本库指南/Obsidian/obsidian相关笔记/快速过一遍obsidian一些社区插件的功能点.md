@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-12-27'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/快速过一遍obsidian一些社区插件的功能点.md
 publish: true
-published: '2025-07-07T17:10:24.163+08:00'
+published: '2025-07-10T22:36:54.500+08:00'
 title: 快速过一遍obsidian一些社区插件的功能点
 ---
 - [[3d graph]]
@@ -25,9 +25,9 @@ title: 快速过一遍obsidian一些社区插件的功能点
 	- 自定义各个页面的icon
 - [[Cards/Daily Note Outline]]
 	- 平铺的Dailynote，weeklynote
-- [[Cards/Dataview]]
+- [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Dataview]]
 	- 类似mysql语句根据properties批量查询文档
-- [[Cards/Excalidraw]]
+- [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Excalidraw]]
 	- canvas插件的强化版本
 - [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Link Favicons]]
 	- 网页url前面自动加上网站的icon
@@ -45,7 +45,7 @@ title: 快速过一遍obsidian一些社区插件的功能点
 	- 分享当前笔记到online
 - [[Cards/Smart Connections]]
 	- ai搜索笔记
-- [[Cards/Sortable]]
+- [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Sortable]]
 	- 表格排序
 - [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Supercharged Links]]
 	- 针对tags美化连接。

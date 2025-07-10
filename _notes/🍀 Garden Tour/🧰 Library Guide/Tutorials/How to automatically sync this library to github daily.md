@@ -5,12 +5,12 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/How to automatically sync this
   library to github daily.md
 publish: true
-published: '2025-07-09T09:47:07.401+08:00'
+published: '2025-07-10T21:53:00.213+08:00'
 title: How to automatically sync this library to github daily
 ---
 [[🍀 Garden Tour/🧰 Library Guide/Tutorials/How to specify which notes in this library are synced to github]]
 
-Why not use the [[obsidian git]] plugin?
+Why not use the [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Obsidian Git]] plugin?
 Because when it executes the git synchronization command, it will make obsidian very laggy. And I only need to use git to back up to github regularly. For other git version rollback functions, I use [[Spaces/3-Resource/Software-Sorting/macos-software/VSCode]] to open this library to execute, which is more comprehensive and easier to use. So I adopted the operating system-level automatic execution of git commands solution, rather than the obsidian built-in git execution solution.
 
 How to configure the operating system-level automatic git command?

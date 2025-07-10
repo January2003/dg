@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/Obsidian core plugins enabled
   in this library and why.md
 publish: true
-published: '2025-07-09T09:51:09.849+08:00'
+published: '2025-07-10T22:21:48.025+08:00'
 title: Obsidian core plugins enabled in this library and why
 ---
 ## Enabled
@@ -15,7 +15,7 @@ title: Obsidian core plugins enabled in this library and why
 - Note composer
 	- See [[How to merge and combine two quoted pages in obsidian]].
 - Tag pane
-	- I'm used to writing tags in the [[Cards/frontmatter]] area to manage file status and special files. This usage prevents tags from expanding too much and can also work with [[Cards/Dataview]].
+	- I'm used to writing tags in the [[Cards/frontmatter]] area to manage file status and special files. This usage prevents tags from expanding too much and can also work with [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Dataview]].
 - Outgoing links
 	- Rarely used. But I always feel that something is missing if I don't turn on this function.
 - Backlinks
@@ -30,7 +30,7 @@ title: Obsidian core plugins enabled in this library and why
 - Search
 	- I don't use this plugin very often, but I use it more in pure reading situations. When I usually take notes, in order to use the keyboard more and the mouse less, I more commonly use [[🍀 Garden Tour/🧰 Library Guide/Tutorials/Commonly used shortcut keys and their functions in this library#Core three-piece suit]], which can more conveniently search for resources in the library from various angles.
 - File recovery
-	- In addition to [[Cards/Remotely Save]] and git's several-hour synchronization cycle backup plan, this is the last bumper, and the 5-minute interval can help us retrieve more lost content.
+	- In addition to [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Remotely Save]] and git's several-hour synchronization cycle backup plan, this is the last bumper, and the 5-minute interval can help us retrieve more lost content.
 - File explorer
 	- Advanced community plugin [[🍀 Garden Tour/🧰 Library Guide/Obsidian/Plugins/File Tree Alternative Plugin]].
 - Page preview
@@ -43,7 +43,7 @@ title: Obsidian core plugins enabled in this library and why
 ## Not enabled
 
 - Random note
-	- I haven't used it yet. [[Active review]] is actually better with [[Cards/Spaced Repetition]]. I feel that this random note function is too random, and the rules and results are uncontrollable, so I don't use it.
+	- I haven't used it yet. [[Active review]] is actually better with [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Spaced Repetition]]. I feel that this random note function is too random, and the rules and results are uncontrollable, so I don't use it.
 - Audio recorder
 	- Mobile phones, MacOS and Windows all have their own recording software, which can be quickly opened when needed. In addition, using [[Feishu Memo]] and other software that directly supports transcription and translation of recording files, there is no need to use this simple function that can only record.
 - Zettelkasten prefixer

@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Tutorials/本库启用的obsidian核心插件及原因.md
 publish: true
-published: '2025-07-07T17:10:23.960+08:00'
+published: '2025-07-10T22:21:54.700+08:00'
 title: 本库启用的obsidian核心插件及原因
 ---
 ## 启用
@@ -14,7 +14,7 @@ title: 本库启用的obsidian核心插件及原因
 - 笔记重组
 	- 见[[🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian中2个均被引用过的页面如何重组合并]]。
 - 标签列表
-	- 我习惯将tag写在[[Cards/frontmatter]]区，以管理文件状态和特殊文件，这种用法让tag不至于过度膨胀，也能配合[[Cards/Dataview]]工作。
+	- 我习惯将tag写在[[Cards/frontmatter]]区，以管理文件状态和特殊文件，这种用法让tag不至于过度膨胀，也能配合[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Dataview]]工作。
 - 出链
 	- 很少用。但不打开这个功能总觉得缺点什么。
 - 反向链接
@@ -29,7 +29,7 @@ title: 本库启用的obsidian核心插件及原因
 - 搜索
 	- 这个插件其实我不常用，更多的是纯阅读场合会用。而平时记笔记时，为了多用键盘少用鼠标，我更常用的见[[🍀 花园导览/🧰 本库指南/Tutorials/本库常用的快捷键及作用#核心三件套]]，可以更方便地按各种角度搜索库内资源。
 - 文件恢复
-	- 除了[[Cards/Remotely Save]]和git的几小时同步周期的备份方案，这个算是最后一道保险杠，而且5分钟的间隔，能让我们找回更多的丢失内容。
+	- 除了[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Remotely Save]]和git的几小时同步周期的备份方案，这个算是最后一道保险杠，而且5分钟的间隔，能让我们找回更多的丢失内容。
 - 文件列表
 	- 进阶版社区插件[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/File Tree Alternative Plugin]]。
 - 页面预览
@@ -42,7 +42,7 @@ title: 本库启用的obsidian核心插件及原因
 ## 未启用
 
 - 漫游笔记
-	- 目前我没用到。[[Cards/主动回顾]]其实用[[Cards/Spaced Repetition]]更好，这个漫游功能总感觉随机性太大，规律和结果不可控，所以我没有使用。
+	- 目前我没用到。[[Cards/主动回顾]]其实用[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Spaced Repetition]]更好，这个漫游功能总感觉随机性太大，规律和结果不可控，所以我没有使用。
 - 录音机
 	- 手机、MacOS和Windows都自带录音软件，在需要时可以快速开启。另外，用[[Cards/飞书妙记]]等直接支持转写和翻译录音文件，没必要用这个简陋的只能录音的功能。
 - 时间戳生成器

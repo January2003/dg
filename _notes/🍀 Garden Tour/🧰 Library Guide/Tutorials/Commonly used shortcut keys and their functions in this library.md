@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/Commonly used shortcut keys and
   their functions in this library.md
 publish: true
-published: '2025-07-09T09:51:02.406+08:00'
+published: '2025-07-10T22:06:40.374+08:00'
 title: Commonly used shortcut keys and their functions in this library
 ---
 up:: [[🍀 Garden Tour/🧰 Library Guide/🧰 Library Usage Guide]]
@@ -20,7 +20,7 @@ up:: [[🍀 Garden Tour/🧰 Library Guide/🧰 Library Usage Guide]]
 - cmd + t: call out the tab quick switcher panel
 	- New: Requires installation of [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Quick Switcher++]]. The logic of this command is different from that of the cmd + o command in that this command opens the file in a new tab page.
 - cmd + alt + f: call out the full-text search panel of the entire library
-	- Replaced with the [[Cards/Omnisearch]] plugin, shortcut key cmd + option + f. Except that Chinese phrases composed of whole sentences are not highlighted, and English double quotation marks " must be added, for example, search for `"whole sentences are not highlighted"`. In other aspects, it is better than the built-in search.
+	- Replaced with the [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Omnisearch]] plugin, shortcut key cmd + option + f. Except that Chinese phrases composed of whole sentences are not highlighted, and English double quotation marks " must be added, for example, search for `"whole sentences are not highlighted"`. In other aspects, it is better than the built-in search.
 - control + tab: [[Switch recent tabs]]
 	- New: Requires installation of [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Tab Switcher]] plugin and manual configuration of shortcut keys. After using this shortcut key, the sense of happiness is overwhelming. [[Arc Browser]] and [[Spaces/3-Resource/Software-Sorting/macos-software/VSCode]] both have this shortcut key, which greatly improves efficiency. Try it more and you will feel the benefits I said.
 	- It complements the [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Quick Switcher++]] plugin.
@@ -33,7 +33,7 @@ up:: [[🍀 Garden Tour/🧰 Library Guide/🧰 Library Usage Guide]]
 
 ## **Daily review flow**
 
-- cmd + shift + 0: open [[Cards/Spaced Repetition]] note review
+- cmd + shift + 0: open [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Spaced Repetition]] note review
 - cmd + shift + 1: mark as simple
 - cmd + shift + 2: mark as difficult
 

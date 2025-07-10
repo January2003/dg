@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/logseq和obsidian的联合联动使用.md
 publish: true
-published: '2025-07-07T17:10:23.997+08:00'
+published: '2025-07-10T22:06:41.120+08:00'
 title: logseq和obsidian的联合联动使用
 ---
 obsidian 的发布功能还没试过，但看了别人的发布效果，感觉也一般。
@@ -24,5 +24,5 @@ obsidian 的发布功能还没试过，但看了别人的发布效果，感觉�
 	- obsidian 的块引用语法暂时有点鸡肋。但 logseq 的块引用性能有点差，现在就已经很卡了。
 		- 暂时先不用块引用，尽量原子化卡片 page，只使用页引用。等 logseq 性能好起来了再说。
 - 闪卡 flashcard 的不兼容
-	- 2 者都不成熟，相比之下还是[[Cards/Spaced Repetition]]更成熟一些
+	- 2 者都不成熟，相比之下还是[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Spaced Repetition]]更成熟一些
 		- 先用 obsidian

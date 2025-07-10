@@ -5,14 +5,14 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/Themes used in this library and
   why.md
 publish: true
-published: '2025-07-09T09:47:54.865+08:00'
+published: '2025-07-10T22:04:40.151+08:00'
 title: Themes used in this library and why
 ---
 up:: [[🍀 Garden Tour/🧰 Library Guide/🧰 Library Usage Guide]]
 
 Used the [[obsidian - shimmering theme]]. Written by a guy who is pursuing a PhD, it is updated almost every day. He is a keyboard efficiency expert who uses [[Spaces/3-Resource/软件梳理/linux常用命令/vim]], and also wrote an [[alfred plugin - shimmering-obsidian]], which has many functions and is very easy to use.
 
-The reason for using it is: the default configuration is the most minimalist, and almost no logos or extra interface elements can be seen. Then you can gradually add the configuration you need through the very rich custom options in [[Cards/Style Settings]] as your usage habits change. This process of gradually adding things can make you understand what you want better, and gradually adjust your inner logic and habits of using [[Comparison and selection of shortcut keys, icons, and command lines]].
+The reason for using it is: the default configuration is the most minimalist, and almost no logos or extra interface elements can be seen. Then you can gradually add the configuration you need through the very rich custom options in [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Style Settings]] as your usage habits change. This process of gradually adding things can make you understand what you want better, and gradually adjust your inner logic and habits of using [[Comparison and selection of shortcut keys, icons, and command lines]].
 
 Screenshot of the local page:
 

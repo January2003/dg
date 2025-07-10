@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/如果要我安利obsidian给别人，我会怎么做.md
 publish: true
-published: '2025-07-07T19:02:16.586+08:00'
+published: '2025-07-10T22:36:54.293+08:00'
 title: 如果要我安利obsidian给别人，我会怎么做
 ---
 ## 如果要我安利 obsidian 给别人，我会怎么做
@@ -52,7 +52,7 @@ title: 如果要我安利obsidian给别人，我会怎么做
 			- 社区插件实现[[Spaces/3-Resource/软件梳理/macos软件/Anki]]复习系统。以及强大社区引发的各种奇妙增强，带来[[Cards/渐进式学习]]的感觉。
 				- [[Spaces/3-Resource/软件梳理/macos软件/Anki]]集成
 				- [[Cards/Outliner]]大纲笔记
-				- [[Cards/Excalidraw]]可视化笔记
+				- [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Excalidraw]]可视化笔记
 			- [[Cards/local first]]，源文件以 md 和 json 的文件，全部暴露给我们，满满安全感，并且文件切换，搜索均是本地进行，完全 0 延迟。
 	- 缺点及解决方案
 		- 缺点

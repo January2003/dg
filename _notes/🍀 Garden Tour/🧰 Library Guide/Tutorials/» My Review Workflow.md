@@ -5,14 +5,14 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/» My Review Workflow.md
 publish: true
-published: '2025-07-09T09:48:57.979+08:00'
+published: '2025-07-10T22:06:40.749+08:00'
 tags:
 - review
 title: » My Review Workflow
 ---
-There are currently more than 5 plugins about anki or spaced repetition memory in the plugin market. I chose the [[Cards/Spaced Repetition]] plugin because it does not need to be used with anki, and you can complete card making and card memory within the obsidian software.
+There are currently more than 5 plugins about anki or spaced repetition memory in the plugin market. I chose the [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Spaced Repetition]] plugin because it does not need to be used with anki, and you can complete card making and card memory within the obsidian software.
 
-And [[Cards/Spaced Repetition]] has 2 functions. 1 is to support adding multiple memory flashcards with positive and negative content in a note, and 2 is to support setting a note directly as a whole note to be memorized or reviewed. I currently only use the latter. The usage is as follows:
+And [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Spaced Repetition]] has 2 functions. 1 is to support adding multiple memory flashcards with positive and negative content in a note, and 2 is to support setting a note directly as a whole note to be memorized or reviewed. I currently only use the latter. The usage is as follows:
 
 ## Quickly set a note as a note to be reviewed
 
