@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/Practical exploration of content
   distribution from this library to mainstream media platforms.md
 publish: true
-published: '2025-07-09T10:56:09.418+08:00'
+published: '2025-07-09T09:48:07.943+08:00'
 title: Practical exploration of content distribution from this library to mainstream
   media platforms
 ---

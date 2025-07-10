@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/Feelings during the initial learning
   process of Obsidian.md
 publish: true
-published: '2025-07-09T10:56:02.770+08:00'
+published: '2025-07-09T09:46:54.376+08:00'
 title: Feelings during the initial learning process of Obsidian
 ---
 - [[Fleeting Notes]]

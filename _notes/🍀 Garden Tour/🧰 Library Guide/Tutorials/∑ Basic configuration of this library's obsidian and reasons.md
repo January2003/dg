@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/∑ Basic configuration of this
   library's obsidian and reasons.md
 publish: true
-published: '2025-07-09T10:56:29.290+08:00'
+published: '2025-07-09T09:51:30.319+08:00'
 tags:
 - moc
 title: ∑ Basic configuration of this library's obsidian and reasons
@@ -30,7 +30,7 @@ Only select the configuration items that I personally think are important and ex
 - Default location for new notes: In the same folder as the current file.
 	- [[🍀 Garden Tour/🧰 Library Guide/Tutorials/∑ This library's ACCESS workflow summary]] mentions that in order to avoid creating isolated files, it is only recommended to create new files directly in files (such as DailyNote and MOC files) through the two-way link syntax. In this way, the newly generated file is at least connected to the current file, and the newly generated file is in the same folder as the current file, making the file organization more orderly. So this configuration item is needed.
 - New link format: Shortest path when possible
-	- This form guides us to ignore the path and let the link become the first citizen of our notes, that is, [[🍀 Garden Tour/🧰 Library Guide/Tutorials/Link first]]. If you are reluctant to part with the traditional folder, that is, the [[📥 Inbox/folder first]] mode, then change to other options.
+	- This form guides us to ignore the path and let the link become the first citizen of our notes, that is, [[🍀 Garden Tour/🧰 Library Guide/Tutorials/Link first]]. If you are reluctant to part with the traditional folder, that is, the [[folder first]] mode, then change to other options.
 - Use wikilinks: On
 	- That is, the form of [[Cards/wikilink]]: `[[]]`. It is more convenient to use. You can search for everything in the library with two square brackets, which is cool. However, traditional blogs such as hugo, jekyll, gatsby, etc. still mainly support the `[]()` format. But don't worry, if you need to use it, you can always switch to an automatic conversion solution.
 - Default location for new attachments: In the folder specified below

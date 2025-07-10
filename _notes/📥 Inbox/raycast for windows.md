@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /📥 Inbox/raycast for windows.md
 publish: true
-published: '2025-07-09T23:15:08.887+08:00'
+published: '2025-07-09T13:54:36.493+08:00'
 title: raycast for windows
 ---
 [[Cards/aliases and hotkey - 别名与快捷键]]功能，在windows上可以实现一键隐藏/呼出应用窗口，这一点上，秒杀全部的原来的主流启动器比如：[[Spaces/3-Resource/软件梳理/macos软件/uTools]]、[[Spaces/3-Resource/软件梳理/windows软件/Flow launcher]]等。

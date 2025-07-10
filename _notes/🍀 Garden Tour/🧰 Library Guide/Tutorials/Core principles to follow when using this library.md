@@ -5,7 +5,7 @@ modified: '2025-07-05'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/Core principles to follow when
   using this library.md
 publish: true
-published: '2025-07-09T10:56:00.774+08:00'
+published: '2025-07-09T09:45:32.036+08:00'
 tags:
 - todo/continuous-iteration
 title: Core principles to follow when using this library

@@ -87,18 +87,170 @@ All MOC files in PARA under Spaces
 
 ## Miscellaneous
 
-```dataviewjs
-// Get files with specified tags in the specified folder
-const filter = '"Spaces" and #MOC'
-// Group by folder, retrieve the tags, modification time and other related information of all files in the folder
-const groups =  dv.pages(`${filter}`).groupBy(p => p.file.folder)
-for (let group of groups) {
-	dv.header(4, group.key);
-	dv.table(["Name", "Creation Date", "Modification Date"],
-		group.rows
-			.sort(k => k.file.name, 'asc')
-			.map(k => [k.file.link, k.file.cday, k.file.mday]))
-}
-```
+#### Spaces/1-Project
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/1-Project/∑ 1-Project\|∑ 1-Project]]|June 27, 2025|July 07, 2025|
+
+#### Spaces/1-Project/golang与后端
+
+|Name3|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/1-Project/golang与后端/∑ golang\|∑ golang]]<br><br>3|April 04, 2025|June 27, 2025|
+|[[Spaces/1-Project/golang与后端/∑ 计算机科学\|∑ 计算机科学]]|April 04, 2025|May 30, 2025|
+|[[Spaces/1-Project/golang与后端/Go语言复习大纲\|Go语言复习大纲]]|July 06, 2025|July 07, 2025|
+
+#### Spaces/1-Project/Raycast
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/1-Project/Raycast/∑ Raycast\|∑ Raycast]]|July 06, 2025|July 07, 2025|
+
+#### Spaces/1-Project/工作流与SOP
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/1-Project/工作流与SOP/_ 工作流与实践\|_ 工作流与实践]]|June 27, 2025|June 27, 2025|
+
+#### Spaces/1-Project/求职
+
+|Name3|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/1-Project/求职/∑ 个人简历\|∑ 个人简历]]|April 04, 2025|July 08, 2025|
+|[[Spaces/1-Project/求职/∑ 个人简历-优化版\|∑ 个人简历-优化版]]|July 04, 2025|July 10, 2025|
+|[[Spaces/1-Project/求职/Kubernetes\|Kubernetes]]|December 11, 2022|July 03, 2025|
+
+#### Spaces/1-Project/项目管理
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/1-Project/项目管理/_ 方法论与管理\|_ 方法论与管理]]|June 27, 2025|June 27, 2025|
+
+#### Spaces/2-Area
+
+|Name3|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/2-Area/∑ 2-Area\|∑ 2-Area]]|April 04, 2025|July 08, 2025|
+|[[Spaces/2-Area/∑ Areas MOC\|∑ Areas MOC]]|June 27, 2025|June 27, 2025|
+|[[Spaces/2-Area/∑ PKM\|∑ PKM]]|April 04, 2025|July 08, 2025|
+
+#### Spaces/2-Area/macos高效使用
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/2-Area/macos高效使用/_macos高效使用\|_macos高效使用]]|June 27, 2025|June 27, 2025|
+
+#### Spaces/2-Area/windows高效使用
+
+|Name2|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/2-Area/windows高效使用/_ windows高效使用\|_ windows高效使用]]|June 27, 2025|June 27, 2025|
+|[[Spaces/2-Area/windows高效使用/∑ 快捷键（MacOS + Windows）\|∑ 快捷键（MacOS + Windows）]]|April 04, 2025|June 27, 2025|
+
+#### Spaces/2-Area/云服务和部署
+
+|Name3|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/2-Area/云服务和部署/_ 云服务和部署\|_ 云服务和部署]]|June 27, 2025|June 27, 2025|
+|[[Spaces/2-Area/云服务和部署/∑ DevOps roadmap 运维路线图\|∑ DevOps roadmap 运维路线图]]|April 04, 2025|July 03, 2025|
+|[[Spaces/2-Area/云服务和部署/∑ 云计算与云原生\|∑ 云计算与云原生]]|April 04, 2025|July 10, 2025|
+
+#### Spaces/2-Area/思维工具与模块
+
+|Name3|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/2-Area/思维工具与模块/_ 思维工具与模块\|_ 思维工具与模块]]|June 27, 2025|July 06, 2025|
+|[[Spaces/2-Area/思维工具与模块/∑ 常见思维工具\|∑ 常见思维工具]]|April 04, 2025|June 25, 2025|
+|[[Spaces/2-Area/思维工具与模块/∑ 查理·芒格论人类误判心理学\|∑ 查理·芒格论人类误判心理学]]|July 06, 2025|July 06, 2025|
+
+#### Spaces/2-Area/数字花园建设与维护
+
+|Name3|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/2-Area/数字花园建设与维护/_ 数字花园建设与维护\|_ 数字花园建设与维护]]|June 27, 2025|June 27, 2025|
+|[[Spaces/2-Area/数字花园建设与维护/∑ Building a Second Brain 翻译和读书笔记\|∑ Building a Second Brain 翻译和读书笔记]]|April 04, 2025|June 27, 2025|
+|[[Spaces/2-Area/数字花园建设与维护/∑ 必备软件\|∑ 必备软件]]|January 07, 2023|July 07, 2025|
+
+#### Spaces/2-Area/知识管理
+
+|Name3|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/2-Area/知识管理/_ 知识管理\|_ 知识管理]]|June 27, 2025|July 06, 2025|
+|[[Spaces/2-Area/知识管理/∑ 工作和生活的效率体系建设\|∑ 工作和生活的效率体系建设]]|April 04, 2025|July 08, 2025|
+|[[Spaces/2-Area/知识管理/核心主题分类框架\|核心主题分类框架]]|April 04, 2025|July 08, 2025|
+
+#### Spaces/2-Area/计算机知识
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/2-Area/计算机知识/∑ 计算机知识 MOC\|∑ 计算机知识 MOC]]|June 27, 2025|July 09, 2025|
+
+#### Spaces/2-Area/运动健康
+
+|Name2|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/2-Area/运动健康/∑ 运动与健康\|∑ 运动与健康]]|April 04, 2025|July 07, 2025|
+|[[Spaces/2-Area/运动健康/∑ 运动健康\|∑ 运动健康]]|July 06, 2025|July 09, 2025|
+
+#### Spaces/3-Resource
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/3-Resource/∑ Resources MOC\|∑ Resources MOC]]|June 27, 2025|July 08, 2025|
+
+#### Spaces/3-Resource/电影笔记
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/3-Resource/电影笔记/∑ 电影笔记\|∑ 电影笔记]]|April 04, 2025|July 06, 2025|
+
+#### Spaces/3-Resource/电视剧笔记
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/3-Resource/电视剧笔记/∑ 电视剧笔记\|∑ 电视剧笔记]]|April 04, 2025|July 06, 2025|
+
+#### Spaces/3-Resource/软件梳理/macos软件
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/3-Resource/软件梳理/macos软件/∑ linux常用命令行\|∑ linux常用命令行]]|September 30, 2022|June 27, 2025|
+
+#### Spaces/4-Archive
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/4-Archive/∑ Archives MOC\|∑ Archives MOC]]|June 27, 2025|July 06, 2025|
+
+#### Spaces/4-Archive/Dataviews
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/4-Archive/Dataviews/∑ 本库Dataview汇总\|∑ 本库Dataview汇总]]|November 12, 2022|June 27, 2025|
+
+#### Spaces/4-Archive/ingtube/交接/Archive/Project
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/4-Archive/ingtube/交接/Archive/Project/_ingtube 文件夹\|_ingtube 文件夹]]|April 04, 2025|June 08, 2025|
+
+#### Spaces/Private
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/Private/∑ Private MOC\|∑ Private MOC]]|June 27, 2025|June 27, 2025|
+
+#### Spaces/Published/已发布文章
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/Published/已发布文章/∑ 已发布文章\|∑ 已发布文章]]|January 04, 2023|June 08, 2025|
+
+#### Spaces/Published/文章草稿
+
+|Name1|Creation Date|Modification Date|
+|---|---|---|
+|[[Spaces/Published/文章草稿/∑ 文章草稿\|∑ 文章草稿]]|September 21, 2022|June 08, 2025|
 
 - [[§ This library's obsidian usage manual]] 

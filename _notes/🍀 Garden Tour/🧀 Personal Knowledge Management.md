@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2024-06-10'
 permalink: /🍀 Garden Tour/🧀 Personal Knowledge Management.md
 publish: true
-published: '2025-07-09T10:55:56.454+08:00'
+published: '2025-07-09T09:43:18.666+08:00'
 title: 🧀 Personal Knowledge Management
 ---
 up:: [[🍀 Garden Tour/🍀 Garden Tour]]

@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/How to embed an access statistics
   system in this library's digital garden.md
 publish: true
-published: '2025-07-09T10:56:23.450+08:00'
+published: '2025-07-09T09:50:33.944+08:00'
 title: How to embed an access statistics system in this library's digital garden
 ---
 The following 3 methods are all completely free for regular use. They are progressive, and the statistical information will be more comprehensive and accurate, but it also means that it will take more time to install and deploy.

@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/How to quickly enter various special
   symbols in macOS.md
 publish: true
-published: '2025-07-09T10:55:54.370+08:00'
+published: '2025-07-09T09:43:15.879+08:00'
 title: How to quickly enter various special symbols in macOS
 ---
 - You can see emoji and all special characters in bulk in "Edit - Emoji & Symbols" in the upper left corner. But it is very troublesome to input without shortcut keys.

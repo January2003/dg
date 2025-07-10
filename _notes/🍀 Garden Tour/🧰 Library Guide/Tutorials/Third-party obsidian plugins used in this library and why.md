@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/Third-party obsidian plugins used
   in this library and why.md
 publish: true
-published: '2025-07-09T10:56:03.426+08:00'
+published: '2025-07-09T09:47:01.131+08:00'
 title: Third-party obsidian plugins used in this library and why
 ---
 up:: [[∑ obsidian plugins]]

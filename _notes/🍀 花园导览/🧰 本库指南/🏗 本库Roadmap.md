@@ -1,10 +1,10 @@
 ---
 created: '2022-07-03'
 cssclasses: ''
-modified: '2025-07-09'
+modified: '2025-07-10'
 permalink: /🍀 花园导览/🧰 本库指南/🏗 本库Roadmap.md
 publish: true
-published: '2025-07-09T01:22:58.627+08:00'
+published: '2025-07-10T18:29:31.042+08:00'
 tags:
 - todo/本周
 title: 🏗 本库Roadmap
@@ -16,25 +16,22 @@ up:: [[🍀 花园导览/🍀 花园导览]]
 
 ## 🤔 PLANNED
 
-- 将开源仓库做成release的形式，commit写上有效的更新信息。
-	- 闭关2个星期，将之前挖的关于如何使用本库的坑都填上。
-- [[旧笔记如何迁移至obsidian等双链笔记]]
-- 目标：做一个面向有独立思考能力的大学生以及职场新人的开箱即用库，顺便找到同频者以及获得和优秀年轻人交流的机会。
-- 完成[[Spaces/2-Area/数字花园建设与维护/∑ Building a Second Brain 翻译和读书笔记]]，作为[[🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian如何做英文阅读笔记]]的实践探索
-- 将AI+Obsidian的心得笔记先发布出来。
-- 更新：将剪藏的文章和内容同步到obsidian，使用cursor让AI读取我的剪藏，从而更懂我。
+- 将库中的至少2000个文件发布出来。
 
 ## 🏹 DOING #todo/本周
 
-- 因为隐私过多，导致2年多没更新数字花园成为了数字荒冢，[[Calendar/Daily notes/2025/2025-07-09]]重新捡起来。
-- 把历史已发布过的笔记，通过[[publish_by_frontmatter.py]]脚本重新整理push到[[Sources/GithubStarsSync/knowledge-garden]]，同时，使用[[Cards/quartz syncer]]，更方便地实时更新[[📥 Inbox/garden.oldwiner.top]].
-- 通过1个月以上的实践，将[[Spaces/2-Area/知识管理/ACCESS 笔记组织法]]的工作流完善。
-	- 完成[[Spaces/2-Area/知识管理/常见笔记组织方法]]的[[Cards/混合笔记法]]，将ACCESS的使用流程固化下来。
+- 将AI+Obsidian的心得笔记先发布出来。
 - 考虑录制一个视频，讲解本库的设计哲学和使用方法。
 - 创建并同时维护[[英文版 knowledge garden]]。
+- 更新：将剪藏的文章和内容同步到obsidian，使用cursor让AI读取我的剪藏，从而更懂我。
 
 ## 🎉 DONE
 
+- [[📥 Inbox/旧笔记如何迁移至obsidian等双链笔记]]
+- 把历史已发布过的笔记，通过[[publish_by_frontmatter.py]]脚本重新整理push到[[Sources/GithubStarsSync/knowledge-garden]]，同时，使用[[Cards/quartz syncer]]，更方便地实时更新[[📥 Inbox/garden.oldwiner.top]].
+- 因为隐私过多，导致2年多没更新数字花园成为了数字荒冢，[[Calendar/Daily notes/2025/2025-07-09]]重新捡起来。
+- 通过1个月以上的实践，将[[Spaces/2-Area/知识管理/ACCESS 笔记组织法]]的工作流完善。
+	- 完成[[Spaces/2-Area/知识管理/常见笔记组织方法]]的[[Cards/混合笔记法]]，将ACCESS的使用流程固化下来。
 - 完成[[🍀 花园导览/🍀 花园导览]]模块，方便观众浏览已成熟的核心内容
 - 完成[[Sources/Courses/如何成为学习高手-高冷冷/§ 如何成为学习高手 - 高冷冷]]课程的学习笔记，作为[[🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian如何做短课程笔记]]的实践探索
 - 完成[[Spaces/Published/已发布文章/obsidian 目前最完美的免费发布方案 - 渐进式教程]]

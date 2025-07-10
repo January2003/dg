@@ -5,7 +5,7 @@ modified: '2024-11-22'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/This library's ACCESS folder structure
   and hybrid note-taking method.md
 publish: true
-published: '2025-07-09T10:56:17.010+08:00'
+published: '2025-07-09T09:49:26.845+08:00'
 title: This library's ACCESS folder structure and hybrid note-taking method
 ---
 x:: [[Hybrid Note-taking Method]]

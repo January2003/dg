@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/Recommended obsidian introductory
   route and resources for this library.md
 publish: true
-published: '2025-07-09T10:56:27.542+08:00'
+published: '2025-07-09T09:51:16.827+08:00'
 title: Recommended obsidian introductory route and resources for this library
 ---
 up:: [[🍀 Garden Tour/🧰 Library Guide/🧰 Library Usage Guide]]

@@ -1,10 +1,10 @@
 ---
 created: '2025-06-07T01:57:27.668+08:00'
 cssclasses: ''
-modified: '2025-07-09T23:23:43.963+08:00'
+modified: '2025-07-09T15:30:00.993+08:00'
 permalink: /Sources/AIGC/_AIGC Readme.md
 publish: true
-published: '2025-07-09T23:23:43.963+08:00'
+published: '2025-07-09T15:30:00.993+08:00'
 tags:
 - AI生成
 title: AIGC

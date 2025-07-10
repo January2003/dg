@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/» Emoji symbol record of this
   library's notes.md
 publish: true
-published: '2025-07-09T10:56:20.458+08:00'
+published: '2025-07-09T09:50:13.678+08:00'
 tags:
 - This library tutorial
 title: » Emoji symbol record of this library's notes

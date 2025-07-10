@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/Why open source notes.md
 publish: true
-published: '2025-07-09T10:56:04.902+08:00'
+published: '2025-07-09T09:47:14.133+08:00'
 title: Why open source notes
 ---
 ## Why open source notes

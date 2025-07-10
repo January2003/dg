@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/This library's workflow involving
   external app calls.md
 publish: true
-published: '2025-07-09T10:55:57.846+08:00'
+published: '2025-07-09T09:45:09.356+08:00'
 title: This library's workflow involving external app calls
 ---
 >[!INFO] Tip

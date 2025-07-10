@@ -9,8 +9,12 @@ tags:
 - dataview
 title: 本库ACCESS文件夹索引的索引
 ---
-```dataview
-TABLE tags
-FROM [[ACCESS 笔记组织法]] AND #dataview
-SORT file.name asc
-```
+| File                                                                     | tags                       |
+| ------------------------------------------------------------------------ | -------------------------- |
+| [[Spaces/4-Archive/Dataviews/Index for Atlas\|Index for Atlas]]       | <ul><li>dataview</li></ul> |
+| [[Spaces/4-Archive/Dataviews/Index for Calendar\|Index for Calendar]] | <ul><li>dataview</li></ul> |
+| [[Spaces/4-Archive/Dataviews/Index for Cards\|Index for Cards]]       | <ul><li>dataview</li></ul> |
+| [[Spaces/4-Archive/Dataviews/Index for Extras\|Index for Extras]]     | <ul><li>dataview</li></ul> |
+| [[Spaces/4-Archive/Dataviews/Index for Sources\|Index for Sources]]   | <ul><li>dataview</li></ul> |
+| [[Spaces/4-Archive/Dataviews/Index for Spaces\|Index for Spaces]]     | <ul><li>dataview</li></ul> |
+

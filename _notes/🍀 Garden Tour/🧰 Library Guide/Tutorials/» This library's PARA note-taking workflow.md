@@ -5,7 +5,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/» This library's PARA note-taking
   workflow.md
 publish: true
-published: '2025-07-09T10:56:06.534+08:00'
+published: '2025-07-09T09:47:22.081+08:00'
 tags:
 - This library tutorial
 title: » This library's PARA note-taking workflow

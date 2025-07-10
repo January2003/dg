@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-08'
 permalink: /README.md
 publish: true
-published: '2025-07-09T20:11:02.276+08:00'
+published: '2025-07-10T17:11:29.766+08:00'
 tags:
 - 本库教程
 title: README
@@ -17,11 +17,11 @@ title: README
 </p>
 
 > [!TIP] 重大更新💡  
-> 迎接AI时代，本库发布 v2.0 版本，包含了大量使用[[Spaces/1-Project/ChatGPT和LLM/ChatGPT]]、[[Spaces/1-Project/ChatGPT和LLM/Gemini\|Gemini]]、[[Spaces/1-Project/ChatGPT和LLM/DeepSeek]]等应用的笔记，请到 release 中下载。
+> 迎接AI时代，本库发布 v2.0 版本，包含了大量使用[[Spaces/1-Project/ChatGPT和LLM/ChatGPT\|ChatGPT]]、[[Spaces/1-Project/ChatGPT和LLM/Gemini\|Gemini]]、[[Spaces/1-Project/ChatGPT和LLM/DeepSeek]]等应用的笔记，请到 release 中下载。
 
 ## 这是什么
 
-- 双链笔记的 [[Cards/最佳实践]]。完整快照了我每天使用 [[Spaces/3-Resource/软件梳理/macos软件/Obsidian]] 写的笔记、用的插件和工作流。我将把 obsidian 从入门到精通的过程经验，渐进式地总结记录，也许你能跟我一起，从这个神器中发现更大的世界。
+- 双链笔记的 [[Cards/最佳实践]]。完整快照了我每天使用 [[Spaces/3-Resource/软件梳理/macos软件/Obsidian\|Obsidian]] 写的笔记、用的插件和工作流。我将把 obsidian 从入门到精通的过程经验，渐进式地总结记录，也许你能跟我一起，从这个神器中发现更大的世界。
 - 真实袒露的 [[Spaces/2-Area/知识管理/第二大脑]]。是个人每日 [[Cards/阅读、笔记与写作]] 的完整实时的过程与结果的全盘分享。90% 的笔记是写给自己的，是希望能为自己将来所用的 [[Sources/Articles/常青笔记阅读笔记/常青笔记]]。
 - 未经美化的 [[Spaces/2-Area/数字花园建设与维护/数字花园]]。避免为了正式发表而过度修葺美化文章，保留了最真实完备的细节。10% 的笔记是写给观众的，但愿能使得你有序漫步，避免陷入云深不知处。
 
@@ -43,7 +43,6 @@ title: README
 
 - 如果您想参与贡献，非常抱歉目前这是我的个人笔记库，可能暂时没法儿接受其他人的笔记合入。
 - 如果您有相关问题，或希望我加速填坑，请移步 [Github Discussions](https://github.com/oldwinter/knowledge-garden/discussions) 留言和讨论。我看到会尽快回复。
-- 如果您有钱且任性，想付费让我手把手协助你搭建个人知识库: cdd2zju@gmail.com。
 
 ## Star History
 

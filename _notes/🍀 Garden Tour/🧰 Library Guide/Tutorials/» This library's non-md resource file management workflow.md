@@ -6,7 +6,7 @@ modified: '2023-03-14'
 permalink: /🍀 Garden Tour/🧰 Library Guide/Tutorials/» This library's non-md resource
   file management workflow.md
 publish: true
-published: '2025-07-09T10:56:29.886+08:00'
+published: '2025-07-09T09:51:37.269+08:00'
 tags:
 - AI-generated
 - workflow

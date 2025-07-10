@@ -4,9 +4,10 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /Atlas/Bases/_ About Bases.md
 publish: true
-published: '2025-07-09T15:03:59.715+08:00'
+published: '2025-07-10T15:24:36.963+08:00'
 tags:
 - 本库教程
+- workflow
 title: About DB folders
 ---
 相比于dataview，可以批量编辑，具备更好的灵活度。且性能非常强，再也不会像dataview一样，偶尔打开某个页面直接卡死，被硬控10秒。
