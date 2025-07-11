@@ -117,7 +117,7 @@ All MOC files in PARA under Spaces
 
 |Name3|Creation Date|Modification Date|
 |---|---|---|
-|[[Spaces/1-Project/求职/∑ 个人简历\|∑ 个人简历]]|April 04, 2025|July 08, 2025|
+|[[Spaces/1-Project/求职/∑ 个人简历\|∑ 个人简历]]|April 04, 2025|July 11, 2025|
 |[[Spaces/1-Project/求职/∑ 个人简历-优化版\|∑ 个人简历-优化版]]|July 04, 2025|July 10, 2025|
 |[[Spaces/1-Project/求职/Kubernetes\|Kubernetes]]|December 11, 2022|July 03, 2025|
 
@@ -160,7 +160,7 @@ All MOC files in PARA under Spaces
 
 |Name3|Creation Date|Modification Date|
 |---|---|---|
-|[[Spaces/2-Area/思维工具与模块/_ 思维工具与模块\|_ 思维工具与模块]]|June 27, 2025|July 06, 2025|
+|[[Spaces/2-Area/思维工具与模块/_ 思维工具与模块\|_ 思维工具与模块]]|June 27, 2025|July 11, 2025|
 |[[Spaces/2-Area/思维工具与模块/∑ 常见思维工具\|∑ 常见思维工具]]|April 04, 2025|June 25, 2025|
 |[[Spaces/2-Area/思维工具与模块/∑ 查理·芒格论人类误判心理学\|∑ 查理·芒格论人类误判心理学]]|July 06, 2025|July 06, 2025|
 
@@ -215,7 +215,7 @@ All MOC files in PARA under Spaces
 
 |Name1|Creation Date|Modification Date|
 |---|---|---|
-|[[Spaces/3-Resource/软件梳理/macos软件/∑ linux常用命令行\|∑ linux常用命令行]]|September 30, 2022|June 27, 2025|
+|[[Spaces/3-Resource/软件梳理/macos软件/∑ linux常用命令行\|∑ linux常用命令行]]|September 30, 2022|July 11, 2025|
 
 #### Spaces/4-Archive
 

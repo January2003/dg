@@ -1,0 +1,11 @@
+---
+created: '2025-04-04T01:13:36.961+08:00'
+cssclasses: ''
+modified: '2025-07-11T15:31:31.477+08:00'
+permalink: /Cards/perplexity.ai的工作机制背后原理.md
+publish: true
+published: '2025-07-11T15:31:31.477+08:00'
+title: perplexity.ai的工作机制背后原理
+---
+[Perplexity：用答案引擎挑战Google | 万字长文]
+(https://mp.weixin.qq.com/s?__biz=MjM5ODU1MzQzOQ==&mid=2451423296&idx=1&sn=0abcbc839d6d015187ae54b2356460aa&chksm=b121927086561b66223f1b9af34c0707bbb217303bf9fbe7a7b9306bc3c164c25466b2338a85&scene=21#wechat_redirect)
