@@ -1,17 +1,16 @@
 ---
-date created: 2025-04-24
-date modified: 2025-05-15
-model: gpt-4o
+created: '2025-04-24'
+cssclasses: ''
+modified: '2025-05-15'
+permalink: /Extras/Prompts/∑ MOC - prompts 提示词管理.md
 publish: true
-reasoning effort: '0'
+published: '2025-07-12T16:52:42.291+08:00'
 tags:
 - marketing
 - summary
 - 中文
 - prompts
-temperature: 0.7
 title: 社交媒体摘要
-updated: 2025-04-23
 ---
 提示词模板：[[Extras/Templates/prompts template - 提示词模板]]
 

@@ -14,14 +14,7 @@ title: ∑ 2-Area
 
 ## 2025-06-27 cursor整理
 
----
-date created: 2025-06-27
-date modified: 2025-06-27
-PARA: Areas
-tags:
-  - moc
-publish: true
----
+
 
 ### 运动健康
 
