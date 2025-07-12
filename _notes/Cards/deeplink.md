@@ -1,10 +1,7 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /Cards/deeplink.md
+date created: 2022-06-09
+date modified: 2023-03-14
 publish: true
-published: '2025-07-09T18:44:32.702+08:00'
 title: deeplink
 ---
 x:: [[Cards/URL scheme]]

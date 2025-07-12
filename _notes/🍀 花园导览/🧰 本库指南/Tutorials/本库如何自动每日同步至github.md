@@ -1,10 +1,7 @@
 ---
-created: '2022-08-25'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Tutorials/本库如何自动每日同步至github.md
+date created: 2022-08-25
+date modified: 2023-03-14
 publish: true
-published: '2025-07-10T21:53:00.553+08:00'
 title: 本库如何自动每日同步至github
 ---
 [[🍀 花园导览/🧰 本库指南/Tutorials/本库如何指定笔记同步至github]]

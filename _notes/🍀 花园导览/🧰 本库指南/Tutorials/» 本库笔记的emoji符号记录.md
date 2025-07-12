@@ -1,12 +1,10 @@
 ---
-created: '2022-08-05'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Tutorials/» 本库笔记的emoji符号记录.md
+date created: 2022-08-05
+date modified: 2023-03-14
 publish: true
-published: '2025-07-07T19:02:16.590+08:00'
 tags:
 - 本库教程
+- workflow
 title: » 本库笔记的emoji符号记录
 ---
 ## 为什么要给文件名引入emoji

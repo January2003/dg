@@ -1,10 +1,7 @@
 ---
-created: '2025-06-05'
-cssclasses: ''
-modified: '2025-06-05'
-permalink: /Extras/Prompts/使用CFF法则优化夸人语句.md
+date created: 2025-06-05
+date modified: 2025-06-05
 publish: true
-published: '2025-07-11T16:00:42.912+08:00'
 tags:
 - Prompt
 title: 使用CFF法则优化夸人语句

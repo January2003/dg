@@ -1,11 +1,11 @@
 ---
-aliases: Copilot 插件
-created: '2024-05-11'
-cssclasses: ''
-modified: '2025-07-10'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Copilot.md
+aliases:
+- Copilot 插件
+date created: 2024-05-11
+date modified: 2025-07-10
 publish: true
-published: '2025-07-10T21:33:38.977+08:00'
+rating: 4
+status: null
 tags:
 - obsidian插件
 title: Copilot

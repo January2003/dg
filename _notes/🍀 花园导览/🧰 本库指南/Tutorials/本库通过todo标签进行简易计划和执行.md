@@ -1,10 +1,7 @@
 ---
-created: '2022-08-04'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Tutorials/本库通过todo标签进行简易计划和执行.md
+date created: 2022-08-04
+date modified: 2023-03-14
 publish: true
-published: '2025-07-07T19:02:16.602+08:00'
 tags:
 - todo/某天
 - todo/now

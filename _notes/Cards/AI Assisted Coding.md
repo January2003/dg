@@ -1,10 +1,7 @@
 ---
-created: '2025-04-25'
-cssclasses: ''
-modified: '2025-04-25'
-permalink: /Cards/AI Assisted Coding.md
+date created: 2025-04-25
+date modified: 2025-04-25
 publish: true
-published: '2025-07-11T15:32:08.377+08:00'
 title: AI Assisted Coding
 ---
 依旧from[[Cards/Andrej Karpathy]]

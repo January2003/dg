@@ -1,11 +1,11 @@
 ---
-created: '2024-03-20'
-cssclasses: ''
-modified: '2024-09-13'
-permalink: /Cards/nvm.md
+date created: 2024-03-20
+date modified: 2024-09-13
 publish: true
-published: '2025-07-10T22:00:23.621+08:00'
 title: nvm
+相关笔记:
+- '[[Cards/jenv]]'
+- '[[Cards/vfox]]'
 ---
 ## 安装
 

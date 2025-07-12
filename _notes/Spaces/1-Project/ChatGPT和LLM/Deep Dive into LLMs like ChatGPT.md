@@ -1,10 +1,9 @@
 ---
-created: '2025-04-03'
-cssclasses: ''
-modified: '2025-04-09'
-permalink: /Spaces/1-Project/ChatGPT和LLM/Deep Dive into LLMs like ChatGPT.md
+author:
+- '[[Cards/Andrej Karpathy]]'
+date created: 2025-04-03
+date modified: 2025-04-09
 publish: true
-published: '2025-07-10T22:37:04.910+08:00'
 tags:
 - youtube长视频
 title: Deep Dive into LLMs like ChatGPT

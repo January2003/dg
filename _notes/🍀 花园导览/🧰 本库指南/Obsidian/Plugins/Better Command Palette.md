@@ -1,10 +1,9 @@
 ---
-created: '2024-05-11'
-cssclasses: ''
-modified: '2025-07-10'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Better Command Palette.md
+date created: 2024-05-11
+date modified: 2025-07-10
 publish: true
-published: '2025-07-10T20:54:48.489+08:00'
+rating: 4
+status: null
 tags:
 - obsidian插件
 title: Better Command Palette

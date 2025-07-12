@@ -1,10 +1,9 @@
 ---
-created: '2024-05-11'
-cssclasses: ''
-modified: '2025-05-31'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Quick Switcher++.md
+date created: 2024-05-11
+date modified: 2025-05-31
 publish: true
-published: '2025-07-10T20:55:06.713+08:00'
+rating: 7
+status: null
 tags:
 - obsidian插件
 title: Quick Switcher++

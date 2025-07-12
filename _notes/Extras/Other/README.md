@@ -1,10 +1,5 @@
 ---
-created: '2025-06-16T03:07:23.851+08:00'
-cssclasses: ''
-modified: '2025-07-08T21:54:40.873+08:00'
-permalink: /Extras/Other/README.md
 publish: true
-published: '2025-07-08T21:54:40.873+08:00'
 title: README
 ---
 # Extras/Other 工具脚本说明

@@ -1,17 +1,16 @@
 ---
-created: '2025-06-06'
-cssclasses: ''
-modified: '2025-07-10'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Diagram Zoom Drag.md
+date created: 2025-06-06
+date modified: 2025-07-10
 publish: true
-published: '2025-07-10T21:07:12.098+08:00'
+rating: 5
+status: null
 tags:
 - obsidian插件
 title: Diagram Zoom Drag
 ---
 给自带的[[Cards/mermaid]]加上方便查看的按钮，以及给其他几个常用图形工具也加上查看按钮。
 
-让ai频繁地生成mermaid的话，还是非常有用的。比如[[📥 Inbox/让cursor把各种流程用mermaid画一遍]]中花的各种流程图，用原生ob自带的，压根儿看不了。
+让ai频繁地生成mermaid的话，还是非常有用的。比如[[Spaces/1-Project/ChatGPT和LLM/让cursor把各种流程用mermaid画一遍]]中花的各种流程图，用原生ob自带的，压根儿看不了。
 
 ##
 

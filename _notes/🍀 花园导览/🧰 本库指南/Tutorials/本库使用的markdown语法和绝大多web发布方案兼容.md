@@ -1,10 +1,7 @@
 ---
-created: '2022-08-24'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Tutorials/本库使用的markdown语法和绝大多web发布方案兼容.md
+date created: 2022-08-24
+date modified: 2023-03-14
 publish: true
-published: '2025-07-07T17:10:23.992+08:00'
 title: 本库使用的markdown语法和绝大多web发布方案兼容
 ---
 [[🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian 让我爱不释手的功能和细节]]中提到，obsidian对markdown的定制化改动是最少的，相比于其他笔记软件。所以你也许在很多地方也看到类似的结论，众多笔记软件中，obsidian用于写长文或博客是最佳的，正是这个原因。

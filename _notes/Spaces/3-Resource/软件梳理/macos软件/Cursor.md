@@ -1,25 +1,29 @@
 ---
-created: '2023-12-02'
-cssclasses: ''
-modified: '2024-11-21'
-permalink: /Spaces/3-Resource/软件梳理/macos软件/Cursor.md
+brew安装命令: brew install --cask cursor
+date created: 2023-12-02
+date modified: 2024-11-21
+icon: '[[icon-cc-image-Cursor.png]]'
 publish: true
-published: '2025-07-09T18:55:32.740+08:00'
 tags:
 - windows软件
 - macOS软件
 - AI产品/编程
 - raycast插件
 title: Cursor
+当前使用频率: 5
+当前是否还在使用: true
+订阅费用（年）: 750 元
+设置同步: 插件通过vscode 中转，其他手动同步。
+评价: 7
 ---
-[[Cards/cursor 使用技巧总结]]
-[[Cards/cursor和idea比如goland之间互相跳转]]
+[[Spaces/1-Project/Cursor/cursor 使用技巧总结]]
+[[Spaces/1-Project/Cursor/cursor和idea比如goland之间互相跳转]]
 
-[[Cards/cursor开发ios 项目]]
+[[Spaces/1-Project/Cursor/cursor开发ios 项目]]
 
-[[Cards/cursor账号清单]]
+[[Spaces/3-Resource/账号密码/cursor账号清单]]
 
-[[Cards/cursor-auto 试用]]
+[[Spaces/1-Project/Cursor/cursor-auto 试用]]
 ## 默认快捷键配置
 
 向前向后改成 cmd + `[`

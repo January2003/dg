@@ -1,13 +1,14 @@
 ---
-created: '2024-10-22'
-cssclasses: ''
-modified: '2024-10-23'
-permalink: /Spaces/3-Resource/软件梳理/macos软件/Karabiner-Elements.md
+brew安装命令: brew install --cask karabiner-elements
+date created: 2024-10-22
+date modified: 2024-10-23
+icon: '[[icon-cc-image-Karabiner-Elements.png]]'
 publish: true
-published: '2025-07-10T22:41:20.680+08:00'
 tags:
 - macOS软件
 title: Karabiner-Elements
+当前使用频率: 5
+评价: 4
 ---
 ## 配置备份
 
@@ -15,7 +16,7 @@ title: Karabiner-Elements
 ![[karabiner.json]]
 ##
 
-类似的 [[Cards/hyperKey]] 虽然简单，但是有点 bug。倒不如使用这个最流行且大而全的改键软件。
+类似的 [[Spaces/3-Resource/个人成长/hyperKey]] 虽然简单，但是有点 bug。倒不如使用这个最流行且大而全的改键软件。
 
 ## 相关开源规则
 

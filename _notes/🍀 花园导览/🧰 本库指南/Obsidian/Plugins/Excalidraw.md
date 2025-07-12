@@ -1,10 +1,9 @@
 ---
-created: '2023-01-23'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Excalidraw.md
+date created: 2023-01-23
+date modified: 2023-03-14
 publish: true
-published: '2025-07-10T22:36:52.721+08:00'
+rating: 5
+status: null
 tags:
 - obsidian插件
 title: Excalidraw

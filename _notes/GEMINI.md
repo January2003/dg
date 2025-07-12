@@ -1,10 +1,7 @@
 ---
-created: '2025-07-06'
-cssclasses: ''
-modified: '2025-07-06'
-permalink: /GEMINI.md
+date created: 2025-07-06
+date modified: 2025-07-06
 publish: true
-published: '2025-07-08T20:59:23.931+08:00'
 title: GEMINI
 ---
 # GEMINI.md

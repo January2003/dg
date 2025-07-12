@@ -1,10 +1,7 @@
 ---
-created: '2022-08-07'
-cssclasses: ''
-modified: '2024-11-22'
-permalink: /🍀 花园导览/🧰 本库指南/Tutorials/本库ACCESS文件夹结构与混合笔记法.md
+date created: 2022-08-07
+date modified: 2024-11-22
 publish: true
-published: '2025-07-07T17:10:23.996+08:00'
 title: 本库ACCESS文件夹结构与混合笔记法
 ---
 x:: [[Cards/混合笔记法]]

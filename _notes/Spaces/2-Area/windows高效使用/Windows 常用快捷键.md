@@ -1,10 +1,5 @@
 ---
-created: '2023-12-15T14:00:29.577+08:00'
-cssclasses: ''
-modified: '2025-07-10T22:38:28.695+08:00'
-permalink: /Spaces/2-Area/windows高效使用/Windows 常用快捷键.md
 publish: true
-published: '2025-07-10T22:38:28.695+08:00'
 title: Windows 常用快捷键
 ---
 [[Spaces/2-Area/macos高效使用/MacOS 常用快捷键]]

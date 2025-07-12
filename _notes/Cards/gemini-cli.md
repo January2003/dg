@@ -1,10 +1,7 @@
 ---
-created: '2025-06-25'
-cssclasses: ''
-modified: '2025-07-10'
-permalink: /Cards/gemini-cli.md
+date created: 2025-06-25
+date modified: 2025-07-10
 publish: true
-published: '2025-07-11T15:11:47.195+08:00'
 tags:
 - AI工具
 title: gemini-cli

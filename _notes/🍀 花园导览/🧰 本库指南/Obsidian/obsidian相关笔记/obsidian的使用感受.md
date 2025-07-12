@@ -1,10 +1,7 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian的使用感受.md
+date created: 2022-06-09
+date modified: 2023-03-14
 publish: true
-published: '2025-07-09T15:48:22.320+08:00'
 title: obsidian的使用感受
 ---
 ## 别人眼中的 obsidian
@@ -15,7 +12,7 @@ title: obsidian的使用感受
 
 ### 写作之难
 
-[[Cards/Properties Added/写作之难，在于将网状的思想，通过树状的句法，用线性的文字展开。——史蒂芬·平克]]
+[[Spaces/3-Resource/有意思的语言/名言/写作之难，在于将网状的思想，通过树状的句法，用线性的文字展开。——史蒂芬·平克]]
 
 引申思考：阅读和学习，是从线性读字，树状总结，网状思考。写作反之，网状思维，树状归纳，线性写字。
 
@@ -33,7 +30,7 @@ title: obsidian的使用感受
 
 - 随时引用。随时随地双链，有种码代码的畅快感，能随时引用到曾经写过思考过的东西，很爽。这种爽感，倒逼出了创作激情。
 - [[Cards/context 切换]]极快。基础文件都是markdown，完全本地化，从而换文件阅读或编辑（[[Cards/context 切换]]）的速度极快，不像其他笔记软件，换个页面转圈圈等 3 秒，简直无法忍。notion，语雀别看了，说的就是你。
-- [[Cards/∑ 平台＋插件]]玩法，和 chrome 与 vscode 类似，入门简单，开箱即用，又不失可玩性，且玩法上限极高，甚至无边界。
+- [[Spaces/3-Resource/软件梳理/平台＋插件]]玩法，和 chrome 与 vscode 类似，入门简单，开箱即用，又不失可玩性，且玩法上限极高，甚至无边界。
 
 ### 使用初衷
 

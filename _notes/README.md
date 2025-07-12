@@ -1,10 +1,10 @@
 ---
 created: '2022-08-06'
 cssclasses: ''
-modified: '2025-07-08'
+modified: '2025-07-12'
 permalink: /README.md
 publish: true
-published: '2025-07-10T17:11:29.766+08:00'
+published: '2025-07-12T03:27:52.452+08:00'
 tags:
 - 本库教程
 title: README
@@ -17,7 +17,7 @@ title: README
 </p>
 
 > [!TIP] 重大更新💡  
-> 迎接AI时代，本库发布 v2.0 版本，包含了大量使用[[Spaces/1-Project/ChatGPT和LLM/ChatGPT\|ChatGPT]]、[[Spaces/1-Project/ChatGPT和LLM/Gemini\|Gemini]]、[[Spaces/1-Project/ChatGPT和LLM/DeepSeek]]等应用的笔记，请到 release 中下载。
+> 迎接AI时代，本库发布 v2.0 版本，包含了大量使用[[Spaces/1-Project/ChatGPT和LLM/ChatGPT\|ChatGPT]]、[[Spaces/1-Project/ChatGPT和LLM/Gemini App\|Gemini]]、[[Spaces/1-Project/ChatGPT和LLM/DeepSeek]]等应用的笔记，请到 release 中下载。
 
 ## 这是什么
 
@@ -51,5 +51,7 @@ title: README
 ## 赞助
 
 [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
+---
 
 [^3]: VS Code 需额外安装 foam 插件后，便支持 [[Cards/双链笔记]] 的 [[Cards/wikilink]] 语法。

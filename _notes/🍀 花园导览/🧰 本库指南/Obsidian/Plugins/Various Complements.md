@@ -1,10 +1,9 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
-modified: '2025-06-06'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Various Complements.md
+date created: 2022-06-09
+date modified: 2025-06-06
 publish: true
-published: '2025-07-10T21:33:50.482+08:00'
+rating: 6
+status: null
 tags:
 - obsidian插件
 title: Various Complements
@@ -21,4 +20,4 @@ title: Various Complements
 	- 比如输入 “co-” 即会提示callouts 相关的所有自定义好的语法格式，不用在中文输入的时候考虑各切换。
 	- 词典的自定义和使用标准参见[[Cards/phases、snippets与templates]]。
 
-[[Cards/Various Complements插件各项配置探索]]
+[[🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/Various Complements插件各项配置探索]]

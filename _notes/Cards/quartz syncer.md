@@ -1,14 +1,12 @@
 ---
-created: '2025-07-07'
-cssclasses: ''
-modified: '2025-07-09'
-permalink: /Cards/quartz syncer.md
+date created: 2025-07-07
+date modified: 2025-07-09
 publish: true
-published: '2025-07-10T21:51:01.649+08:00'
+rating: 6
 tags:
 - obsidian插件
 title: quartz syncer
 ---
 ## token
 
-[[📥 Inbox/quartz syncer token]]
+[[Spaces/3-Resource/账号密码/quartz syncer token]]

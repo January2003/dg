@@ -1,13 +1,15 @@
 ---
 created: '2023-02-28'
 cssclasses: ''
+description: Visual Studio Code
 modified: '2024-07-11'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/VSCode.md
 publish: true
-published: '2025-07-09T18:55:51.979+08:00'
+published: '2025-07-12T03:27:36.502+08:00'
 tags:
 - macOS软件
 - windows软件
+- github开源
 title: VSCode
 ---
 down:: [[Spaces/3-Resource/VSCode插件/∑ VSCode插件]]

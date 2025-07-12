@@ -1,11 +1,10 @@
 ---
-aliases: frontdata properties
-created: '2022-06-09'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /Cards/frontmatter.md
+aliases:
+- frontdata
+- properties
+date created: 2022-06-09
+date modified: 2023-03-14
 publish: true
-published: '2025-07-10T22:22:11.441+08:00'
 title: frontmatter
 ---
 x:: [[Cards/inline fields]], [[Cards/metadata]]

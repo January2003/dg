@@ -1,10 +1,7 @@
 ---
-created: '2023-12-06'
-cssclasses: ''
-modified: '2024-11-05'
-permalink: /Cards/pyenv.md
+date created: 2023-12-06
+date modified: 2024-11-05
 publish: true
-published: '2025-07-10T22:00:20.087+08:00'
 title: pyenv
 ---
 ## 安装命令

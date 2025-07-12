@@ -1,16 +1,15 @@
 ---
-created: '2022-08-07'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Tutorials/» 本库tutorial编写工作流.md
+date created: 2022-08-07
+date modified: 2023-03-14
 publish: true
-published: '2025-07-07T17:10:23.950+08:00'
+tags:
+- workflow
 title: » 本库tutorial编写工作流
 ---
 提问：
 
 - 这条说明面向什么段位的读者，给读者带来什么？
-- 我是要[[Cards/Properties Added/🪞授人以鱼不如授人以渔\|授人以鱼还是授人以渔]]？
+- 我是要[[Spaces/3-Resource/有意思的语言/俗语/🪞授人以鱼不如授人以渔\|授人以鱼还是授人以渔]]？
 - 我自己是真的有实际地这么使用吗，会不会误人子弟？
 
 步骤：

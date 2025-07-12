@@ -1,11 +1,9 @@
 ---
-aliases: lyt kit
-created: '2022-06-19'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /Spaces/2-Area/数字花园建设与维护/LYT 笔记框架.md
+aliases:
+- lyt kit
+date created: 2022-06-19
+date modified: 2023-03-14
 publish: true
-published: '2025-07-09T14:30:14.370+08:00'
 title: LYT 笔记框架
 ---
 down:: [[Spaces/2-Area/知识管理/ACCESS 笔记组织法]]

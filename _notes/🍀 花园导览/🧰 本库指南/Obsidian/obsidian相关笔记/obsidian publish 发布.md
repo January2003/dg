@@ -1,10 +1,7 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian publish 发布.md
+date created: 2022-06-09
+date modified: 2023-03-14
 publish: true
-published: '2025-07-07T17:10:24.350+08:00'
 tags:
 - todo/某天
 title: obsidian publish 发布

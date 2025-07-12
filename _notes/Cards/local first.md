@@ -1,11 +1,9 @@
 ---
-aliases: 本地优先
-created: '2022-08-01'
-cssclasses: ''
-modified: '2025-07-09'
-permalink: /Cards/local first.md
+aliases:
+- 本地优先
+date created: 2022-08-01
+date modified: 2025-07-09
 publish: true
-published: '2025-07-10T22:02:48.300+08:00'
 title: local first
 ---
 x:: [[Cards/本地优先的特点]]

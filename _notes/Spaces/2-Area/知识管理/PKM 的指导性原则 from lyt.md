@@ -1,10 +1,7 @@
 ---
-created: '2022-06-19'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /Spaces/2-Area/知识管理/PKM 的指导性原则 from lyt.md
+date created: 2022-06-19
+date modified: 2023-03-14
 publish: true
-published: '2025-07-10T22:45:27.214+08:00'
 title: PKM 的指导性原则 from lyt
 ---
 ## PKM 的指导性原则 from lyt

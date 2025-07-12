@@ -1,10 +1,9 @@
 ---
-created: '2024-11-18'
-cssclasses: ''
-modified: '2024-11-18'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Image Toolkit.md
+date created: 2024-11-18
+date modified: 2024-11-18
 publish: true
-published: '2025-07-10T20:52:40.497+08:00'
+rating: 4
+status: null
 tags:
 - obsidian插件
 title: Image Toolkit

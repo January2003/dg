@@ -4,14 +4,24 @@ cssclasses: ''
 modified: '2025-06-27'
 permalink: /Spaces/2-Area/∑ 2-Area.md
 publish: true
-published: '2025-07-08T22:00:14.631+08:00'
+published: '2025-07-11T18:57:12.719+08:00'
 tags:
 - moc
 title: ∑ 2-Area
 ---
+![[A.Obsidian-ABCDE预制仓库模版 7.3(阿泽小朋友更新).zip]]
+
+
 ## 2025-06-27 cursor整理
 
-
+---
+date created: 2025-06-27
+date modified: 2025-06-27
+PARA: Areas
+tags:
+  - moc
+publish: true
+---
 
 ### 运动健康
 
@@ -93,7 +103,13 @@ title: ∑ 2-Area
 ---
 
 
-
+---
+date created: 2025-06-27
+date modified: 2025-06-27
+tags:
+  - AI生成
+  - moc
+---
 
 ### 云服务和部署
 
@@ -137,7 +153,13 @@ title: ∑ 2-Area
 ---
 
 
-
+---
+date created: 2025-06-27
+date modified: 2025-06-27
+tags:
+  - AI生成
+  - moc
+---
 
 ### macos高效使用
 
@@ -223,7 +245,13 @@ title: ∑ 2-Area
 ---
 
 
-
+---
+date created: 2025-06-27
+date modified: 2025-06-27
+tags:
+  - AI生成
+  - moc
+---
 
 ### 数字花园建设与维护
 
@@ -264,7 +292,13 @@ title: ∑ 2-Area
 ---
 
 
-
+---
+date created: 2025-06-27
+date modified: 2025-06-27
+tags:
+  - AI生成
+  - moc
+---
 
 ### 思维工具与模块
 
@@ -297,7 +331,7 @@ title: ∑ 2-Area
 - [[Spaces/2-Area/思维工具与模块/模板与套路]]
 - [[Spaces/2-Area/思维工具与模块/自带方法论的工具]]
 - [[Spaces/2-Area/思维工具与模块/模型选择思路]]
-- [[Spaces/2-Area/思维工具与模块/模型使用时间占比毛估估]]
+- [[Spaces/2-Area/思维工具与模块/模型使用时间占比毛估估-每月更新]]
 
 ---
 
@@ -312,6 +346,6 @@ title: ∑ 2-Area
 ## 2024 关注的领域
 
 - [[Cards/AIGC]]
-- [[Spaces/2-Area/∑ PKM]]
+- [[Spaces/2-Area/知识管理/∑ PKM]]
 - [[Cards/效率工具与服务专题]]
 - [[Spaces/2-Area/运动健康/∑ 运动与健康]]

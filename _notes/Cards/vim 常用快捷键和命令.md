@@ -1,10 +1,7 @@
 ---
-created: '2022-06-15'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /Cards/vim 常用快捷键和命令.md
+date created: 2022-06-15
+date modified: 2023-03-14
 publish: true
-published: '2025-07-10T22:43:02.303+08:00'
 title: vi常用快捷键
 ---
 [[Cards/shell 和 terminal中zsh编辑快捷键]]

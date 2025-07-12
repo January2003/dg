@@ -1,10 +1,7 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /Cards/Text expand.md
+date created: 2022-06-09
+date modified: 2023-03-14
 publish: true
-published: '2025-07-10T22:46:50.494+08:00'
 tags:
 - obsidian插件
 title: Text expand

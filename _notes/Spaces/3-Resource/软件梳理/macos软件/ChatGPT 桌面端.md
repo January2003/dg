@@ -1,15 +1,18 @@
 ---
-aliases: chatGPT MacOS or Windows 桌面端
-created: '2023-07-06'
-cssclasses: ''
-modified: '2025-07-11'
-permalink: /Spaces/3-Resource/软件梳理/macos软件/ChatGPT 桌面端.md
+aliases:
+- chatGPT MacOS or Windows 桌面端
+brew安装命令: brew install --cask chatgpt
+date created: 2023-07-06
+date modified: 2025-07-11
+icon: '[[icon-cc-image-ChatGPT桌面端.png]]'
 publish: true
-published: '2025-07-11T15:11:22.784+08:00'
 tags:
 - macOS软件
 - windows软件
 title: ChatGPT 桌面端
+是否已重装: true
+设置同步: 官方账号
+评价: 5
 ---
 优势：
 

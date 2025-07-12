@@ -1,10 +1,7 @@
 ---
-created: '2024-10-08'
-cssclasses: ''
-modified: '2024-10-22'
-permalink: /Spaces/2-Area/macos高效使用/MacOS F区功能键快捷键分配.md
+date created: 2024-10-08
+date modified: 2024-10-22
 publish: true
-published: '2025-07-10T22:42:53.598+08:00'
 title: MacOS F区功能键快捷键分配
 ---
 [[Spaces/2-Area/windows高效使用/Windows F区功能键快捷键分配]]

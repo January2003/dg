@@ -1,10 +1,7 @@
 ---
-created: '2023-02-27'
-cssclasses: ''
-modified: '2024-08-09'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian canvas当前的致命缺陷.md
+date created: 2023-02-27
+date modified: 2024-08-09
 publish: true
-published: '2025-07-10T22:05:10.573+08:00'
 title: obsidian canvas当前的致命缺陷
 ---
 - canvas中引用的卡片，打开后，其反向链接面板无数据。

@@ -1,10 +1,7 @@
 ---
-created: '2022-08-09'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Tutorials/本库启用的obsidian核心插件及原因.md
+date created: 2022-08-09
+date modified: 2023-03-14
 publish: true
-published: '2025-07-10T22:21:54.700+08:00'
 title: 本库启用的obsidian核心插件及原因
 ---
 ## 启用

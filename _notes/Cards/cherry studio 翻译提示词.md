@@ -1,10 +1,7 @@
 ---
-created: '2025-05-06'
-cssclasses: ''
-modified: '2025-05-06'
-permalink: /Cards/cherry studio 翻译提示词.md
+date created: 2025-05-06
+date modified: 2025-05-06
 publish: true
-published: '2025-07-11T15:56:01.427+08:00'
 title: cherry studio 翻译提示词
 ---
 x: [[Cards/bob 翻译提示词]]

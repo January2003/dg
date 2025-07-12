@@ -1,10 +1,7 @@
 ---
-created: '2022-07-06'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian如何做英文阅读笔记.md
+date created: 2022-07-06
+date modified: 2023-03-14
 publish: true
-published: '2025-07-07T19:02:16.546+08:00'
 tags:
 - todo
 title: obsidian如何做英文阅读笔记

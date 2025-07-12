@@ -1,10 +1,7 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
-modified: '2024-07-26'
-permalink: /Spaces/3-Resource/软件梳理/macos软件/∑ linux常用命令行.md
+date created: 2022-06-09
+date modified: 2024-07-26
 publish: true
-published: '2025-07-11T16:16:18.199+08:00'
 tags:
 - moc
 title: ∑ linux常用命令行
@@ -19,7 +16,7 @@ title: ∑ linux常用命令行
 	- [[Spaces/3-Resource/软件梳理/linux常用命令/fzf]]
 		- [[Spaces/3-Resource/软件梳理/linux常用命令/rg]]
 	- [[Spaces/3-Resource/软件梳理/linux常用命令/thefuck]]
-	- [[Spaces/3-Resource/软件梳理/linux常用命令/TL;DR]]
+	- [[Spaces/3-Resource/有意思的语言/网络用语/TL;DR]]
 	- [[tree]]
 	- [[Spaces/3-Resource/软件梳理/linux常用命令/powershell]]
 - 第三方

@@ -1,11 +1,9 @@
 ---
-aliases: tool-version
-created: '2024-07-29'
-cssclasses: ''
-modified: '2024-07-29'
-permalink: /Cards/vfox.md
+aliases:
+- tool-version
+date created: 2024-07-29
+date modified: 2024-07-29
 publish: true
-published: '2025-07-10T22:00:53.651+08:00'
 tags:
 - linux命令
 title: vfox

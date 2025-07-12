@@ -1,14 +1,17 @@
 ---
-created: '2025-04-03'
-cssclasses: ''
-modified: '2025-05-21'
-permalink: /Spaces/3-Resource/软件梳理/macos软件/CleanShot X.md
+brew安装命令: 用破解版
+date created: 2025-04-03
+date modified: 2025-05-21
+icon: '[[icon-cc-image-CleanShotX.jpg]]'
 publish: true
-published: '2025-07-10T22:41:52.700+08:00'
 tags:
 - macOS软件
 - 截图工具
 title: CleanShot X
+是否已重装: true
+是否有破解版: true
+设置同步: ？？？
+评价: 6
 ---
 使用技巧：
 

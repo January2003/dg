@@ -1,10 +1,8 @@
 ---
-created: '2025-03-16'
-cssclasses: ''
-modified: '2025-06-12'
-permalink: /Cards/vibe coding.md
+date created: 2025-03-16
+date modified: 2025-06-12
 publish: true
-published: '2025-07-11T15:32:12.990+08:00'
+tags: []
 title: vibe coding
 ---
 ## 资深软件工程师的用法

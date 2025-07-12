@@ -1,17 +1,16 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Templater.md
+date created: 2022-06-09
+date modified: 2023-03-14
 publish: true
-published: '2025-07-10T22:03:51.607+08:00'
+rating: 6
+status: null
 tags:
 - obsidian插件
 title: Templater
 ---
 当我以为它只是用来插入模版的时候，我对它的评价是不高的。
 
-但是知道它可以动态hook一个js脚本，从而自动化做一些事情，就变成神器了。[[📥 Inbox/如何快速一键添加tag、properties等frontmatter数据]]
+但是知道它可以动态hook一个js脚本，从而自动化做一些事情，就变成神器了。[[Cards/如何快速一键添加tag、properties等frontmatter数据]]
 
 
 [Introduction - Templater (silentvoid13.github.io)](https://silentvoid13.github.io/Templater/)

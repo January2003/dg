@@ -1,10 +1,7 @@
 ---
-created: '2023-10-12'
-cssclasses: ''
-modified: '2023-10-12'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/1012发现的obsidian有用插件分享.md
+date created: 2023-10-12
+date modified: 2023-10-12
 publish: true
-published: '2025-07-10T22:21:52.385+08:00'
 title: 1012发现的obsidian有用插件分享
 ---
 ## 这2个月刚发现，并已经高频使用的插件

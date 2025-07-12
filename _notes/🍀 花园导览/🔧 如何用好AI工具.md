@@ -1,11 +1,11 @@
 ---
 created: '2023-03-16'
 cssclasses: ''
-modified: '2025-07-11'
+modified: '2025-07-12'
 permalink: /🍀 花园导览/🔧 如何用好AI工具.md
 publish: true
-published: '2025-07-11T16:04:39.720+08:00'
-title: 🤖 如何用好AIGC工具
+published: '2025-07-12T15:49:25.638+08:00'
+title: 🔧 如何用好AI工具
 ---
 现在ai要用好，就3步：
 
@@ -17,9 +17,7 @@ title: 🤖 如何用好AIGC工具
 
 [[Spaces/2-Area/思维工具与模块/模型使用时间占比毛估估-每月更新]]
 
-## chatbot 类型
-
->
+## chatbot 类
 
 - 本地
 	- [[Spaces/3-Resource/软件梳理/macos软件/Cherry Studio]]
@@ -29,7 +27,7 @@ title: 🤖 如何用好AIGC工具
 
 ## copilot 类型
 
-- [[Cards/raycast ai]]
+- [[Spaces/1-Project/Raycast/raycast ai]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Warp]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Arc浏览器]]
 	- 逐步得换成[[Spaces/3-Resource/软件梳理/macos软件/Dia 浏览器]]了。

@@ -1,10 +1,9 @@
 ---
-created: '2025-06-06'
-cssclasses: ''
-modified: '2025-07-10'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Tab Switcher.md
+date created: 2025-06-06
+date modified: 2025-07-10
 publish: true
-published: '2025-07-10T21:28:16.761+08:00'
+rating: 6
+status: null
 tags:
 - obsidian插件
 title: Tab Switcher

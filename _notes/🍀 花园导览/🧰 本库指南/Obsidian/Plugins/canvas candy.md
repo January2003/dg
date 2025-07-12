@@ -1,10 +1,9 @@
 ---
-created: '2025-06-23'
-cssclasses: ''
-modified: '2025-06-23'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/canvas candy.md
+date created: 2025-06-23
+date modified: 2025-06-23
 publish: true
-published: '2025-07-10T20:59:29.879+08:00'
+rating: 2
+status: null
 tags:
 - obsidian插件
 title: canvas candy

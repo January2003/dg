@@ -1,9 +1,11 @@
 ---
-created: '2025-04-15'
-cssclasses: ''
-modified: '2025-04-15'
-permalink: /Cards/vibe browsing.md
+date created: 2025-04-15
+date modified: 2025-07-11
 publish: true
-published: '2025-07-11T15:40:25.086+08:00'
 title: vibe browsing
+uid: 8bed19d0-61b1-4994-8ed7-f3030f27f53f
+相关笔记:
+- '[[Cards/vibe coding]]'
+- '[[Cards/vibe reading]]'
 ---
+https://pub-pic.oldwinter.top/2025/04/a4a754466900c02f997c271bfb6eb5ce.gif

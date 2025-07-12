@@ -1,14 +1,20 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /Spaces/3-Resource/软件梳理/macos软件/Bob.md
+brew安装命令: 用破解版
+date created: 2022-06-09
+date modified: 2023-03-14
+icon: '[[icon-cc-image-Bob.png]]'
 publish: true
-published: '2025-07-10T22:41:44.318+08:00'
 tags:
 - macOS软件
 - raycast插件
 title: Bob
+作用: 查词翻译，但沙拉查词能和Anki 联动
+当前使用频率: 5
+是否已备份: y
+是否已重装: true
+是否有破解版: true
+设置同步: icloud 同步，手动导出
+评价: 6
 ---
 ## 配置同步
 

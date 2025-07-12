@@ -1,10 +1,7 @@
 ---
-created: '2022-06-20'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /Cards/如何做笔记 note-making.md
+date created: 2022-06-20
+date modified: 2023-03-14
 publish: true
-published: '2025-07-10T22:45:17.633+08:00'
 title: 如何做笔记 note-making
 ---
 ## 做笔记有 3 个内在含义

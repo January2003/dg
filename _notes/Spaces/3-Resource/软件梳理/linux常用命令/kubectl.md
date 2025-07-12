@@ -1,11 +1,9 @@
 ---
-aliases: kubernetes-cli
-created: '2025-07-04'
-cssclasses: ''
-modified: '2025-07-04'
-permalink: /Spaces/3-Resource/软件梳理/linux常用命令/kubectl.md
+aliases:
+- kubernetes-cli
+date created: 2025-07-04
+date modified: 2025-07-04
 publish: true
-published: '2025-07-11T15:32:47.388+08:00'
 title: kubectl
 ---
 ## 安装

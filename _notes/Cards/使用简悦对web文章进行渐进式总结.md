@@ -1,10 +1,7 @@
 ---
-created: '2022-07-26'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /Cards/使用简悦对web文章进行渐进式总结.md
+date created: 2022-07-26
+date modified: 2023-03-14
 publish: true
-published: '2025-07-08T23:06:44.485+08:00'
 title: 使用简悦对web文章进行渐进式总结
 ---
 ## 整体效果

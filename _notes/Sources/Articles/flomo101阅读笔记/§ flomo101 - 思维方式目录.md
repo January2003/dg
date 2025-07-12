@@ -1,10 +1,7 @@
 ---
-created: '2022-07-20'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /Sources/Articles/flomo101阅读笔记/§ flomo101 - 思维方式目录.md
+date created: 2022-07-20
+date modified: 2023-03-14
 publish: true
-published: '2025-07-08T23:51:03.844+08:00'
 tags:
 - 目录笔记
 title: § flomo101 - 思维方式目录
@@ -13,7 +10,7 @@ title: § flomo101 - 思维方式目录
 
 ## 思维方式目录
 
-[[Cards/Properties Added/我们塑造了工具，工具又塑造了我们。——麦克卢汉《理解媒介：论人的延伸》]]
+[[Spaces/3-Resource/有意思的语言/名言/我们塑造了工具，工具又塑造了我们。——麦克卢汉《理解媒介：论人的延伸》]]
 
 在 flomo，我们不仅仅是设计工具，也希望能给你带来全新的思考方式。因为重要的不是更好地记录，而是更好地思考。
 

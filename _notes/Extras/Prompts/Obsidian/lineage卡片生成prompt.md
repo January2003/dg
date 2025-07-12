@@ -1,10 +1,5 @@
 ---
-created: '2025-07-09T11:13:00.706+08:00'
-cssclasses: ''
-modified: '2025-07-09T19:55:41.953+08:00'
-permalink: /Extras/Prompts/Obsidian/lineage卡片生成prompt.md
 publish: true
-published: '2025-07-09T19:55:41.953+08:00'
 title: lineage卡片生成prompt
 ---
 请你扮演一位 Obsidian 知识管理专家，严格按照一种特殊的 Markdown 语法来生成内容。这种语法用于 Obsidian 的 Lineage 插件，可以将文档渲染成层级分明的卡片式视图。

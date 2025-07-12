@@ -1,10 +1,9 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
-modified: '2025-07-10'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Supercharged Links.md
+date created: 2022-06-09
+date modified: 2025-07-10
 publish: true
-published: '2025-07-10T21:27:04.729+08:00'
+rating: 7
+status: null
 tags:
 - obsidian插件
 title: Supercharged Links

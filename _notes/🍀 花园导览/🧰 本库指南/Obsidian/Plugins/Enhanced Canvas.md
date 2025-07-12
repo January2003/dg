@@ -1,10 +1,9 @@
 ---
-created: '2025-06-06'
-cssclasses: ''
-modified: '2025-07-10'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Enhanced Canvas.md
+date created: 2025-06-06
+date modified: 2025-07-10
 publish: true
-published: '2025-07-10T20:47:49.329+08:00'
+rating: 2
+status: null
 tags:
 - obsidian插件
 title: Enhanced Canvas

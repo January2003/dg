@@ -1,13 +1,11 @@
 ---
-created: '2025-06-05'
-cssclasses: ''
-modified: '2025-06-05'
-permalink: /Cards/shots.so.md
+date created: 2025-06-05
+date modified: 2025-06-05
 publish: true
-published: '2025-07-10T22:42:00.581+08:00'
 tags:
 - 好用网站
 title: shots.so
+评价: 5
 ---
 [Shots - Create Amazing Mockups](https://shots.so/)
 

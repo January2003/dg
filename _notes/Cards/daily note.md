@@ -1,12 +1,12 @@
 ---
-aliases: 每日笔记
-created: '2022-06-09'
-cssclasses: ''
-modified: '2025-07-09'
-permalink: /Cards/daily note.md
+aliases:
+- 每日笔记
+date created: 2022-06-09
+date modified: 2025-07-09
 publish: true
-published: '2025-07-09T18:36:46.137+08:00'
 title: dailynote
+相关笔记:
+- '[[Spaces/2-Area/数字花园建设与维护/» Daily notes工作流]]'
 ---
 每日笔记（dailynote）不是每日日记。
 

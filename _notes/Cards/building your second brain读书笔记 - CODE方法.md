@@ -1,10 +1,7 @@
 ---
-created: '2022-06-30'
-cssclasses: ''
-modified: '2024-06-10'
-permalink: /Cards/building your second brain读书笔记 - CODE方法.md
+date created: 2022-06-30
+date modified: 2024-06-10
 publish: true
-published: '2025-07-10T22:44:37.997+08:00'
 title: building your second brain读书笔记 - CODE方法
 ---
 ## 构建第二大脑的CODE方法

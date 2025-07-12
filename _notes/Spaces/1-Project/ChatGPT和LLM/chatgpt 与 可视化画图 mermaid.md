@@ -1,10 +1,7 @@
 ---
-created: '2024-11-04'
-cssclasses: ''
-modified: '2024-11-06'
-permalink: /Spaces/1-Project/ChatGPT和LLM/chatgpt 与 可视化画图 mermaid.md
+date created: 2024-11-04
+date modified: 2024-11-06
 publish: true
-published: '2025-07-11T16:01:27.578+08:00'
 title: chatgpt 与 可视化画图 mermaid
 ---
 如果要样式精美，最推荐的是[[Spaces/1-Project/ChatGPT和LLM/chatgpt 与 svg画图]]

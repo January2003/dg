@@ -1,10 +1,7 @@
 ---
-created: '2022-09-02'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Tutorials/本库不建议在obsidian中搞美化和排版.md
+date created: 2022-09-02
+date modified: 2025-07-12
 publish: true
-published: '2025-07-07T17:10:23.992+08:00'
 title: 本库不建议在obsidian中搞美化和排版
 ---
 很多朋友可能是第一次接触[[Spaces/2-Area/知识管理/markdown]]。也会在使用过程中发现各种word能轻易实现，但是markdown却做不到的排版格式。于是开始寻找解决方案，往md文件中，先是加入了html，又不满足，再加入了css。最后实现出了跟word一样的排版效果，却花了比word还要多得多的额外时间。

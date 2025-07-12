@@ -1,10 +1,7 @@
 ---
-created: '2023-12-27'
-cssclasses: ''
-modified: '2023-12-27'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/快速过一遍obsidian一些社区插件的功能点.md
+date created: 2023-12-27
+date modified: 2023-12-27
 publish: true
-published: '2025-07-10T22:36:54.500+08:00'
 title: 快速过一遍obsidian一些社区插件的功能点
 ---
 - [[3d graph]]
@@ -13,7 +10,7 @@ title: 快速过一遍obsidian一些社区插件的功能点
 	- cmd t ，快速切换或打开md文档
 - [[Cards/Advanced URL]]
 	- 外部调用obsidian的笔记或功能
-- [[Cards/Auto Link Title]]
+- [[Spaces/2-Area/计算机知识/Auto Link Title]]
 	- 自动给url生成标题
 - [[Cards/Better Command Pallete]]
 	- 增强型cmd p
@@ -43,7 +40,7 @@ title: 快速过一遍obsidian一些社区插件的功能点
 	- 近期打开的文件
 - [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Share Note]]
 	- 分享当前笔记到online
-- [[Cards/Smart Connections]]
+- [[Spaces/2-Area/计算机知识/Smart Connections]]
 	- ai搜索笔记
 - [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Sortable]]
 	- 表格排序
