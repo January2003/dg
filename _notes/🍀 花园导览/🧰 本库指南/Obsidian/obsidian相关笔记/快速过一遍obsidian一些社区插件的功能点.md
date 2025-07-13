@@ -24,7 +24,7 @@ title: 快速过一遍obsidian一些社区插件的功能点
 	- 平铺的Dailynote，weeklynote
 - [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Dataview]]
 	- 类似mysql语句根据properties批量查询文档
-- [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Excalidraw]]
+- [[Sources/GithubStarsSync/excalidraw]]
 	- canvas插件的强化版本
 - [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Link Favicons]]
 	- 网页url前面自动加上网站的icon

@@ -1,9 +1,14 @@
 ---
-date created: 2022-06-09
-date modified: 2025-04-03
+created: '2022-06-09'
+cssclasses: ''
+modified: '2025-04-03'
+permalink: /Spaces/3-Resource/软件梳理/macos软件/∑ macOS 必备软件.md
 publish: true
+published: '2025-07-13T23:45:37.766+08:00'
 title: ∑ mac必备软件
 ---
+[[2025年我的macOS软件天梯榜.canvas]]
+
 ## 2025-04-03整理
 
 之前： [[Spaces/3-Resource/软件梳理/macos软件/macos m3 重装list#发给老妹 5 星级推荐：]]

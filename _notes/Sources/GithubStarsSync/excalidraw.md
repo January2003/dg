@@ -1,17 +1,16 @@
 ---
-date created: 2023-01-23
-date modified: 2023-03-14
+created: '2023-01-23'
+cssclasses: ''
+description: Virtual whiteboard for sketching hand-drawn like diagrams
+modified: '2025-07-12'
+permalink: /Sources/GithubStarsSync/excalidraw.md
 publish: true
-rating: 5
-status: null
+published: '2025-07-12T23:46:57.727+08:00'
 tags:
+- github开源
 - obsidian插件
 title: Excalidraw
 ---
-更喜欢用[[🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian canvas]]而非用它。[[Cards/Andrej Karpathy]]大佬做得几个超长视频，都是用了excalidraw画的，太强了。
-
-## Excalidraw
-
 ### 引用excalidraw中的局部区域
 
 类似块引用图片，而非文本。

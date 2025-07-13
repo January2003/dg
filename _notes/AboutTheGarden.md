@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2024-10-23'
 permalink: /AboutTheGarden.md
 publish: true
-published: '2025-07-12T03:17:59.589+08:00'
+published: '2025-07-13T14:07:02.689+08:00'
 tags:
 - 本库教程
 title: AboutTheGarden
@@ -28,6 +28,6 @@ hello 👋，我是 oldwinter ❄️，一个云计算工程师，写过几万�
 
 这座数字花园使用 [[Spaces/3-Resource/软件梳理/macos软件/Obsidian]] 写作和发布，且毫无保留地**开源**，这里是 [[README]]，这里是项目地址：[GitHub - oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden)。
 
-这座花园里，我挖了很多坑 🕳，如果你想敦促我加速填坑，或有一些建议和问题，欢迎来 [Github Discussions](https://github.com/oldwinter/knowledge-garden/discussions)。或直接在下方自带的评论系统留言。如果方便的话，给个 star⭐️ 呗。
+这座花园里，我挖了很多坑 🕳，如果你想敦促我加速填坑，或有一些建议和问题，欢迎来 [Github Discussions](https://github.com/oldwinter/knowledge-garden/discussions)。如果方便的话，给个 star⭐️ 呗。
 
 最后，如果您发现了令人不适的内容，或我的个人隐私，请告知我，万分感谢 🦀🦀: cdd2zju@gmail.com。

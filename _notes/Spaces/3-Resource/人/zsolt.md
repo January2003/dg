@@ -5,4 +5,4 @@ filetype: person
 publish: true
 title: 🧑zsolt
 ---
-[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Excalidraw]]的作者，youtube频道上，专注于视觉化的[[Spaces/2-Area/知识管理/∑ PKM\|PKM]]打造，牛得飞起，每个视频都含金量十足。
+[[Sources/GithubStarsSync/excalidraw]]的作者，youtube频道上，专注于视觉化的[[Spaces/2-Area/知识管理/∑ PKM\|PKM]]打造，牛得飞起，每个视频都含金量十足。

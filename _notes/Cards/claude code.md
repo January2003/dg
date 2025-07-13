@@ -1,10 +1,18 @@
 ---
-date created: 2025-04-17
-date modified: 2025-06-25
+created: '2025-04-17'
+cssclasses: ''
+modified: '2025-06-25'
+permalink: /Cards/claude code.md
 publish: true
+published: '2025-07-12T21:48:52.499+08:00'
+tags:
+- powershell命令
+- linux命令
 title: claude code
 ---
 使用[[Cards/claude code router]]绕过官方限制。或者使用各种第三方的中转站： [[Cards/claude code 第三方中转站]]
+
+[[📥 Inbox/claude code windows]]
 
 ## 使用技巧
 
