@@ -35,4 +35,4 @@ title: » Daily notes工作流
 
 ## 文献笔记等，在其他文件夹的MOC文件中新建文件
 
-不算太碎片化的笔记，有一定规模，或需要一定时间去做的项目，则分别使用[[Sources/_Sources Readme]]和[[Cards/Spaces]]文件夹及其对应工作流来承载。
+不算太碎片化的笔记，有一定规模，或需要一定时间去做的项目，则分别使用[[Sources/_ Sources Readme]]和[[Cards/Spaces]]文件夹及其对应工作流来承载。

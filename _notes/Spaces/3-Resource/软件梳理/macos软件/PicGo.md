@@ -1,25 +1,19 @@
 ---
-aliases:
-- PicList
-brew安装命令: brew install piclist
-date created: 2024-10-04
-date modified: 2024-10-21
-icon: '[[icon-cc-image-PicGo.png]]'
+aliases: PicList
+created: '2024-10-04'
+cssclasses: ''
+description: :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+modified: '2025-07-15'
+permalink: /Spaces/3-Resource/软件梳理/macos软件/PicGo.md
 publish: true
+published: '2025-07-15T20:23:15.360+08:00'
 tags:
 - macOS软件
 - windows软件
+- github开源
 title: PicGo
-作用: 自动上传图片到图床
-是否已备份: y
-是否已重装: true
-是否通过UniGetUI安装: true
-设置同步: 手动至 icloud
-评价: 6
 ---
 手机端：[[Cards/PicHoro]]
-
-[[Spaces/3-Resource/软件梳理/macos软件/PicGo]]  
 
 图床：[[Spaces/2-Area/云服务和部署/cloudflare r2]]
 

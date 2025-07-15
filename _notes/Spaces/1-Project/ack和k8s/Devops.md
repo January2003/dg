@@ -1,7 +1,10 @@
 ---
-date created: 2025-07-09
-date modified: 2025-07-09
+created: '2025-07-09'
+cssclasses: ''
+modified: '2025-07-09'
+permalink: /Spaces/1-Project/ack和k8s/Devops.md
 publish: true
+published: '2025-07-15T19:44:24.122+08:00'
 title: Devops
 ---
 ## devops思考
