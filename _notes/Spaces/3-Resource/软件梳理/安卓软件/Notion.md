@@ -2,14 +2,15 @@
 created: '2022-06-09'
 cssclasses: ''
 modified: '2024-10-22'
-permalink: /Spaces/3-Resource/软件梳理/macos软件/Notion.md
+permalink: /Spaces/3-Resource/软件梳理/安卓软件/Notion.md
 publish: true
-published: '2025-07-12T03:18:45.456+08:00'
+published: '2025-07-15T21:00:13.105+08:00'
 tags:
 - 评论/少数派
 - macOS软件
 - windows软件
 - AI产品
+- 安卓软件
 title: Notion
 ---
 ## notion token

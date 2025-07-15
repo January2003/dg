@@ -2,19 +2,21 @@
 created: '2022-06-09'
 cssclasses: ''
 modified: '2025-07-10'
-permalink: /Spaces/3-Resource/软件梳理/macos软件/Obsidian.md
+permalink: /Spaces/3-Resource/软件梳理/安卓软件/Obsidian.md
 publish: true
-published: '2025-07-12T03:18:40.610+08:00'
+published: '2025-07-15T21:00:02.480+08:00'
 tags:
 - 评论/少数派
 - macOS软件
 - 笔记应用
 - 知识管理
+- 安卓软件
+- windows软件
 title: Obsidian
 ---
 up:: [[Cards/笔记软件的选择]]  
 down:: [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/∑ obsidian插件]]  
-jumps:: [[Spaces/3-Resource/软件梳理/macos软件/Notion]]  
+jumps:: [[Spaces/3-Resource/软件梳理/安卓软件/Notion]]  
 
 [[🍀 花园导览/🧰 本库指南/Tutorials/本库使用时遵守的核心原则]]
 

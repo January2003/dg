@@ -2,11 +2,13 @@
 created: '2023-02-15'
 cssclasses: ''
 modified: '2024-11-15'
-permalink: /Spaces/1-Project/ChatGPT和LLM/ChatGPT.md
+permalink: /Spaces/3-Resource/软件梳理/安卓软件/ChatGPT.md
 publish: true
-published: '2025-07-09T18:54:54.440+08:00'
+published: '2025-07-15T21:00:37.332+08:00'
 tags:
 - AI产品
+- 安卓软件
+- 好用网站
 title: chatGPT
 ---
 [[Spaces/1-Project/ChatGPT和LLM/chatgpt windows 下载]]

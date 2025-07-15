@@ -1,12 +1,14 @@
 ---
+aliases: Perplexity
 created: '2024-02-04'
 cssclasses: ''
 modified: '2024-10-28'
-permalink: /Cards/perplexity.ai.md
+permalink: /Spaces/3-Resource/软件梳理/安卓软件/perplexity.ai.md
 publish: true
-published: '2025-07-15T19:57:25.533+08:00'
+published: '2025-07-15T21:01:18.140+08:00'
 tags:
 - AI产品
+- 安卓软件
 title: perplexity.ai
 ---
 ## Perplexity.ai

@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-13'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/macos m3 重装list.md
 publish: true
-published: '2025-07-13T20:56:46.693+08:00'
+published: '2025-07-15T21:22:54.414+08:00'
 title: macos m3 重装list
 ---
 其实现在有非常多都支持 brew cask 安装，后面记得尝试。
@@ -25,8 +25,8 @@ title: macos m3 重装list
 	- 2024-11-21 大概率要停止开发新功能，换成最合适的平替 [[Spaces/3-Resource/软件梳理/macos软件/Zen Browser]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/阿里云盘]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/夸克网盘]]
-- [x] [[Spaces/3-Resource/软件梳理/macos软件/Obsidian]]
-- [x] [[Spaces/3-Resource/软件梳理/macos软件/Notion]]
+- [x] [[Spaces/3-Resource/软件梳理/安卓软件/Obsidian]]
+- [x] [[Spaces/3-Resource/软件梳理/安卓软件/Notion]]
 	- [x] [[飞书]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/Bob]]
 - [x] [[Spaces/3-Resource/软件梳理/安卓软件/滴答清单]]
@@ -57,15 +57,15 @@ title: macos m3 重装list
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/Latest - MacOS软件]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/1Piece]]
 - [x] [[腾讯会议]]
-- [x] [[Spaces/3-Resource/软件梳理/macos软件/微信]]
-- [x] [[Spaces/3-Resource/软件梳理/macos软件/微信读书]]
+- [x] [[Spaces/3-Resource/软件梳理/安卓软件/微信]]
+- [x] [[Spaces/3-Resource/软件梳理/安卓软件/微信读书]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/AlDente]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/CotEditor]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/Cubox]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/IINA]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/Input source pro]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/Keka]]
-- [x] [[Spaces/3-Resource/软件梳理/macos软件/Localsend]]
+- [x] [[Spaces/3-Resource/软件梳理/安卓软件/localsend]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/menubarX]]
 - [x] [[LinearMouse]]
 - [x] [[Spaces/3-Resource/软件梳理/windows软件/OpenAI Translater]]

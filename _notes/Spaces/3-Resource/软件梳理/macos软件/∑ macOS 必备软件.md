@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-04-03'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/∑ macOS 必备软件.md
 publish: true
-published: '2025-07-15T20:22:36.984+08:00'
+published: '2025-07-15T21:22:54.737+08:00'
 title: ∑ mac必备软件
 ---
 [[2025年我的macOS软件天梯榜.canvas]]
@@ -76,14 +76,14 @@ title: ∑ mac必备软件
 
 - ! [[Spaces/3-Resource/软件梳理/macos软件/夸克网盘]]
 - [[Spaces/3-Resource/软件梳理/macos软件/阿里云盘]]
-- [[Spaces/3-Resource/软件梳理/macos软件/百度网盘]]
+- [[Spaces/3-Resource/软件梳理/安卓软件/百度网盘]]
 - [[Spaces/3-Resource/软件梳理/macos软件/坚果云]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Onedrive]]
 
 ### 多媒体工具
 
 - ! [[Spaces/3-Resource/软件梳理/macos软件/Movist Pro]]
-- ! [[Spaces/3-Resource/软件梳理/macos软件/Spotify]]
+- ! [[Spaces/3-Resource/软件梳理/安卓软件/Spotify]]
 - [[Spaces/3-Resource/软件梳理/macos软件/网易云音乐]]
 - [[Spaces/3-Resource/软件梳理/macos软件/IINA]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Snipaste]]
@@ -118,8 +118,8 @@ title: ∑ mac必备软件
 
 ### 笔记与知识管理
 
-- ! [[Spaces/3-Resource/软件梳理/macos软件/Obsidian]]
-- ! [[Spaces/3-Resource/软件梳理/macos软件/Notion]]
+- ! [[Spaces/3-Resource/软件梳理/安卓软件/Obsidian]]
+- ! [[Spaces/3-Resource/软件梳理/安卓软件/Notion]]
 - ! [[Spaces/3-Resource/软件梳理/macos软件/Folo]]
 - ! [[Spaces/3-Resource/软件梳理/安卓软件/滴答清单]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Cubox]]
@@ -151,7 +151,7 @@ title: ∑ mac必备软件
 
 ### 阅读工具
 
-- ! [[Spaces/3-Resource/软件梳理/macos软件/微信读书]]
+- ! [[Spaces/3-Resource/软件梳理/安卓软件/微信读书]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Koodo reader]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Reeder]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Scudo]]
@@ -166,7 +166,7 @@ title: ∑ mac必备软件
 
 - [[Spaces/3-Resource/软件梳理/macos软件/Loopback]]
 - [[Spaces/3-Resource/软件梳理/macos软件/bark - ios 不耗电的推送通知]]
-- [[Spaces/3-Resource/软件梳理/macos软件/Localsend]]
+- [[Spaces/3-Resource/软件梳理/安卓软件/localsend]]
 
 ### 浏览器
 
@@ -177,8 +177,8 @@ title: ∑ mac必备软件
 ### 邮件与通讯
 
 - ! [[Spaces/3-Resource/软件梳理/macos软件/Telegram]]
-- [[Spaces/3-Resource/软件梳理/macos软件/微信]]
-- [[Spaces/3-Resource/软件梳理/macos软件/Bilibili]]
+- [[Spaces/3-Resource/软件梳理/安卓软件/微信]]
+- [[Spaces/3-Resource/软件梳理/安卓软件/Bilibili]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Presentify]]
 
 ### 菜单栏增强
