@@ -1,16 +1,14 @@
 ---
-aliases:
-- 类似gingko的插件
-date created: 2025-04-28
-date modified: 2025-07-09
+aliases: 类似gingko的插件
+created: '2025-04-28'
+cssclasses: ''
+modified: '2025-07-09'
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Lineage.md
 publish: true
-rating: 6
-status: null
+published: '2025-07-14T19:57:28.243+08:00'
 tags:
 - obsidian插件
 title: Lineage
-相关笔记:
-- '[[Spaces/2-Area/计算机知识/gingko]]'
 ---
 相比使用[[Spaces/2-Area/计算机知识/gingko]]的优势：
 

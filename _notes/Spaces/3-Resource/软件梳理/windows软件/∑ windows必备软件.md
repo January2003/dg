@@ -5,10 +5,11 @@ cssclasses: ''
 modified: '2025-06-27'
 permalink: /Spaces/3-Resource/软件梳理/windows软件/∑ windows必备软件.md
 publish: true
-published: '2025-07-14T00:19:37.124+08:00'
+published: '2025-07-15T13:32:21.372+08:00'
 title: ∑ windows必备软件
 ---
 > [[2025年我的Windows软件天梯榜.canvas|2025年我的Windows软件天梯榜]]
+> [[2025Windows软件天梯榜-文字版本.canvas|2025Windows软件天梯榜-文字版本]]
 
 ## 常用
 
