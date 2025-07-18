@@ -1,10 +1,13 @@
 ---
-date created: 2024-11-21
-date modified: 2024-11-21
+created: '2024-11-21'
+cssclasses: ''
+modified: '2024-11-21'
+permalink: /Spaces/2-Area/macos高效使用/macOS 应用的Hyper快捷键.md
 publish: true
-title: MacOS 应用的Hyper快捷键
+published: '2025-07-18T14:12:27.916+08:00'
+title: macOS 应用的Hyper快捷键
 ---
-与option快捷键差别，hyper重复按键可以呼出/隐藏切换。option则只能呼出，再按一次无法隐藏。
+与option快捷键差别：hyper重复按键可以呼出/隐藏切换。option则只能呼出，再按一次无法隐藏。
 
 [[Spaces/2-Area/macos高效使用/MacOS 应用的option快捷键]]
 
@@ -37,26 +40,26 @@ title: MacOS 应用的Hyper快捷键
 | Y   | [[Spaces/3-Resource/软件梳理/macos软件/Proxyman]]    | Raycast | 取 Y 字母的象形意思，一分为二，分叉，代表 proxy             |
 | U   | home 文件夹        |         |                                          |
 | I   |       | Raycast | I 即为 Information，也做为 Input，和 O 做为输出，天生一对 |
-| O   | [[Spaces/3-Resource/软件梳理/macos软件/Obsidian]]    |         | O 即为 Output， 做为输出                        |
+| O   | [[Spaces/3-Resource/软件梳理/安卓软件/Obsidian]]    |         | O 即为 Output， 做为输出                        |
 | P   | 滴答清单开启/暂停专注     | 软件内     | [[Cards/番茄工作法]]，Potato                         |
 |     |                 |         |                                          |
 | A   | [[Spaces/3-Resource/软件梳理/macos软件/Arc浏览器\|Arc]] | Raycast |                                          |
 | S   | 系统设置 - 隐私与安全    | Raycast | Security 安全                              |
 | D   | [[Spaces/3-Resource/软件梳理/安卓软件/滴答清单]]        | Raycast |                                          |
 | F   | [[Cards/Finder]]      | Raycast |                                          |
-| G   | [[Spaces/1-Project/ChatGPT和LLM/ChatGPT]]     | Raycast | ChatGPT 主窗体。快捷唤出用 option + 空格            |
+| G   | [[Spaces/3-Resource/软件梳理/安卓软件/ChatGPT]]     | Raycast | ChatGPT 主窗体。快捷唤出用 option + 空格            |
 | H   | 不知道被什么占用        |         |                                          |
 | J   | 下载文件夹           |         |                                          |
 | K   | [[Spaces/3-Resource/软件梳理/macos软件/夸克网盘]]        | Raycast |                                          |
 | L   |                 |         |                                          |
 |     |                 |         |                                          |
 | Z   | [[飞书]]          | Raycast |                                          |
-| X   | [[Spaces/3-Resource/软件梳理/macos软件/微信]]          | Raycast | 取 X 字母的象形意思， 微信连通四方                      |
+| X   | [[Spaces/3-Resource/软件梳理/安卓软件/微信]]          | Raycast | 取 X 字母的象形意思， 微信连通四方                      |
 | C   | [[Spaces/3-Resource/软件梳理/macos软件/Cursor]]      | Raycast |                                          |
 | V   |                 |         |                                          |
 | B   | [[Spaces/3-Resource/软件梳理/macos软件/Bob]] 快捷查词    | 软件内     |                                          |
-| N   | [[Spaces/3-Resource/软件梳理/macos软件/Notion]]      | Raycast |                                          |
-| M   | [[Spaces/3-Resource/软件梳理/macos软件/Spotify]]     | Raycast | Music                                    |
+| N   | [[Spaces/3-Resource/软件梳理/安卓软件/Notion]]      | Raycast |                                          |
+| M   | [[Spaces/3-Resource/软件梳理/安卓软件/Spotify]]     | Raycast | Music                                    |
 | ,   |                 |         |                                          |
 
 ## 搜索快捷键

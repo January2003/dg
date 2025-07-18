@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-04-03'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/∑ macOS 必备软件.md
 publish: true
-published: '2025-07-15T21:22:54.737+08:00'
+published: '2025-07-18T11:26:34.881+08:00'
 title: ∑ mac必备软件
 ---
 [[2025年我的macOS软件天梯榜.canvas]]
@@ -120,7 +120,7 @@ title: ∑ mac必备软件
 
 - ! [[Spaces/3-Resource/软件梳理/安卓软件/Obsidian]]
 - ! [[Spaces/3-Resource/软件梳理/安卓软件/Notion]]
-- ! [[Spaces/3-Resource/软件梳理/macos软件/Folo]]
+- ! [[Spaces/3-Resource/软件梳理/好用网站/Folo]]
 - ! [[Spaces/3-Resource/软件梳理/安卓软件/滴答清单]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Cubox]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Logseq]]

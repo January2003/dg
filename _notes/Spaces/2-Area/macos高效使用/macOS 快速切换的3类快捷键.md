@@ -5,7 +5,7 @@ publish: true
 tags: []
 title: macOS 快速切换的3类快捷键
 ---
-[[Spaces/2-Area/macos高效使用/macos 和空格配合的快捷键]]
+[[Spaces/2-Area/macos高效使用/macOS 和空格配合的快捷键]]
 
 > 加 shift 就是逆过程。
 

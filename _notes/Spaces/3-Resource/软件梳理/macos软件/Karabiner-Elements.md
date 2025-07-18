@@ -1,14 +1,15 @@
 ---
-brew安装命令: brew install --cask karabiner-elements
-date created: 2024-10-22
-date modified: 2024-10-23
-icon: '[[icon-cc-image-Karabiner-Elements.png]]'
+created: '2024-10-22'
+cssclasses: ''
+description: Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+modified: '2024-10-23'
+permalink: /Spaces/3-Resource/软件梳理/macos软件/Karabiner-Elements.md
 publish: true
+published: '2025-07-18T11:26:44.144+08:00'
 tags:
 - macOS软件
+- github开源
 title: Karabiner-Elements
-当前使用频率: 5
-评价: 4
 ---
 ## 配置备份
 
