@@ -2,7 +2,7 @@
 created: '2025-07-09'
 cssclasses: ''
 modified: '2025-07-09'
-permalink: /Spaces/1-Project/ack和k8s/Devops.md
+permalink: /Spaces/1-Project/2025年ack和k8s学习回顾/Devops.md
 publish: true
 published: '2025-07-15T19:44:24.122+08:00'
 title: Devops

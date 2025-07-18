@@ -2,7 +2,7 @@
 created: '2025-01-16'
 cssclasses: ''
 modified: '2025-02-26'
-permalink: /Spaces/1-Project/ChatGPT和LLM/DeepSeek.md
+permalink: /Spaces/1-Project/入门到精通 ChatGPT和LLM 应用及原理/DeepSeek.md
 publish: true
 published: '2025-07-08T23:17:27.737+08:00'
 tags:
