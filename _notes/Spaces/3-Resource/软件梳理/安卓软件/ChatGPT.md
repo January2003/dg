@@ -4,18 +4,18 @@ cssclasses: ''
 modified: '2024-11-15'
 permalink: /Spaces/3-Resource/软件梳理/安卓软件/ChatGPT.md
 publish: true
-published: '2025-07-15T21:00:37.332+08:00'
+published: '2025-07-20T14:15:47.886+08:00'
 tags:
 - AI产品
 - 安卓软件
 - 好用网站
 title: chatGPT
 ---
-[[Spaces/1-Project/ChatGPT和LLM/chatgpt windows 下载]]
+[[Spaces/1-Project/入门到精通 ChatGPT和LLM 应用及原理/chatgpt windows 下载]]
 
 [[Cards/claude 伪多模态]]
 
-[[Spaces/1-Project/ChatGPT和LLM/chatGPT web页面的自带提示词破解]]
+[[Spaces/1-Project/入门到精通 ChatGPT和LLM 应用及原理/chatGPT web页面的自带提示词破解]]
 
 ## 参考文献
 

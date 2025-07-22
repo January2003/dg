@@ -1,9 +1,13 @@
 ---
-date created: 2025-06-25
-date modified: 2025-07-10
+created: '2025-06-25'
+cssclasses: ''
+modified: '2025-07-10'
+permalink: /Cards/gemini-cli.md
 publish: true
+published: '2025-07-20T18:42:28.812+08:00'
 tags:
 - AI工具
+- linux命令
 title: gemini-cli
 ---
 ![CleanShot 2025-07-10 at 17.50.48@2x.png](https://pub-pic.oldwinter.top/2025/07/d7bbeeb0693c3a6118a7a252a8e6ecdc.png)

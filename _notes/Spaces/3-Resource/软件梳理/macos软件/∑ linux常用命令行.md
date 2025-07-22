@@ -1,7 +1,10 @@
 ---
-date created: 2022-06-09
-date modified: 2024-07-26
+created: '2022-06-09'
+cssclasses: ''
+modified: '2024-07-26'
+permalink: /Spaces/3-Resource/软件梳理/macos软件/∑ linux常用命令行.md
 publish: true
+published: '2025-07-21T13:11:59.702+08:00'
 tags:
 - moc
 title: ∑ linux常用命令行

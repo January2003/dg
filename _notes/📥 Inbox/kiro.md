@@ -4,7 +4,10 @@ cssclasses: ''
 modified: '2025-07-15'
 permalink: /📥 Inbox/kiro.md
 publish: true
-published: '2025-07-15T20:02:57.505+08:00'
+published: '2025-07-19T16:57:09.762+08:00'
+tags:
+- macOS软件
+- windows软件
 title: kiro
 ---
 [Kiro: The AI IDE for prototype to production](https://kiro.dev/)

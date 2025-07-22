@@ -8,7 +8,7 @@ publish: true
 published: '2025-07-10T18:20:46.565+08:00'
 title: ∑ BASE
 ---
-x: [[Cards/base 使用技巧]]
+x: [[🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/base 使用技巧]]
 
 ## PARA
 

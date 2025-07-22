@@ -249,13 +249,7 @@ tags:
 ---
 
 
----
-date created: 2025-06-27
-date modified: 2025-06-27
-tags:
-  - AI生成
-  - moc
----
+
 
 ### macos高效使用
 
@@ -388,13 +382,7 @@ tags:
 ---
 
 
----
-date created: 2025-06-27
-date modified: 2025-06-27
-tags:
-  - AI生成
-  - moc
----
+
 
 ### 思维工具与模块
 
