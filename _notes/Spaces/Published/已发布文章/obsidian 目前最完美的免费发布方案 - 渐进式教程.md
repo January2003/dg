@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14 00:00:00+00:00'
 permalink: /Spaces/Published/已发布文章/obsidian 目前最完美的免费发布方案 - 渐进式教程.md
 publish: true
-published: '2025-07-10T21:53:24.392+08:00'
+published: '2025-07-25T18:32:03.677+08:00'
 tags:
 - 文章/已完成
 title: obsidian 目前最完美的免费发布方案 - 渐进式教程
@@ -55,7 +55,7 @@ title: obsidian 目前最完美的免费发布方案 - 渐进式教程
 
 总之，有钱就选官方服务准没错。其次，综合对比后，我选择了jekyll方案1，如何一步步实现，见下文。
 
-新增[[Cards/quartz]]方案，已经成熟很多，比jekyll方案性能更好，还支持搜索。
+新增[[Sources/GithubStarsSync/quartz]]方案，已经成熟很多，比jekyll方案性能更好，还支持搜索。
 
 ## 渐进式教程
 

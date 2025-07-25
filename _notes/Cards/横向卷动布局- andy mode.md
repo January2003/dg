@@ -5,7 +5,7 @@ cssclasses: ''
 modified: '2025-07-10'
 permalink: /Cards/横向卷动布局- andy mode.md
 publish: true
-published: '2025-07-12T13:34:43.568+08:00'
+published: '2025-07-12T11:20:32.805+08:00'
 title: 横向卷动布局- andy mode
 ---
 某个版本后，obsidian内置了。

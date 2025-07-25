@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-04-03'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/∑ macOS 必备软件.md
 publish: true
-published: '2025-07-19T15:36:17.295+08:00'
+published: '2025-07-25T17:23:59.892+08:00'
 title: ∑ mac必备软件
 ---
 [[2025年我的macOS软件天梯榜.canvas]]
@@ -191,7 +191,7 @@ title: ∑ mac必备软件
 
 - [[Spaces/3-Resource/软件梳理/macos软件/1Piece]] (功能未知)
 - [[Spaces/3-Resource/软件梳理/macos软件/charmstone]] (功能未知)
-- [[Spaces/3-Resource/软件梳理/macos软件/dockdoor]] (疑似重复)
+- [[Sources/GithubStarsSync/DockDoor]] (疑似重复)
 - [[Spaces/3-Resource/软件梳理/macos软件/expanso]] (功能未知)
 - [[Spaces/3-Resource/软件梳理/macos软件/Fig]] (功能未知)
 

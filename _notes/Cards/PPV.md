@@ -1,9 +1,14 @@
 ---
-date created: 2022-06-22
-date modified: 2023-03-19
+created: '2022-06-22'
+cssclasses: ''
+modified: '2023-03-19'
+permalink: /Cards/PPV.md
 publish: true
+published: '2025-07-23T15:50:26.351+08:00'
 title: PPV
 ---
+相关：[[📥 Inbox/滴答清单官方理解的ppv]]
+
 [Notion Life Design with Pillars, Pipelines & Vaults (PPV)](https://www.yearzero.io/notion-life-design)
 
 [Notion人生經營系統 (PPV) 介紹 | Day 170 - YouTube](https://www.youtube.com/watch?v=2qLrIp1YGUQ)

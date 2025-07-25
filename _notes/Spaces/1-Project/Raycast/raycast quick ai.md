@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-11'
 permalink: /Spaces/1-Project/Raycast/raycast quick ai.md
 publish: true
-published: '2025-07-12T14:10:01.447+08:00'
+published: '2025-07-17T11:01:10.520+08:00'
 title: raycast quick ai
 ---
 在raycast quick ai中使用，核心目的是，降低提问摩擦力，随时随地，毫秒级延迟得到简单问题的答案。

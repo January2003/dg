@@ -5,7 +5,7 @@ cssclasses: ''
 modified: '2025-07-10'
 permalink: /Cards/database.md
 publish: true
-published: '2025-07-12T13:43:54.887+08:00'
+published: '2025-07-12T11:31:00.948+08:00'
 title: database
 ---
 不能简单地理解为数据库、或者表格。中文名倒是用飞书发明的多维表格比较合适。

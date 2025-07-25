@@ -1,7 +1,10 @@
 ---
-date created: 2025-07-06
-date modified: 2025-07-06
+created: '2025-07-06'
+cssclasses: ''
+modified: '2025-07-06'
+permalink: /CLAUDE.md
 publish: true
+published: '2025-07-24T17:28:47.898+08:00'
 title: CLAUDE
 ---
 # CLAUDE.md

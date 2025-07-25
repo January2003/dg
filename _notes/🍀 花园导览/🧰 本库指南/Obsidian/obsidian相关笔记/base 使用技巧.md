@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-06-27'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/base 使用技巧.md
 publish: true
-published: '2025-07-12T14:12:25.340+08:00'
+published: '2025-07-17T11:01:41.680+08:00'
 title: base 使用技巧
 ---
 from [[Spaces/3-Resource/人/Moy]]

@@ -1,14 +1,17 @@
 ---
-date created: 2022-06-09
-date modified: 2023-03-14
+created: '2022-06-09'
+cssclasses: ''
+modified: '2023-03-14'
+permalink: /Spaces/3-Resource/chrome插件/油猴脚本 - tempermonkey.md
 publish: true
+published: '2025-07-23T23:59:31.250+08:00'
 tags:
 - chrome插件
 title: 油猴脚本 - tempermonkey
-是否有firefox版本: true
-设置同步: google drive
-评价: 7
 ---
+![image.png](https://pub-pic.oldwinter.top/2025/07/7f5747b8e51cc963fc050525516c131d.png)
+
+
 [[Cards/油猴脚本必装脚本]]
 
 ## 油猴脚本的备份和导入导出
