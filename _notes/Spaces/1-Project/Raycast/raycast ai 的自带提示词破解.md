@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-08'
 permalink: /Spaces/1-Project/Raycast/raycast ai 的自带提示词破解.md
 publish: true
-published: '2025-07-17T11:01:09.914+08:00'
+published: '2025-07-08T22:59:19.805+08:00'
 title: raycast ai 的自带提示词破解
 ---
 ## deepseek-r1

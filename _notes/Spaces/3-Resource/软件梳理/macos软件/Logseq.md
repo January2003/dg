@@ -6,7 +6,7 @@ description: 'A privacy-first, open-source platform for knowledge management and
 modified: '2025-07-09'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/Logseq.md
 publish: true
-published: '2025-07-29T01:28:53.438+08:00'
+published: '2025-07-29T21:05:09.789+08:00'
 tags:
 - macOS软件
 - github开源

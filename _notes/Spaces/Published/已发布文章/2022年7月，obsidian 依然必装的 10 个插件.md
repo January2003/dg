@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14 00:00:00+00:00'
 permalink: /Spaces/Published/已发布文章/2022年7月，obsidian 依然必装的 10 个插件.md
 publish: true
-published: '2025-07-10T22:21:47.213+08:00'
+published: '2025-07-12T23:46:11.222+08:00'
 tags:
 - 文章/已完成
 title: 2022年7月，obsidian 依然必装的 10 个插件

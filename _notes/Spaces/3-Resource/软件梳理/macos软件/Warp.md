@@ -1,9 +1,10 @@
 ---
-brew安装命令: brew install --cask warp
-date created: 2023-01-06
-date modified: 2024-08-07
-icon: '[[icon-cc-image-Warp.png]]'
+created: '2023-01-06'
+cssclasses: ''
+modified: '2024-08-07'
+permalink: /Spaces/3-Resource/软件梳理/macos软件/Warp.md
 publish: true
+published: '2025-07-29T22:55:47.262+08:00'
 tags:
 - macOS软件
 - AI产品/编程
@@ -11,11 +12,6 @@ tags:
 - raycast插件
 - AI工具
 title: Warp
-当前使用频率: 5
-当前是否还在使用: true
-是否已重装: true
-设置同步: 官方账号
-评价: 6
 ---
 ## 最牛逼的特性
 
@@ -54,3 +50,57 @@ title: Warp
 在terminal中直接用中文搜索命令，简直是无缝的体验，amazing。
 
 [New \*incredible\* mac OS terminal! (warp + starship + zsh) - YouTube](https://www.youtube.com/watch?v=NfggT5enF4o)
+
+## 使用warp 的 launch configurations功能，一键快速开始vibe coding
+
+配置文件：
+/Users/oldwinter/.warp/launch_configurations/k8s.yaml
+
+```yaml
+# Warp Launch Configuration
+#
+#
+# Use this to start a certain configuration of windows, tabs, and panes.
+# Open the launch configuration palette to access and open any launch configuration.
+#
+# This file defines your launch configuration.
+# More on how to do so here:
+# https://docs.warp.dev/features/sessions/launch-configurations
+#
+# All launch configurations are stored under ~/.warp/launch_configurations.
+# Edit them anytime!
+#
+# You can also add commands that run on-start for your launch configurations like so:
+# ---
+# name: Example with Command
+# windows:
+#  - tabs:
+#      - layout:
+#          cwd: /Users/warp-user/project
+#          commands:
+#            - exec: code .
+
+---
+name: Vibe-coding
+active_window_index: 0
+windows:
+  - active_tab_index: 0
+    tabs:
+      - layout:
+          split_direction: horizontal
+          panes:
+            - cwd: /Users/oldwinter/Code/gemini-space
+              is_focused: true
+              commands:
+                - exec: gemini
+            - cwd: /Users/oldwinter/Code/claude-code-space
+              commands:
+                - exec: claude
+            - cwd: /Users/oldwinter/Code/kimi-2-space
+              commands:
+                - exec: ccr code
+            - cwd: /Users/oldwinter/Code/glm-space
+              commands:
+                - exec: ccr code
+
+```

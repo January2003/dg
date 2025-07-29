@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-12'
 permalink: /🍀 花园导览/🔧 如何用好AI工具.md
 publish: true
-published: '2025-07-17T21:37:51.490+08:00'
+published: '2025-07-29T23:24:26.519+08:00'
 title: 🔧 如何用好AI工具
 ---
 现在ai要用好，就3步：
@@ -36,7 +36,7 @@ title: 🔧 如何用好AI工具
 
 ## agent 类型
 
-- [[Spaces/1-Project/搞透 AI Agent 开发/Dify\|Dify]]
+- [[Sources/GithubStarsSync/dify\|Dify]]
 - [[Sources/GithubStarsSync/n8n]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Cursor]]
 - [[fellou浏览器]]

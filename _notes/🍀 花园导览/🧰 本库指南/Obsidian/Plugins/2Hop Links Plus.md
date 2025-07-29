@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-10'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/2Hop Links Plus.md
 publish: true
-published: '2025-07-10T20:45:50.492+08:00'
+published: '2025-07-12T02:51:58.426+08:00'
 tags:
 - obsidian插件
 title: 2Hop Links Plus

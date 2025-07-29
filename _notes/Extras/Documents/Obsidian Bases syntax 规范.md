@@ -1,10 +1,10 @@
 ---
 created: '2025-05-21T23:17:59.167+08:00'
 cssclasses: ''
-modified: '2025-07-25T23:14:20.017+08:00'
+modified: '2025-07-25T23:41:08.766+08:00'
 permalink: /Extras/Documents/Obsidian Bases syntax 规范.md
 publish: true
-published: '2025-07-25T23:14:20.017+08:00'
+published: '2025-07-25T23:41:08.766+08:00'
 title: Obsidian Bases syntax 规范
 ---
 [[Extras/Documents/obsidian bases function语法]]

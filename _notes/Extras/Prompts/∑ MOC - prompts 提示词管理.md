@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-05-15'
 permalink: /Extras/Prompts/∑ MOC - prompts 提示词管理.md
 publish: true
-published: '2025-07-26T17:57:04.705+08:00'
+published: '2025-07-29T23:24:25.509+08:00'
 tags:
 - marketing
 - summary
@@ -62,7 +62,7 @@ title: 社交媒体摘要
 ## deep search 或者 deepresearch
 
 先积累出一些常用的模板，比如：
-- [[Cards/贴吧嘴臭老哥]]
+- [[Extras/Prompts/一句话提示词/贴吧嘴臭老哥]]
 - [[Spaces/1-Project/入门到精通 ChatGPT和LLM 应用及原理/chatgpt 与 可视化画图 mermaid]]
 - [[Cards/咪蒙公众号标题风格生成]]
 

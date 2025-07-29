@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-26'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/CleanShot X.md
 publish: true
-published: '2025-07-26T15:18:48.376+08:00'
+published: '2025-07-29T21:01:30.730+08:00'
 tags:
 - macOS软件
 - 截图工具

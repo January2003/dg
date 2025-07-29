@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-05'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/∑ obsidian插件.md
 publish: true
-published: '2025-07-10T22:21:51.601+08:00'
+published: '2025-07-29T23:24:26.576+08:00'
 title: ∑ obsidian插件
 ---
 ## 本仓库的已安装插件列表
@@ -40,7 +40,7 @@ johnny整理且每周更新的插件列表，带一句话中文介绍：
 
 玩过的插件，即使卸载了，这里先不删除，没准儿以后有用到的时候的。[[ 主动插件和被动插件]]
 
-md原生表格编辑体验太差，以后简单表格考虑直接使用list替代，复杂表格考虑换成[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/DB Folder]]或者[[Cards/Projects]]插件进行编辑。
+md原生表格编辑体验太差，以后简单表格考虑直接使用list替代，复杂表格考虑换成[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Projects]]插件进行编辑。
 
 | obsidian 插件 改成name而非id                       | 是否必装 | 原因                                                         | 待考察                                                         |
 | -------------------------------------------------- | -------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
@@ -51,18 +51,18 @@ md原生表格编辑体验太差，以后简单表格考虑直接使用list替�
 | [[Spaces/3-Resource/软件梳理/macos软件/Bartender]]                                      |          | 编辑左侧和下方菜单显示和顺序，有用                           |                                                                |
 | [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Commander]]                                      | y        | 自定义ob界面的各种按钮                                       |                                                                |
 | [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/DB Folder]]                                      |          |                                                              | 界面编辑用起来还是不舒服，没有notion的体验好                   |
-| [[Daily Notes Editor]]                             |          |                                                              | 批量处理每日日志，挺好用，但感觉要期待官方收编[[Cards/Calendar]]插件 |
+| [[Calendar]]插件 |
 | [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Dataview]]                                       | y        | 待学习，有点麻烦，别人都说是神器                             |                                                                |
 | [[DigitalGarden]]                                  |          |                                                              | 替代官方发布的免费方案，后面有机会尝试                         |
-| [[Spaces/0-Work/Cards/excalibrain]]                                    |          | 类 thebrain 的插件，给图谱引入父子和兄弟的关系               |                                                                |
-| [[Cards/Janitor]]                                        | y        | 目前最好的批量清理笔记插件                                   |                                                                |
+| [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/ExcaliBrain]]                                    |          | 类 thebrain 的插件，给图谱引入父子和兄弟的关系               |                                                                |
+| [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Janitor]]                                        | y        | 目前最好的批量清理笔记插件                                   |                                                                |
 | [[Spaces/2-Area/云服务和部署/LiveSync]]                                       |          | 通过自己的 server，进行多端同步                              |                                                                |
 | [[Cards/ProZen]]                                         | y        | 禅模式目前ob中最好的实现                                     |                                                                |
 | [[Cards/QuickAdd]]                                       |          |                                                              | 半自动化批量添加模板                                           |
-| [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Templater]]                                      |          | 快速插入模板，很重要                                         |                                                                |
+| [[Sources/GithubStarsSync/Templater]]                                      |          | 快速插入模板，很重要                                         |                                                                |
 | [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Admonition\|admonition]]                 |          | 引用美化，鲜活页面                                           | 美化quote样式，已经被内置[[Cards/Callout]] 取代                      |
 | [[auto-link-title]]                                | y        | 复制的网址自动获取其 title，爆赞                             |                                                                |
-| [[Cards/Calendar]]                                       |          | 如果能坚持每日日记，必装                                     |                                                                |
+| [[Calendar]]                                       |          | 如果能坚持每日日记，必装                                     |                                                                |
 |                                          | y        | 标准化、美化 markdown                                        |                                                                |
 | [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Supercharged Links]]                             | y        | 给链接加上样式，提高可识别性👍                               |                                                                |
 | [[Cards/Text expand]]                                    |          |                                                              |                                                                |

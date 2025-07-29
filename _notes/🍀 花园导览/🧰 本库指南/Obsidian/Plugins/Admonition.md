@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Admonition.md
 publish: true
-published: '2025-07-10T20:47:13.779+08:00'
+published: '2025-07-12T03:00:40.160+08:00'
 tags:
 - obsidian插件
 title: Admonition

@@ -1,10 +1,10 @@
 ---
-created: '2025-07-07T11:52:33.445+08:00'
+created: '2025-07-12T02:46:20.244+08:00'
 cssclasses: ''
-modified: '2025-07-08T21:54:54.373+08:00'
+modified: '2025-07-12T03:08:50.763+08:00'
 permalink: /Extras/Prompts/∑ Prompts.md
 publish: true
-published: '2025-07-08T21:54:54.373+08:00'
+published: '2025-07-12T03:08:50.763+08:00'
 title: ∑ Prompts
 ---
 ## 给工具用的整体规则型提示词

@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-10'
 permalink: /Spaces/2-Area/计算机知识/git submodule.md
 publish: true
-published: '2025-07-17T11:00:41.857+08:00'
+published: '2025-07-10T21:54:24.775+08:00'
 title: git submodule
 ---
 > AI时代，这些复杂git操作，统统交给ai自动化搞就行了。

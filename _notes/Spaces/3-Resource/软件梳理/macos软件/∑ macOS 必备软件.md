@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-04-03'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/∑ macOS 必备软件.md
 publish: true
-published: '2025-07-29T01:29:52.777+08:00'
+published: '2025-07-29T23:24:26.591+08:00'
 title: ∑ mac必备软件
 ---
 [[2025年我的macOS软件天梯榜.canvas]]
@@ -45,7 +45,7 @@ title: ∑ mac必备软件
 - [[Spaces/3-Resource/软件梳理/macos软件/uTools]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Keycue]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Hook]]
-- [[Spaces/3-Resource/软件梳理/macos软件/Rectangle]]
+- [[Sources/GithubStarsSync/Rectangle]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Rectangle Pro]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Houdahspot]]
 - [[Spaces/3-Resource/软件梳理/macos软件/one switch]]
@@ -92,7 +92,7 @@ title: ∑ mac必备软件
 - [[Spaces/3-Resource/软件梳理/macos软件/FigrCollage]]
 - [[Spaces/3-Resource/软件梳理/macos软件/GRIS]]
 - [[Spaces/3-Resource/软件梳理/macos软件/INSIDE]]
-- [[Spaces/3-Resource/软件梳理/macos软件/lx-music-desktop]]
+- [[Sources/GithubStarsSync/lx-music-desktop]]
 
 ### 系统增强与优化
 

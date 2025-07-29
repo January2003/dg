@@ -5,7 +5,7 @@ description: Bob 是一款 macOS 平台的翻译和 OCR 软件。
 modified: '2025-07-28'
 permalink: /Sources/GithubStarsSync/Bob.md
 publish: true
-published: '2025-07-28T20:01:32.782+08:00'
+published: '2025-07-29T21:01:20.664+08:00'
 tags:
 - macOS软件
 - raycast插件
