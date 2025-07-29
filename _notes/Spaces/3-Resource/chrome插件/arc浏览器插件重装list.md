@@ -8,9 +8,9 @@ title: arc浏览器插件重装list
 ---
 - [[Cards/Glarity]]
 - [[Cards/HARPA AI]]
-- [[Cards/relingo]]
+- [[Cards/Relingo]]
 - [[v2ex plus]]
-- [[youtube 双字幕]]
+- [[📥 Inbox/youtube 双字幕]]
 
 ## 2025-03-13新
 

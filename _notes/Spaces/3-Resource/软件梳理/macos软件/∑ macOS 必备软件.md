@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-04-03'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/∑ macOS 必备软件.md
 publish: true
-published: '2025-07-25T17:23:59.892+08:00'
+published: '2025-07-29T01:29:52.777+08:00'
 title: ∑ mac必备软件
 ---
 [[2025年我的macOS软件天梯榜.canvas]]
@@ -33,7 +33,7 @@ title: ∑ mac必备软件
 	- [[Spaces/3-Resource/软件梳理/macos软件/Raycast Notes]]
 	- [[Spaces/3-Resource/软件梳理/macos软件/Raycast Window Management]]
 	- [[Spaces/3-Resource/软件梳理/macos软件/Raycast Hyper Key]]
-- ! [[Spaces/3-Resource/软件梳理/macos软件/Bob]]
+- ! [[Sources/GithubStarsSync/Bob]]
 - ! [[Spaces/3-Resource/软件梳理/macos软件/CleanShot X]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Alfred]]
 - [[Spaces/3-Resource/软件梳理/macos软件/BetterTouchTool]]

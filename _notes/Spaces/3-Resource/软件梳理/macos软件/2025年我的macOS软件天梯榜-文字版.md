@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-14'
 permalink: 2025/my-macos-ranks
 publish: true
-published: '2025-07-19T15:12:44.921+08:00'
+published: '2025-07-28T20:31:57.975+08:00'
 title: 2025年我的macOS软件天梯榜-文字版
 ---
 ## God

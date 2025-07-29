@@ -1,8 +1,10 @@
 ---
-date created: 2023-12-24
-date modified: 2024-12-19
+created: '2023-12-24'
+cssclasses: ''
+modified: '2024-12-19'
+permalink: /Spaces/2-Area/macos高效使用/MacOS 常用快捷键.md
 publish: true
-tags: null
+published: '2025-07-29T01:27:41.781+08:00'
 title: MacOS 常用快捷键
 ---
 [[Spaces/2-Area/macos高效使用/MacOS Windows 修饰键 对比]]
@@ -41,7 +43,7 @@ title: MacOS 常用快捷键
 | 软件                    | 功能          | 快捷键                | 频率  | 是否已完全习惯 |
 | --------------------- | ----------- | ------------------ | --- | ------- |
 | alfred or [[Spaces/3-Resource/软件梳理/macos软件/Raycast]] | 打开全局快捷命令悬浮窗 | cmd + space        | 极高  | 是       |
-| [[Spaces/3-Resource/软件梳理/macos软件/Bob]]               | 选取文本翻译      | option + shift + b | 高   |         |
+| [[Sources/GithubStarsSync/Bob]]               | 选取文本翻译      | option + shift + b | 高   |         |
 | bob                   | 打开翻译悬浮窗     | option + b         | 高   |         |
 | [[Spaces/3-Resource/软件梳理/安卓软件/滴答清单]]              | 打开滴答任务添加悬浮窗 | control + space    | 高   |         |
 | [[Spaces/3-Resource/软件梳理/macos软件/搜狗输入法]]             | 语音输入        | option + option    | 低   |         |

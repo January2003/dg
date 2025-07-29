@@ -1,9 +1,10 @@
 ---
-date created: 2025-03-21
-date modified: 2025-07-10
+created: '2025-03-21'
+cssclasses: ''
+modified: '2025-07-10'
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Open in cursor 插件.md
 publish: true
-rating: 5
-status: null
+published: '2025-07-29T01:27:56.207+08:00'
 tags:
 - obsidian插件
 - 自己开发

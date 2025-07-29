@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-05-15'
 permalink: /Extras/Prompts/∑ MOC - prompts 提示词管理.md
 publish: true
-published: '2025-07-25T17:03:02.431+08:00'
+published: '2025-07-26T17:57:04.705+08:00'
 tags:
 - marketing
 - summary
@@ -28,6 +28,8 @@ title: 社交媒体摘要
 - [[Extras/Prompts/城市天气微缩图 - 图片生成]]
 
 ## 视频生成类
+
+[[📥 Inbox/使用veo3生成根据指令遵从的视频]]
 
 ## 思考、推理
 

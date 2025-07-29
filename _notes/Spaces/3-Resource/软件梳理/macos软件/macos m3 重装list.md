@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-13'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/macos m3 重装list.md
 publish: true
-published: '2025-07-15T21:22:54.414+08:00'
+published: '2025-07-28T20:31:57.977+08:00'
 title: macos m3 重装list
 ---
 其实现在有非常多都支持 brew cask 安装，后面记得尝试。
@@ -28,7 +28,7 @@ title: macos m3 重装list
 - [x] [[Spaces/3-Resource/软件梳理/安卓软件/Obsidian]]
 - [x] [[Spaces/3-Resource/软件梳理/安卓软件/Notion]]
 	- [x] [[飞书]]
-- [x] [[Spaces/3-Resource/软件梳理/macos软件/Bob]]
+- [x] [[Sources/GithubStarsSync/Bob]]
 - [x] [[Spaces/3-Resource/软件梳理/安卓软件/滴答清单]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/VSCode]]
 	- [x] [[Spaces/3-Resource/软件梳理/macos软件/Cursor]] ，[[Cards/AI Native]] 软件
@@ -135,7 +135,7 @@ keyboardholder		tencent-meeting
 	- [[Spaces/2-Area/知识管理/QLmarkdown]]
 	- [[Cards/pandoc]]
 - [[Spaces/3-Resource/软件梳理/linux常用命令/z命令]]
-- [[Cards/tldr]]
+- [[Sources/GithubStarsSync/tldr]]
 - [[Spaces/3-Resource/软件梳理/linux常用命令/fzf]]
 
 ## 开发环境
@@ -144,7 +144,7 @@ keyboardholder		tencent-meeting
 
 - [[Spaces/3-Resource/软件梳理/linux常用命令/Docker]]
 - [[Cards/Python]]
-	- [[Cards/pyenv]]
+	- [[Sources/GithubStarsSync/pyenv]]
 - [[Spaces/3-Resource/软件梳理/linux常用命令/Golang]]
 - [[Spaces/3-Resource/软件梳理/linux常用命令/nodejs]]
 	- [[Cards/nvm]]

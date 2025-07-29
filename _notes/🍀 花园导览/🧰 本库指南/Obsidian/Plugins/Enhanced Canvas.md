@@ -9,3 +9,10 @@ tags:
 title: Enhanced Canvas
 ---
 有bug，会把我frontmatter 弄脏甚至弄坏，不用了。
+
+
+---
+
+## 合并内容
+
+[](api制定.md)
