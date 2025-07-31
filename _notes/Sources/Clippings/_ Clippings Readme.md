@@ -1,10 +1,10 @@
 ---
-created: '2025-04-09T22:42:26.817+08:00'
+created: '2025-07-29T23:04:39.345+08:00'
 cssclasses: ''
-modified: '2025-07-12T03:09:20.005+08:00'
+modified: '2025-07-29T23:04:39.348+08:00'
 permalink: /Sources/Clippings/_ Clippings Readme.md
 publish: true
-published: '2025-07-12T03:09:20.005+08:00'
+published: '2025-07-29T23:04:39.348+08:00'
 tags:
 - workflow
 title: _ Clippings Readme

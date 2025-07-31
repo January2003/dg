@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /Cards/Ideaverse Pro.md
 publish: true
-published: '2025-07-09T18:32:04.713+08:00'
+published: '2025-07-29T23:04:06.067+08:00'
 title: Ideaverse Pro
 ---
 官网：[Ideaverse Pro](https://www.linkingyourthinking.com/ideaverse-pro?sh_kit=6e207043251e5900ea145e2108421a9907a2c4610a216dc29b5e3ce4a245e859)

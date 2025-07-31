@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-06-06'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Actions URI.md
 publish: true
-published: '2025-07-12T02:52:00.034+08:00'
+published: '2025-07-10T20:46:41.243+08:00'
 tags:
 - obsidian插件
 title: Actions URI

@@ -5,7 +5,7 @@ description: Karabiner-Elements is a powerful tool for customizing keyboards on 
 modified: '2024-10-23'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/Karabiner-Elements.md
 publish: true
-published: '2025-07-18T11:26:44.144+08:00'
+published: '2025-07-29T23:04:29.086+08:00'
 tags:
 - macOS软件
 - github开源

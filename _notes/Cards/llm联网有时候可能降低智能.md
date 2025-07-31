@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-11'
 permalink: /Cards/llm联网有时候可能降低智能.md
 publish: true
-published: '2025-07-13T22:51:24.456+08:00'
+published: '2025-07-29T23:04:06.655+08:00'
 title: llm联网有时候可能降低智能
 ---
 比如 Perplexity 就显得很呆，它倾向于直接去搜答案，而不是自己推理。

@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /Cards/HIIT，持续有氧各自有什么优势.md
 publish: true
-published: '2025-07-12T18:32:51.554+08:00'
+published: '2025-07-29T23:04:08.051+08:00'
 title: HIIT，持续有氧各自有什么优势
 ---
 HIIT执行起来，身体感觉更累，持续稳定的有氧则比较轻松。

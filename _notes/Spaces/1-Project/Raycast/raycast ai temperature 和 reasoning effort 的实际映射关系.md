@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-04-12'
 permalink: /Spaces/1-Project/Raycast/raycast ai temperature 和 reasoning effort 的实际映射关系.md
 publish: true
-published: '2025-07-11T15:31:48.685+08:00'
+published: '2025-07-29T23:04:34.815+08:00'
 title: raycast ai temperature 和 reasoning effort 的实际映射关系
 ---
 The result obtained by capturing HTTPS request packets.

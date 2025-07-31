@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian开箱即用示例库.md
 publish: true
-published: '2025-07-12T02:37:28.552+08:00'
+published: '2025-07-07T17:10:24.360+08:00'
 title: obsidian开箱即用示例库
 ---
 >[!INFO] 提示  

@@ -5,7 +5,7 @@ description: Visual Studio Code
 modified: '2024-07-11'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/VSCode.md
 publish: true
-published: '2025-07-29T20:50:46.686+08:00'
+published: '2025-07-29T23:04:29.982+08:00'
 tags:
 - macOS软件
 - windows软件

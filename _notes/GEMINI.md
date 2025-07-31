@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-06'
 permalink: /GEMINI.md
 publish: true
-published: '2025-07-15T21:00:46.347+08:00'
+published: '2025-07-27T16:14:56.537+08:00'
 title: GEMINI
 ---
 # GEMINI.md

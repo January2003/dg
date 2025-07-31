@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /Spaces/2-Area/运动健康/HIIT.md
 publish: true
-published: '2025-07-12T18:32:35.872+08:00'
+published: '2025-07-29T23:04:11.445+08:00'
 title: HIIT
 ---
 x:: [[Spaces/2-Area/运动健康/EPOC]], [[Cards/HIIT，持续有氧各自有什么优势]]

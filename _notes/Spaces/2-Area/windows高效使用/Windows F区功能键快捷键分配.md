@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2024-10-08'
 permalink: /Spaces/2-Area/windows高效使用/Windows F区功能键快捷键分配.md
 publish: true
-published: '2025-07-10T22:42:44.343+08:00'
+published: '2025-07-29T23:04:13.893+08:00'
 title: Windows F区功能键快捷键分配
 ---
 ## Windows F1-F12 功能键列表

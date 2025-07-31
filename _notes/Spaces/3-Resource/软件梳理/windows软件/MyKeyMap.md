@@ -5,7 +5,7 @@ description: 一款基于 AutoHotkey 的键盘映射工具
 modified: '2025-07-13'
 permalink: /Spaces/3-Resource/软件梳理/windows软件/MyKeyMap.md
 publish: true
-published: '2025-07-13T14:13:18.728+08:00'
+published: '2025-07-29T23:04:30.353+08:00'
 tags:
 - windows软件
 - github开源

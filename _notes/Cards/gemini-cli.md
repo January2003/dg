@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-10'
 permalink: /Cards/gemini-cli.md
 publish: true
-published: '2025-07-20T18:42:28.812+08:00'
+published: '2025-07-29T23:04:08.840+08:00'
 tags:
 - AI工具
 - linux命令

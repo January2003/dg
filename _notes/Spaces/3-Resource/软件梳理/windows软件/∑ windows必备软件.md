@@ -89,6 +89,6 @@ title: ∑ windows必备软件
 [[Spaces/2-Area/windows高效使用/AtlasOS + AME Wizard]]
 
 [[Spaces/2-Area/windows高效使用/RytuneX - windows 优化精简]]  
-[[Sources/GithubStarsSync/optimizer]]
+[[Spaces/2-Area/windows高效使用/Optimizer]]
 
 [[Sources/GithubStarsSync/OFGB]]

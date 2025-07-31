@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-06-25'
 permalink: /Cards/claude code.md
 publish: true
-published: '2025-07-29T22:03:14.480+08:00'
+published: '2025-07-31T18:31:44.631+08:00'
 tags:
 - powershell命令
 - linux命令
@@ -69,6 +69,8 @@ telegram 和folo频道推荐
 ```
 claude --dangerously-skip-permissions
 ```
+
+## 其他常用参数
 
 
 

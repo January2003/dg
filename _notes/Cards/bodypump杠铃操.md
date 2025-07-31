@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /Cards/bodypump杠铃操.md
 publish: true
-published: '2025-07-12T18:32:10.742+08:00'
+published: '2025-07-29T23:04:05.082+08:00'
 title: bodypump杠铃操
 ---
 up:: [[Cards/跳操团课]]

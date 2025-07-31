@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /Cards/OMAD轻断食.md
 publish: true
-published: '2025-07-12T17:45:58.426+08:00'
+published: '2025-07-29T23:04:03.788+08:00'
 title: OMAD轻断食
 ---
 one meal a day。一天只吃一顿，这一顿把全天需要的营养都吃完，差不多耗时一小时，所以相比于[[Spaces/2-Area/运动健康/168轻断食]]来说，相当于231轻断食。

@@ -5,7 +5,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /Cards/RPE.md
 publish: true
-published: '2025-07-12T18:31:27.782+08:00'
+published: '2025-07-29T23:04:10.957+08:00'
 title: RPE
 ---
 RPE (Rating of Perceived Exertion) 代表本体感觉的运动强度，它是某人运动强度的数字估计。评分最初是基于Borg量表进行的，这是一种衡量您锻炼强度的方法，范围从6（无劳累）到20（非常辛苦）。

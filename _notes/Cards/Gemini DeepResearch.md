@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-11'
 permalink: /Cards/Gemini DeepResearch.md
 publish: true
-published: '2025-07-11T15:10:38.401+08:00'
+published: '2025-07-29T23:04:06.340+08:00'
 title: Gemini DeepResearch
 ---
 让gemini深度研究过的一些例子，需要的时候，直接去gemini网址里面搜聊天记录，或者搜google drive中的转存。就不专门转存下来污染ob库了，篇幅太大。

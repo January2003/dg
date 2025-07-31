@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2024-11-21'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/Cursor.md
 publish: true
-published: '2025-07-29T20:47:44.737+08:00'
+published: '2025-07-29T23:04:29.355+08:00'
 tags:
 - windows软件
 - macOS软件

@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-07-11'
 permalink: /Cards/obsidian 必装插件.md
 publish: true
-published: '2025-07-12T02:38:51.462+08:00'
+published: '2025-07-29T23:04:06.657+08:00'
 title: obsidian 必装插件
 ---
 [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/∑ obsidian插件]]

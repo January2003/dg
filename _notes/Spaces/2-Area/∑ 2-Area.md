@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-06-27'
 permalink: /Spaces/2-Area/∑ 2-Area.md
 publish: true
-published: '2025-07-12T17:40:01.512+08:00'
+published: '2025-07-29T23:04:12.103+08:00'
 tags:
 - moc
 title: ∑ 2-Area

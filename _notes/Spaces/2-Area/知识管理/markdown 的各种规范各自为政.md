@@ -1,10 +1,10 @@
 ---
-created: '2025-06-09T20:47:14.392+08:00'
+created: '2025-07-29T23:04:15.127+08:00'
 cssclasses: ''
-modified: '2025-07-10T22:30:59.353+08:00'
+modified: '2025-07-29T23:04:15.129+08:00'
 permalink: /Spaces/2-Area/知识管理/markdown 的各种规范各自为政.md
 publish: true
-published: '2025-07-10T22:30:59.353+08:00'
+published: '2025-07-29T23:04:15.129+08:00'
 title: markdown 的各种规范各自为政
 ---
 |            |                                                |                                                                                                                                      |

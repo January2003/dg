@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /Cards/增肌的最佳科学负重重量RM.md
 publish: true
-published: '2025-07-12T18:46:51.202+08:00'
+published: '2025-07-29T23:04:10.856+08:00'
 title: 增肌的最佳科学负重重量RM
 ---
 RM（Repetition Maximum）定义：  

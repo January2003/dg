@@ -4,7 +4,7 @@ cssclasses: ''
 modified: '2025-06-26'
 permalink: /Cards/元提示词 - 优化提示词 - 优化prompts.md
 publish: true
-published: '2025-07-11T16:00:35.632+08:00'
+published: '2025-07-29T23:04:09.670+08:00'
 title: 元提示词 - 优化提示词 - 优化prompts
 ---
 [PromptPilot](https://promptpilot.volcengine.com/startup)
