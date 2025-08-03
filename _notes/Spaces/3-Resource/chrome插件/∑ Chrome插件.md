@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-25'
 permalink: /Spaces/3-Resource/chrome插件/∑ Chrome插件.md
 publish: true
-published: '2025-07-29T23:04:28.797+08:00'
 title: chrome必装插件
 ---
 [[chrome插件.base]]

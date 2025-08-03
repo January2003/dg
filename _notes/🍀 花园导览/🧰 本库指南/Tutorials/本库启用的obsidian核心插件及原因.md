@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Tutorials/本库启用的obsidian核心插件及原因.md
 publish: true
-published: '2025-07-29T23:24:26.553+08:00'
 title: 本库启用的obsidian核心插件及原因
 ---
 ## 启用

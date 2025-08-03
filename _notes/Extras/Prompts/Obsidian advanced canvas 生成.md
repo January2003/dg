@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-05-26'
 permalink: /Extras/Prompts/Obsidian advanced canvas 生成.md
 publish: true
-published: '2025-07-11T16:02:04.322+08:00'
 tags:
 - prompts
 title: Obsidian advanced canvas 生成

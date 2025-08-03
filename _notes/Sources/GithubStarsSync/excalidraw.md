@@ -5,7 +5,6 @@ description: Virtual whiteboard for sketching hand-drawn like diagrams
 modified: '2025-07-12'
 permalink: /Sources/GithubStarsSync/excalidraw.md
 publish: true
-published: '2025-07-12T23:46:57.727+08:00'
 tags:
 - github开源
 - obsidian插件

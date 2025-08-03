@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-04-03'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/∑ macOS 必备软件.md
 publish: true
-published: '2025-07-29T23:24:26.591+08:00'
 title: ∑ mac必备软件
 ---
 [[2025年我的macOS软件天梯榜.canvas]]

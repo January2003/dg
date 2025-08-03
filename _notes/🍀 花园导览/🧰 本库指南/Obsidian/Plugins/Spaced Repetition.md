@@ -1,11 +1,10 @@
 ---
-aliases:
-- 间隔重复
-date created: 2022-06-09
-date modified: 2023-03-14
+aliases: 间隔重复
+created: '2022-06-09'
+cssclasses: ''
+modified: '2023-03-14'
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Spaced Repetition.md
 publish: true
-rating: 6
-status: null
 tags:
 - obsidian插件
 title: Spaced Repetition

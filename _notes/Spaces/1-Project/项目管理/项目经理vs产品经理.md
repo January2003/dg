@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-29T23:04:32.620+08:00'
 permalink: /Spaces/1-Project/项目管理/项目经理vs产品经理.md
 publish: true
-published: '2025-07-29T23:04:32.620+08:00'
 title: 项目经理vs产品经理
 ---
 有些公司有职能重合。

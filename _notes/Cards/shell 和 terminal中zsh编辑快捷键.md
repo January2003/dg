@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2024-11-21'
 permalink: /Cards/shell 和 terminal中zsh编辑快捷键.md
 publish: true
-published: '2025-07-29T23:04:05.619+08:00'
 title: terminal中zsh编辑快捷键
 ---
 |             |                   |

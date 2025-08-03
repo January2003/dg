@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2024-07-26'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/∑ linux常用命令行.md
 publish: true
-published: '2025-07-29T23:24:26.592+08:00'
 tags:
 - moc
 title: ∑ linux常用命令行

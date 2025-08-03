@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/如何提高Obsidian的启动速度？.md
 publish: true
-published: '2025-07-07T17:10:24.430+08:00'
 title: 如何提高Obsidian的启动速度？
 ---
 > 本文摘抄自 [tft脚本er.medium.com](https://tft脚本er.medium.com/improve-obsidian-startup-time-on-older-devices-with-the-faststart-script-70a6c590309f)  

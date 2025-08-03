@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-05-26'
 permalink: /Extras/Prompts/mermaid 生成 - 文本生成.md
 publish: true
-published: '2025-07-11T16:01:15.489+08:00'
 tags:
 - prompts
 title: mermaid 生成 - 文本生成

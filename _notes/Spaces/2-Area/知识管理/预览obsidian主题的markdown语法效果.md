@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /Spaces/2-Area/知识管理/预览obsidian主题的markdown语法效果.md
 publish: true
-published: '2025-07-29T23:04:15.111+08:00'
 title: 大标题
 ---
 # 大标题

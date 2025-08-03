@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-25T23:14:20.017+08:00'
 permalink: /Extras/Documents/Obsidian Bases syntax 规范.md
 publish: true
-published: '2025-07-25T23:14:20.017+08:00'
 title: Obsidian Bases syntax 规范
 ---
 [[Extras/Documents/obsidian bases function语法]]

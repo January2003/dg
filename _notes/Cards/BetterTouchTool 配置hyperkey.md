@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-06-18'
 permalink: /Cards/BetterTouchTool 配置hyperkey.md
 publish: true
-published: '2025-07-29T23:04:04.535+08:00'
 title: BetterTouchTool 配置hyperkey
 ---
 [[📥 Inbox/Raycast 配置 hyperkey]]

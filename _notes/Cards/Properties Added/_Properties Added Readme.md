@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-06-17'
 permalink: /Cards/Properties Added/_Properties Added Readme.md
 publish: true
-published: '2025-07-29T23:04:04.397+08:00'
 tags:
 - workflow
 title: _Properties Added Readme

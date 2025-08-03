@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-29T23:04:15.129+08:00'
 permalink: /Spaces/2-Area/知识管理/markdown 的各种规范各自为政.md
 publish: true
-published: '2025-07-29T23:04:15.129+08:00'
 title: markdown 的各种规范各自为政
 ---
 |            |                                                |                                                                                                                                      |

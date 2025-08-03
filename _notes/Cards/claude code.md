@@ -1,15 +1,47 @@
 ---
 created: '2025-04-17'
 cssclasses: ''
-modified: '2025-06-25'
+modified: '2025-08-02'
 permalink: /Cards/claude code.md
 publish: true
-published: '2025-07-31T18:31:44.631+08:00'
 tags:
 - powershell命令
 - linux命令
 title: claude code
 ---
+用量监控[[📥 Inbox/claude code monitor]]
+##
+
+在多个子环境中使用
+
+```
+orb -m ubuntu -u root
+```
+
+如果使用非root模式，则安装有点麻烦。如果使用root，则无法使用 claude 的疯狂模式。
+
+```
+curl https://mise.run | sh
+
+echo "eval \"\$(/root/.local/bin/mise activate bash)\"" >> ~/.bashrc
+
+source ~/.bashrc
+
+mise trust
+
+mise use node
+
+npm install -g @anthropic-ai/claude-code
+```
+
+##
+
+```
+npm install -g @anthropic-ai/claude-code
+```
+
+##
+
 使用[[Sources/GithubStarsSync/claude-code-router]]绕过官方限制。或者使用各种第三方的中转站： [[Cards/claude code 第三方中转站]]
 
 [[📥 Inbox/claude code windows]]
@@ -21,7 +53,6 @@ title: claude code
 3. 连接到ide，比如cursor。
 	1. cursor中安装claude code。
 	2. cc中输入/ide进行连接。
-
 
 ## 通知音效
 
@@ -72,8 +103,6 @@ claude --dangerously-skip-permissions
 
 ## 其他常用参数
 
-
-
 ## 使用其他模型
 
-[[📥 Inbox/kimi v2用于claude code]]
+[[📥 Inbox/kimi v2用于claude code-官方token-不用ccr的情况下]]

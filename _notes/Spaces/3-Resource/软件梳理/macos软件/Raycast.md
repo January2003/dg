@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-30'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/Raycast.md
 publish: true
-published: '2025-07-30T23:33:34.815+08:00'
 tags:
 - macOS软件
 title: Raycast
@@ -73,6 +72,8 @@ Raycast 是软件尊重用户时间的产物。
 [[Spaces/1-Project/Raycast/raycast 一键快速应用 平替 rcmd]]
 
 ## [[Spaces/1-Project/Raycast/raycast wrapped 年底年度总结#2023 年 3 个月的使用记录]]
+
+raycast
 
 ## 最强安利视频
 

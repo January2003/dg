@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-18'
 permalink: /📥 Inbox/本库不建议在obsidian中搞homepage仪表盘主页.md
 publish: true
-published: '2025-07-19T01:52:04.819+08:00'
 tags:
 - AI生成
 title: 本库不建议在obsidian中搞homepage仪表盘主页

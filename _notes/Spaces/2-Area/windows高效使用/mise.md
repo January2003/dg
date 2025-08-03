@@ -5,7 +5,6 @@ description: dev tools, env vars, task runner
 modified: '2025-07-04'
 permalink: /Spaces/2-Area/windows高效使用/mise.md
 publish: true
-published: '2025-07-29T23:24:26.598+08:00'
 tags:
 - linux命令
 - github开源

@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-07T17:10:23.996+08:00'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/Obsidian拎包入住开荒仓库.md
 publish: true
-published: '2025-07-07T17:10:23.996+08:00'
 title: Obsidian拎包入住开荒仓库
 ---
 ## Obsidian拎包入住开荒仓库

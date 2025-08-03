@@ -5,7 +5,6 @@ description: 💬 A Simple, Safe Comment System
 modified: '2025-07-09T18:50:57.393+08:00'
 permalink: /Sources/GithubStarsSync/waline.md
 publish: true
-published: '2025-07-09T18:50:57.393+08:00'
 tags:
 - github开源
 title: waline

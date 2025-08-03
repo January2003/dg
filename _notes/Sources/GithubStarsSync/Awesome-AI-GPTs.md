@@ -6,7 +6,6 @@ description: Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugin
 modified: '2025-07-08T21:58:12.792+08:00'
 permalink: /Sources/GithubStarsSync/Awesome-AI-GPTs.md
 publish: true
-published: '2025-07-08T21:58:12.792+08:00'
 tags:
 - github开源
 title: Awesome-AI-GPTs

@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /Sources/Books/微信读书同步/未分类/Building a Second Brain-Tiago Forte.md
 publish: true
-published: '2025-07-23T22:30:40.937+08:00'
 socialImage: https://res.weread.qq.com/wrepub/CB_1x64Y84a47Mu6ZM6YE_parsecover
 tags:
 - 微信读书笔记

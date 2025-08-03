@@ -5,7 +5,6 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /Atlas/MOCs/_ MOCs Readme.md
 publish: true
-published: '2025-07-12T03:18:00.746+08:00'
 tags:
 - moc
 title: ∑ MOCs

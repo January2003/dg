@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2024-11-21'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian卡顿问题定位方法.md
 publish: true
-published: '2025-07-09T15:47:48.743+08:00'
 title: obsidian卡顿问题定位方法
 ---
 ## obsidian 卡顿问题定位方法

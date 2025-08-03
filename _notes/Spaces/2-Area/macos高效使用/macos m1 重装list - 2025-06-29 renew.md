@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-04'
 permalink: /Spaces/2-Area/macos高效使用/macos m1 重装list - 2025-06-29 renew.md
 publish: true
-published: '2025-07-29T23:45:26.840+08:00'
 title: macos m1 重装list - 2025-06-29 renew
 ---
 > 要注意，有arm或通用版本，则尽量不要使用intel版本，卡顿且耗电。

@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2023-03-14 00:00:00+00:00'
 permalink: /Spaces/Published/已发布文章/obsidian 是可以用一辈子不换的笔记软件吗.md
 publish: true
-published: true
 tags:
 - 文章/已完成
 title: obsidian 是可以用一辈子不换的笔记软件吗

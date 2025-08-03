@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /Spaces/1-Project/2025年ack和k8s学习回顾/Devops.md
 publish: true
-published: '2025-07-29T23:04:37.032+08:00'
 title: Devops
 ---
 ## devops思考

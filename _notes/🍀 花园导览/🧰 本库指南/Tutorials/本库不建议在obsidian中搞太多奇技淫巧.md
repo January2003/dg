@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Tutorials/本库不建议在obsidian中搞太多奇技淫巧.md
 publish: true
-published: '2025-07-07T17:10:23.996+08:00'
 title: 本库不建议在obsidian中搞太多奇技淫巧
 ---
 可能，你们的第一眼，看到本库，会觉得有点失望，相比于看到cuman或rainbell或其他示例库，简直显得有点简陋。界面配色一股性冷淡风，可视化的图标也看不到几个，简直无从下手。

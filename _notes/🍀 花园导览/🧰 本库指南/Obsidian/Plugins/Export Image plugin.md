@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-13'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Export Image plugin.md
 publish: true
-published: '2025-07-15T13:12:46.260+08:00'
 tags:
 - obsidian插件
 title: Export Image plugin

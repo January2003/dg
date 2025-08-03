@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-06-16'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Inscribe.md
 publish: true
-published: '2025-07-10T21:12:24.874+08:00'
 tags:
 - obsidian插件
 title: Inscribe

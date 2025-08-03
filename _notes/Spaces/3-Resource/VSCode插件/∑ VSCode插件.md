@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-05-31'
 permalink: /Spaces/3-Resource/VSCode插件/∑ VSCode插件.md
 publish: true
-published: '2025-07-29T23:24:26.587+08:00'
 title: vscode必备插件
 ---
 [[Spaces/3-Resource/软件梳理/macos软件/VSCode]]

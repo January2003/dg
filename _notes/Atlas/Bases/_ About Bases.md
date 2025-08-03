@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-15'
 permalink: /Atlas/Bases/_ About Bases.md
 publish: true
-published: '2025-07-15T19:36:19.292+08:00'
 tags:
 - 本库教程
 - workflow

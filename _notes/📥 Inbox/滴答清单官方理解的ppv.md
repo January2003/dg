@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-23'
 permalink: /📥 Inbox/滴答清单官方理解的ppv.md
 publish: true
-published: '2025-07-23T15:16:39.176+08:00'
 title: 滴答清单官方理解的ppv
 ---
 **人生支柱 + 行动路径！打造你的个人管理系统**

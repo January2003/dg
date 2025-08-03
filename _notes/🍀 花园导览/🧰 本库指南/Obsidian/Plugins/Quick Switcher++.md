@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-28'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Quick Switcher++.md
 publish: true
-published: '2025-07-28T18:44:50.074+08:00'
 tags:
 - obsidian插件
 title: Quick Switcher++

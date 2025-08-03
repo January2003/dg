@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/📹放弃roam用obsidian的理由.md
 publish: true
-published: '2025-07-07T17:10:24.430+08:00'
 title: 📹放弃roam用obsidian的理由
 ---
 [Why I chose Obsidian over Roam (as a Roam investor) - YouTube](https://www.youtube.com/watch?v=AWUk8-6yG2g)

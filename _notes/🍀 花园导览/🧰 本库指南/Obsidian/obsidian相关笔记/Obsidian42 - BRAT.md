@@ -4,6 +4,5 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/Obsidian42 - BRAT.md
 publish: true
-published: '2025-07-07T17:10:23.996+08:00'
 title: Obsidian42 - BRAT
 ---

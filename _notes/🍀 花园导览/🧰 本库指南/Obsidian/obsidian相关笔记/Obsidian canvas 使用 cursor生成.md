@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-06-27'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/Obsidian canvas 使用 cursor生成.md
 publish: true
-published: '2025-07-21T13:36:05.296+08:00'
 tags:
 - AI教程
 title: Obsidian canvas 使用 cursor生成

@@ -5,7 +5,6 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /Spaces/2-Area/运动健康/EPOC.md
 publish: true
-published: '2025-07-29T23:04:11.916+08:00'
 title: EPOC
 ---
 x:: [[艾宾浩斯记忆曲线]] [[Cards/肌肉不是锻炼的时候生长的，而是后面经历酸痛感的时期合成的]]

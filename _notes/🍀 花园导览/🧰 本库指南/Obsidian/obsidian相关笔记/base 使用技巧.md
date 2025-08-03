@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-28'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/base 使用技巧.md
 publish: true
-published: '2025-07-28T22:11:59.922+08:00'
 title: base 使用技巧
 ---
 ##

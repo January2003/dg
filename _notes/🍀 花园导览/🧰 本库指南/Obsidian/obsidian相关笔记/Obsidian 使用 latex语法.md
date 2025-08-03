@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-03-05'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/Obsidian 使用 latex语法.md
 publish: true
-published: '2025-07-07T17:10:24.153+08:00'
 title: Obsidian 使用 latex语法
 ---
 Obsidian latex语法如下：

@@ -6,7 +6,6 @@ description: 🌱 a fast, batteries-included static-site generator that transfor
 modified: '2025-07-29'
 permalink: /Sources/GithubStarsSync/quartz.md
 publish: true
-published: '2025-07-29T20:29:00.282+08:00'
 tags:
 - github开源
 title: quartz

@@ -4,9 +4,12 @@ cssclasses: ''
 modified: '2025-07-12'
 permalink: /🍀 花园导览/🔧 如何用好AI工具.md
 publish: true
-published: '2025-07-29T23:24:26.519+08:00'
 title: 🔧 如何用好AI工具
 ---
+> [!MAP] 领域导航
+> 🔧 如何用好AI工具 | [[🍀 花园导览/🏋 如何保持健康]] | [[🍀 花园导览/🧀 个人知识管理]] | [[🍀 花园导览/🗜 效率工具使用]]
+
+
 现在ai要用好，就3步：
 
 1. 快速判断自己的问题是否要联网，是否要快，还是要细。[[Cards/Gemini DeepResearch]]，[[Cards/llm联网有时候可能降低智能]]

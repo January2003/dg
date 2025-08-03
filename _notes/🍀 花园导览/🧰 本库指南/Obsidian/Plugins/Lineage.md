@@ -5,7 +5,6 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Lineage.md
 publish: true
-published: '2025-07-14T19:57:28.243+08:00'
 tags:
 - obsidian插件
 title: Lineage

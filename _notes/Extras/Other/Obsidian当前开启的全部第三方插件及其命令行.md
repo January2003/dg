@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-06-27'
 permalink: /Extras/Other/Obsidian当前开启的全部第三方插件及其命令行.md
 publish: true
-published: '2025-07-09T00:33:08.272+08:00'
 title: Obsidian当前开启的全部第三方插件及其命令行
 ---
 advanced-canvas:clone-node-down

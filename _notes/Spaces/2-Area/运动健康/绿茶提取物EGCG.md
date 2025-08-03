@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /Spaces/2-Area/运动健康/绿茶提取物EGCG.md
 publish: true
-published: '2025-07-29T23:04:12.069+08:00'
 title: 绿茶提取物EGCG
 ---
 x:: [[Spaces/2-Area/运动健康/茶的分类]]

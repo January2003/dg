@@ -5,7 +5,6 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Dataview.md
 publish: true
-published: '2025-07-10T22:25:31.424+08:00'
 tags:
 - obsidian插件
 title: Dataview

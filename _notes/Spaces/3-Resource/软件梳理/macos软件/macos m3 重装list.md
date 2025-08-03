@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-13'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/macos m3 重装list.md
 publish: true
-published: '2025-07-29T23:04:29.619+08:00'
 title: macos m3 重装list
 ---
 其实现在有非常多都支持 brew cask 安装，后面记得尝试。

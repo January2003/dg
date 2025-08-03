@@ -9,7 +9,6 @@ description: 🤯 Lobe Chat - an open-source, modern design AI chat framework. S
 modified: '2025-07-11'
 permalink: /Sources/GithubStarsSync/lobe-chat.md
 publish: true
-published: '2025-07-11T16:02:51.714+08:00'
 tags:
 - github开源
 title: lobe-chat

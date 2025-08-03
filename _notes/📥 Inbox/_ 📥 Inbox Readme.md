@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /📥 Inbox/_ 📥 Inbox Readme.md
 publish: true
-published: '2025-07-09T15:00:23.008+08:00'
 tags:
 - workflow
 title: _ 📥 Inbox Readme

@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /Spaces/1-Project/Raycast/raycast for windows.md
 publish: true
-published: '2025-07-29T23:24:26.594+08:00'
 title: raycast for windows
 ---
 [[呼出应用窗口，这一点上，秒杀全部的原来的主流启动器比如：[[uTools]]、[[Spaces/3-Resource/软件梳理/windows软件/Flow launcher]]等。

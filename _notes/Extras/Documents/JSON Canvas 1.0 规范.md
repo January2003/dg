@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-08T21:54:26.672+08:00'
 permalink: /Extras/Documents/JSON Canvas 1.0 规范.md
 publish: true
-published: '2025-07-08T21:54:26.672+08:00'
 title: JSON Canvas 1.0 规范
 ---
 # JSON Canvas Spec | Obsidian Canvas Spec

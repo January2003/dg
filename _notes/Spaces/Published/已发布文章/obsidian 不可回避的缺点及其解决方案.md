@@ -1,6 +1,8 @@
 ---
-date created: 2022-08-01 00:00:00+00:00
-date modified: 2023-03-14 00:00:00+00:00
+created: '2022-08-01 00:00:00+00:00'
+cssclasses: ''
+modified: '2023-03-14 00:00:00+00:00'
+permalink: /Spaces/Published/已发布文章/obsidian 不可回避的缺点及其解决方案.md
 publish: true
 tags:
 - 文章/已完成

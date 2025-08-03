@@ -1,14 +1,12 @@
 ---
-date created: 2023-01-23
-date modified: 2025-06-06
+created: '2023-01-23'
+cssclasses: ''
+modified: '2025-06-06'
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Another Quick Switcher.md
 publish: true
-rating: 5
-status: null
 tags:
 - obsidian插件
 title: Another Quicker Switcher
-当前使用频率: null
-当前是否还在使用: false
 ---
 ## Another Quick Switcher
 

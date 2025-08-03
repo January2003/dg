@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-29T23:04:09.554+08:00'
 permalink: /Cards/perplexity.ai的工作机制背后原理.md
 publish: true
-published: '2025-07-29T23:04:09.554+08:00'
 title: perplexity.ai的工作机制背后原理
 ---
 [Perplexity：用答案引擎挑战Google | 万字长文]

@@ -6,7 +6,6 @@ description: 'A commenting system powered by GitHub Discussions. :octocat: :spee
 modified: '2025-07-09T18:51:02.580+08:00'
 permalink: /Sources/GithubStarsSync/giscus.md
 publish: true
-published: '2025-07-09T18:51:02.580+08:00'
 tags:
 - github开源
 title: giscus

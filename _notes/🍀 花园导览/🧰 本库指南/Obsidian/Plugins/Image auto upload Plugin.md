@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-06-06'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Image auto upload Plugin.md
 publish: true
-published: '2025-07-10T21:12:19.393+08:00'
 tags:
 - obsidian插件
 title: Image auto upload Plugin

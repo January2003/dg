@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-29T23:04:39.348+08:00'
 permalink: /Sources/Clippings/_ Clippings Readme.md
 publish: true
-published: '2025-07-29T23:04:39.348+08:00'
 tags:
 - workflow
 title: _ Clippings Readme

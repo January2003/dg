@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-07T17:10:23.996+08:00'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian 截图的时候，屏蔽文字，马赛克的方法.md
 publish: true
-published: '2025-07-07T17:10:23.996+08:00'
 title: obsidian 截图的时候，屏蔽文字，马赛克的方法
 ---
 ## 方法一 

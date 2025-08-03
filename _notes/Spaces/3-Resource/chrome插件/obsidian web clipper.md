@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-05-31'
 permalink: /Spaces/3-Resource/chrome插件/obsidian web clipper.md
 publish: true
-published: '2025-07-29T23:04:28.680+08:00'
 tags:
 - chrome插件
 title: obsidian web clipper

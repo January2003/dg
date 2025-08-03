@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /Cards/_ Cards Readme.md
 publish: true
-published: '2025-07-29T23:04:04.349+08:00'
 tags:
 - workflow
 title: About Cards

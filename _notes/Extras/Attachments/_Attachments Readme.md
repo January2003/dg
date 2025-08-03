@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /Extras/Attachments/_Attachments Readme.md
 publish: true
-published: '2025-07-09T15:28:44.579+08:00'
 title: _Attachments Readme
 ---
 定期整理，批量上传到图床。

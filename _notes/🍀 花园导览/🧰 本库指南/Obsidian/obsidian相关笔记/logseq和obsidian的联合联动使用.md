@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/logseq和obsidian的联合联动使用.md
 publish: true
-published: '2025-07-10T22:06:41.120+08:00'
 title: logseq和obsidian的联合联动使用
 ---
 obsidian 的发布功能还没试过，但看了别人的发布效果，感觉也一般。

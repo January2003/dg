@@ -1,13 +1,15 @@
 ---
-date created: 2022-07-01
-date modified: 2023-03-14
+created: '2022-07-01'
+cssclasses: ''
+modified: '2023-03-14'
+permalink: /Spaces/2-Area/云服务和部署/CloudFlare.md
 publish: true
 tags:
 - 好用网站
 title: CloudFlare
-url: https://dash.cloudflare.com/
-评价: 7
 ---
+日常使用考虑配合ai生成命令行，用[[📥 Inbox/wrangler]]进行操作
+
 另外2个赛博菩萨：
 [[Cards/supabase]]和[[Sources/GithubStarsSync/neon]]，都基于[[Cards/PostgreSQL]]提供开箱即用的[[Cards/无服务器计算服务\|serverless]]
 

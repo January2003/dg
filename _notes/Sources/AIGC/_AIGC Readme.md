@@ -1,10 +1,12 @@
 ---
+created: '2025-07-12T02:46:20.267+08:00'
+cssclasses: ''
+modified: '2025-08-03T02:50:50.167+08:00'
+permalink: /Sources/AIGC/_AIGC Readme.md
 publish: true
 tags:
 - AI生成
 title: AIGC
-toc: true
-是否已review: true
 ---
 > AI生成，且未经过审阅修改的，先都放这个目录下。
 

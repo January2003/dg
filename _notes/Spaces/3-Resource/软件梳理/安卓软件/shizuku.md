@@ -6,7 +6,6 @@ description: Using system APIs directly with adb/root privileges from normal app
 modified: '2025-07-29T23:04:30.996+08:00'
 permalink: /Spaces/3-Resource/软件梳理/安卓软件/shizuku.md
 publish: true
-published: '2025-07-29T23:04:30.996+08:00'
 tags:
 - github开源
 - 安卓软件

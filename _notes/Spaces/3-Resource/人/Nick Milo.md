@@ -1,7 +1,8 @@
 ---
-date created: 2022-06-22
-date modified: 2023-03-14
-filetype: person
+created: '2022-06-22'
+cssclasses: ''
+modified: '2023-03-14'
+permalink: /Spaces/3-Resource/人/Nick Milo.md
 publish: true
 title: 🧑Nick Milo
 ---

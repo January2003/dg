@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-07T17:10:24.430+08:00'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian icon替换.md
 publish: true
-published: '2025-07-07T17:10:24.430+08:00'
 title: obsidian icon替换
 ---
 [The new Obsidian icon - Obsidian](https://obsidian.md/blog/new-obsidian-icon/)

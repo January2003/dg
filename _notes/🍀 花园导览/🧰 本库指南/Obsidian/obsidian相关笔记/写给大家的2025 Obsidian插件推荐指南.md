@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-29T23:24:26.576+08:00'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/写给大家的2025 Obsidian插件推荐指南.md
 publish: true
-published: '2025-07-29T23:24:26.576+08:00'
 title: 写给大家的2025 Obsidian插件推荐指南
 ---
 之前写过一篇[[Spaces/Published/已发布文章/2022年7月，obsidian 依然必装的 10 个插件]]

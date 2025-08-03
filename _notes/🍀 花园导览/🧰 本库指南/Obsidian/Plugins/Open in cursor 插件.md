@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-10'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Open in cursor 插件.md
 publish: true
-published: '2025-07-29T01:27:56.207+08:00'
 tags:
 - obsidian插件
 - 自己开发

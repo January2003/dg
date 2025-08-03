@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-17'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Style Settings.md
 publish: true
-published: '2025-07-17T19:57:23.340+08:00'
 tags:
 - obsidian插件
 title: Style Settings

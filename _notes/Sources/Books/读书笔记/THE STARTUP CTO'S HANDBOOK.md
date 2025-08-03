@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2024-11-23'
 permalink: /Sources/Books/读书笔记/THE STARTUP CTO'S HANDBOOK.md
 publish: true
-published: '2025-07-10T20:16:32.525+08:00'
 title: THE STARTUP CTO'S HANDBOOK
 ---
 ## Essential Skills And Best Practices For High Performing Engineering Teams

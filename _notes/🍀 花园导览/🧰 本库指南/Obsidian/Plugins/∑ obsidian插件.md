@@ -4,7 +4,6 @@ cssclasses: ''
 modified: '2025-07-05'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/∑ obsidian插件.md
 publish: true
-published: '2025-07-29T23:24:26.576+08:00'
 title: ∑ obsidian插件
 ---
 ## 本仓库的已安装插件列表
