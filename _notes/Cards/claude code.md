@@ -1,7 +1,7 @@
 ---
 created: '2025-04-17'
 cssclasses: ''
-modified: '2025-08-02'
+modified: '2025-08-05'
 permalink: /Cards/claude code.md
 publish: true
 tags:
@@ -10,6 +10,7 @@ tags:
 title: claude code
 ---
 用量监控[[📥 Inbox/claude code monitor]]
+
 ##
 
 在多个子环境中使用
@@ -32,6 +33,8 @@ mise trust
 mise use node
 
 npm install -g @anthropic-ai/claude-code
+
+npm install -g @musistudio/claude-code-router
 ```
 
 ##

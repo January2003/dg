@@ -1,9 +1,9 @@
 ---
-date created: 2024-05-11
-date modified: 2025-07-10
+created: '2024-05-11'
+cssclasses: ''
+modified: '2025-07-10'
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Better Search Views.md
 publish: true
-rating: 5
-status: null
 tags:
 - obsidian插件
 title: Better Search Views
