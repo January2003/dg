@@ -1,4 +1,5 @@
 ---
+aliases: cubox-sync
 created: '2022-06-17'
 cssclasses: ''
 modified: '2025-07-25'
@@ -7,6 +8,7 @@ publish: true
 tags:
 - macOS软件
 - windows软件
+- obsidian插件
 title: Cubox
 ---
 插件：[[Spaces/3-Resource/chrome插件/Cubox Chrome 剪藏插件]]

@@ -2,7 +2,7 @@
 created: '2025-06-20T01:50:34.294+08:00'
 cssclasses: ''
 description: 💬 A Simple, Safe Comment System
-modified: '2025-07-09T18:50:57.393+08:00'
+modified: '2025-08-15T22:00:01.169+08:00'
 permalink: /Sources/GithubStarsSync/waline.md
 publish: true
 tags:

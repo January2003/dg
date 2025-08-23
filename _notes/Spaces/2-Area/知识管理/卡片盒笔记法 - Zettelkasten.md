@@ -1,6 +1,8 @@
 ---
-date created: 2022-06-09
-date modified: 2023-03-14
+created: '2022-06-09'
+cssclasses: ''
+modified: '2023-03-14'
+permalink: /Spaces/2-Area/知识管理/卡片盒笔记法 - Zettelkasten.md
 publish: true
 title: 卡片盒笔记法 - Zettelkasten
 ---

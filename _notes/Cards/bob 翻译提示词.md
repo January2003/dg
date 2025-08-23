@@ -1,7 +1,7 @@
 ---
 created: '2025-07-29T23:04:03.918+08:00'
 cssclasses: ''
-modified: '2025-07-29T23:04:03.920+08:00'
+modified: '2025-08-15T21:59:57.570+08:00'
 permalink: /Cards/bob 翻译提示词.md
 publish: true
 title: bob 翻译提示词

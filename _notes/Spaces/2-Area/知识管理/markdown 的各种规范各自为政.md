@@ -1,7 +1,7 @@
 ---
 created: '2025-07-29T23:04:15.127+08:00'
 cssclasses: ''
-modified: '2025-07-29T23:04:15.129+08:00'
+modified: '2025-08-15T22:00:03.764+08:00'
 permalink: /Spaces/2-Area/知识管理/markdown 的各种规范各自为政.md
 publish: true
 title: markdown 的各种规范各自为政

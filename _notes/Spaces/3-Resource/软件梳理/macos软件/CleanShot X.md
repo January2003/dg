@@ -6,7 +6,6 @@ permalink: /Spaces/3-Resource/软件梳理/macos软件/CleanShot X.md
 publish: true
 tags:
 - macOS软件
-- 截图工具
 title: CleanShot X
 ---
 使用技巧：

@@ -1,7 +1,7 @@
 ---
 created: '2025-07-29T23:04:28.719+08:00'
 cssclasses: ''
-modified: '2025-07-29T23:04:28.729+08:00'
+modified: '2025-08-15T22:00:03.867+08:00'
 permalink: /Spaces/3-Resource/chrome插件/youtube英文视频如何看，工具推荐.md
 publish: true
 title: youtube英文视频如何看，工具推荐

@@ -1,4 +1,5 @@
 ---
+aliases: obsidian-export-image
 created: '2025-06-06'
 cssclasses: ''
 modified: '2025-07-13'

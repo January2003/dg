@@ -11,6 +11,8 @@ tags:
 - raycast插件
 title: Cursor
 ---
+[[📥 Inbox/cursor cli]]
+
 [[Spaces/1-Project/Cursor/cursor 使用技巧总结]]
 [[Spaces/1-Project/Cursor/cursor和idea比如goland之间互相跳转]]
 

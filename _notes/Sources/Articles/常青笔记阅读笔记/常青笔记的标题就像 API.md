@@ -1,10 +1,9 @@
 ---
-date created: 2022-08-11
-date modified: 2023-03-14
+created: '2022-08-11'
+cssclasses: ''
+modified: '2023-03-14'
+permalink: /Sources/Articles/常青笔记阅读笔记/常青笔记的标题就像 API.md
 publish: true
-sr-due: 2031-05-12
-sr-ease: 332
-sr-interval: 2550
 tags:
 - review
 - todo/持续迭代

@@ -1,4 +1,5 @@
 ---
+aliases: cubox-sync
 created: '2025-06-05'
 cssclasses: ''
 modified: '2025-07-10'

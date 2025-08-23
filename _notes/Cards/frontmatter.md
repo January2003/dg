@@ -1,9 +1,9 @@
 ---
-aliases:
-- frontdata
-- properties
-date created: 2022-06-09
-date modified: 2023-03-14
+aliases: frontdata properties
+created: '2022-06-09'
+cssclasses: ''
+modified: '2023-03-14'
+permalink: /Cards/frontmatter.md
 publish: true
 title: frontmatter
 ---

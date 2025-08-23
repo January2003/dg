@@ -1,7 +1,7 @@
 ---
 created: '2025-07-29T23:04:06.335+08:00'
 cssclasses: ''
-modified: '2025-07-29T23:04:06.337+08:00'
+modified: '2025-08-15T21:59:57.757+08:00'
 permalink: /Cards/gtihub 不翻墙加速的方法， 用于配置远程机器.md
 publish: true
 title: gtihub 不翻墙加速的方法， 用于配置远程机器

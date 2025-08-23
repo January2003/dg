@@ -7,8 +7,6 @@ publish: true
 tags:
 - 评论/少数派
 - macOS软件
-- 笔记应用
-- 知识管理
 - 安卓软件
 - windows软件
 title: Obsidian

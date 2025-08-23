@@ -110,4 +110,4 @@ onenote带给我的是一种自由且随意的感觉。比如我如果有一个�
 
 我在践行obsidian笔记库全量开源的想法（代码能力不够，笔记来凑😂），欢迎捧场来赏赐1个star⭐️：[GitHub - oldwinter/knowledge-garden: 真实袒露的第二大脑 second brain，未经美化的数字花园 digital garden](https://github.com/oldwinter/knowledge-garden)
 
-![[Extras/Attachments/Pasted image 20250714203422.png]]
+![Pasted image 20250714203422](https://pub-pic.oldwinter.top/2025/08/726be5b245aed9337c9a5a367133b73f.png)

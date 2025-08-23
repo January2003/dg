@@ -3,7 +3,7 @@ created: '2025-07-29T23:04:30.991+08:00'
 cssclasses: ''
 description: Using system APIs directly with adb/root privileges from normal apps
   through a Java process started with app_process.
-modified: '2025-07-29T23:04:30.996+08:00'
+modified: '2025-08-15T22:00:04.303+08:00'
 permalink: /Spaces/3-Resource/软件梳理/安卓软件/shizuku.md
 publish: true
 tags:

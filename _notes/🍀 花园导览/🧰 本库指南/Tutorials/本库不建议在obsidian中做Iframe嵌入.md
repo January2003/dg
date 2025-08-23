@@ -1,6 +1,8 @@
 ---
-date created: 2022-09-02
-date modified: 2023-03-14
+created: '2022-09-02'
+cssclasses: ''
+modified: '2023-03-14'
+permalink: /🍀 花园导览/🧰 本库指南/Tutorials/本库不建议在obsidian中做Iframe嵌入.md
 publish: true
 title: 本库不建议在obsidian中做Iframe嵌入
 ---

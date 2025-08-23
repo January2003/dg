@@ -1,7 +1,7 @@
 ---
 created: '2025-07-29T23:04:39.345+08:00'
 cssclasses: ''
-modified: '2025-07-29T23:04:39.348+08:00'
+modified: '2025-08-15T21:59:59.776+08:00'
 permalink: /Sources/Clippings/_ Clippings Readme.md
 publish: true
 tags:
