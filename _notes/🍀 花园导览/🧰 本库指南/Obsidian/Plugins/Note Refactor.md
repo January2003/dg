@@ -1,4 +1,6 @@
 ---
+aliases:
+- note-refactor-obsidian
 date created: 2024-05-11
 date modified: 2025-07-10
 publish: true

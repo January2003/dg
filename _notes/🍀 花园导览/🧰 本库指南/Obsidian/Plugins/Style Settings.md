@@ -1,4 +1,5 @@
 ---
+aliases: obsidian-style-settings
 created: '2023-01-23'
 cssclasses: ''
 modified: '2025-07-17'

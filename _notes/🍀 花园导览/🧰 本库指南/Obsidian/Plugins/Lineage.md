@@ -1,5 +1,5 @@
 ---
-aliases: 类似gingko的插件
+aliases: 类似gingko的插件 lineage
 created: '2025-04-28'
 cssclasses: ''
 modified: '2025-07-09'

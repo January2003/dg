@@ -1,7 +1,7 @@
 ---
 created: '2025-07-07T11:52:33.445+08:00'
 cssclasses: ''
-modified: '2025-07-08T21:54:54.373+08:00'
+modified: '2025-08-15T21:59:59.705+08:00'
 permalink: /Extras/Prompts/∑ Prompts.md
 publish: true
 title: ∑ Prompts

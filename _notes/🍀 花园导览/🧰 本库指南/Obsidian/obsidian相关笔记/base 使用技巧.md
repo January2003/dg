@@ -37,3 +37,21 @@ if(formula["距死线"].isEmpty(),"❔ 无", if(formula["距死线"]>= 15, "🟠
 if(formula.prog_percent * 10 > 0, "▰▰▰▰▰▰▰▰▰▰".slice( 0, (formula.prog_percent * 10).floor()), "").toString() + if((formula.prog_percent * 10).floor() < 10, "▱▱▱▱▱▱▱▱▱▱".slice( 0, 10 - (formula.prog_percent * 10).floor()), "").toString()
 
 也类似，先计算出 progress 属性的百分比，然后用这个比值去截取两个代表“完成”和“未完成”的字符串
+
+##
+
+使用 `file.embeds[0]` 获取笔记中的第一个嵌入文件——在公式中使用它来为卡片视图创建封面图片。
+
+## formula里面加yaml用的|符号，能方便更清晰地看清楚和编辑公式
+
+![CleanShot 2025-08-19 at 23.52.15@2x.png](https://pub-pic.oldwinter.top/2025/08/e67e0e27949b7c6562e3c8b0e41693c7.png)
+## 将糊成一团的backlink，拆成更细的维度展示，从而更有用
+
+中间是原始backlink面板，右边拆成了多个base中展示的backlink，具备更多上下文和限定条件
+![PixPin_2025-08-23_15-23-30.png](https://pub-pic.oldwinter.top/2025/08/b917fd9f1e025a39c7477401bb479b4d.png)
+
+## 利用当前文件的某个属性值，进行搜索过滤
+
+filter title
+
+![[使用filter tilte字段搜索过滤.base]]

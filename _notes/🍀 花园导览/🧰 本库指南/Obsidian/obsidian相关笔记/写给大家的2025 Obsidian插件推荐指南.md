@@ -1,7 +1,7 @@
 ---
 created: '2025-04-23T14:10:57.183+08:00'
 cssclasses: ''
-modified: '2025-07-29T23:24:26.576+08:00'
+modified: '2025-08-15T22:00:05.156+08:00'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/写给大家的2025 Obsidian插件推荐指南.md
 publish: true
 title: 写给大家的2025 Obsidian插件推荐指南

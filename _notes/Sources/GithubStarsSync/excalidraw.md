@@ -1,4 +1,5 @@
 ---
+aliases: obsidian-excalidraw-plugin
 created: '2023-01-23'
 cssclasses: ''
 description: Virtual whiteboard for sketching hand-drawn like diagrams

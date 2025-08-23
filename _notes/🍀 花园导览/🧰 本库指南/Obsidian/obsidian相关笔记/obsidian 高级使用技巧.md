@@ -1,7 +1,7 @@
 ---
 created: '2025-06-17T22:36:18.727+08:00'
 cssclasses: ''
-modified: '2025-07-07T17:10:24.430+08:00'
+modified: '2025-08-15T22:00:05.145+08:00'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian 高级使用技巧.md
 publish: true
 title: obsidian 高级使用技巧

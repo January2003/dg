@@ -1,6 +1,8 @@
 ---
-date created: 2022-08-05
-date modified: 2025-07-09
+created: '2022-08-05'
+cssclasses: ''
+modified: '2025-07-09'
+permalink: /🍀 花园导览/🧰 本库指南/Tutorials/§ 本库obsidian使用说明书.md
 publish: true
 tags:
 - 目录笔记

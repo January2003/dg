@@ -1,8 +1,9 @@
 ---
-date created: 2024-12-16
-date modified: 2025-06-24
+created: '2024-12-16'
+cssclasses: ''
+modified: '2025-06-24'
+permalink: /Spaces/2-Area/macos高效使用/macos 批量修改不同扩展名的默认程序 - duti.md
 publish: true
-tags: []
 title: macos 批量修改不同扩展名的默认程序 - duti
 ---
 查看

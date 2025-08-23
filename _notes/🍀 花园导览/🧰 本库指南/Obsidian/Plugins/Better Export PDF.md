@@ -1,4 +1,5 @@
 ---
+aliases: better-export-pdf
 created: '2024-05-11'
 cssclasses: ''
 modified: '2025-06-15'

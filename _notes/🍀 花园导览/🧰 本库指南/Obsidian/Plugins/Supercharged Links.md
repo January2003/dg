@@ -1,4 +1,6 @@
 ---
+aliases:
+- supercharged-links-obsidian
 date created: 2022-06-09
 date modified: 2025-07-10
 publish: true
@@ -7,6 +9,7 @@ status: null
 tags:
 - obsidian插件
 title: Supercharged Links
+一句话理由: 给不同类型的文件染色，搜索的时候一眼区分
 ---
 神器啊神器。作者为什么弃坑了？
 
@@ -28,7 +31,7 @@ title: Supercharged Links
 |     |                                                 |
 |     | [[Sources/Movies + TV/豆瓣影音导入/movie/情书]]         |
 |     | [[Sources/Books/微信读书同步/人物传记/世界因你不同：李开复自传（纪念版）-李开复 范海涛]]                   |
-|     | [[Sources/WuCaiSync /2024/03/wucai-如何打造一个学习型组织-H8DA58E]]                   |
+|     | [[Sources/WuCaiSync/2024/03/wucai-如何打造一个学习型组织-H8DA58E]]                   |
 |     | [[Spaces/3-Resource/账号密码/openai api key]]                              |
 |     |                                                 |
 |     | [[Sources/Movies + TV/豆瓣影音导入/teleplay/仙剑奇侠传]]                                       |

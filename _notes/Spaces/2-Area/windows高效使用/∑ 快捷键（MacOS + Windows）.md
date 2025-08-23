@@ -1,10 +1,9 @@
 ---
-date created: 2022-06-09
-date modified: 2024-11-21
+created: '2022-06-09'
+cssclasses: ''
+modified: '2024-11-21'
+permalink: /Spaces/2-Area/windows高效使用/∑ 快捷键（MacOS + Windows）.md
 publish: true
-sr-due: 2023-01-21
-sr-ease: 310
-sr-interval: 238
 tags:
 - todo/持续迭代
 - moc

@@ -1,14 +1,16 @@
 ---
-date created: 2024-05-11
-date modified: 2025-07-10
+aliases: obsidian-file-cooker
+created: '2024-05-11'
+cssclasses: ''
+modified: '2025-08-19'
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/File Cooker.md
 publish: true
-rating: 7
-status: null
 tags:
 - obsidian插件
 title: File Cooker
-一句话理由: 批量编辑、移动神器，和cursor联动有奇效
 ---
+2025-8-19发现，将文件拖动到canvas，然后选中，右键批量移动，非常方便，都不需要用到file cooker了。
+
 必备，神器。文件批量移动，批量重命名，批量加properties，且都不会让反向链接失效。
 
 使用文档：[obsidian-files-cooker/README\_zh.md at main · ivaneye/obsidian-files-cooker · GitHub](https://github.com/ivaneye/obsidian-files-cooker/blob/main/README_zh.md)

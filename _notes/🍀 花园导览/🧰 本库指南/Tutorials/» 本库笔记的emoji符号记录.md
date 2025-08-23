@@ -1,6 +1,8 @@
 ---
-date created: 2022-08-05
-date modified: 2023-03-14
+created: '2022-08-05'
+cssclasses: ''
+modified: '2023-03-14'
+permalink: /🍀 花园导览/🧰 本库指南/Tutorials/» 本库笔记的emoji符号记录.md
 publish: true
 tags:
 - 本库教程
@@ -21,7 +23,7 @@ title: » 本库笔记的emoji符号记录
 
 MOC 使用`+`符号作为前缀，让其在自然排序中靠在最前面，既方便搜索，也 方便在文件夹中最先被看到。  
 	，决定批量改用`∑`符号，option+w输入。因为+过于常用，搜索的时候会有过多干扰项，另外可能会被某些系统识别为保留字符而出错，比如在[[Sources/GithubStarsSync/hugo]]中会出现404问题。  
-	option +w被用于[[Spaces/3-Resource/软件梳理/macos软件/Raycast]]指定打开[[Spaces/3-Resource/软件梳理/macos软件/Warp]]的快捷键，固弃用`∑`符号，并且TOC不常用，改用 `§`符号作为前缀。
+	option +w被用于[[Spaces/3-Resource/软件梳理/macos软件/Raycast]]指定打开[[Spaces/3-Resource/软件梳理/macos软件/Warp App]]的快捷键，固弃用`∑`符号，并且TOC不常用，改用 `§`符号作为前缀。
 
 TOC 使用`§`符号作为前缀（option+6输入，注意可能的快捷键冲突），让其在自然排序中靠在最前面，既方便搜索，也方便在文件夹中最先被看到。
 

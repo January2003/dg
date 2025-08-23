@@ -1,14 +1,9 @@
 ---
-date created: 2025-01-28
-date modified: 2025-01-28
+created: '2025-01-28'
+cssclasses: ''
+modified: '2025-01-28'
+permalink: /Sources/AIGC/kubectl 命令执行流程图.md
 publish: true
-tags:
-- k8s
-- kubectl
-- 流程图
-- mermaid
-- 架构图
-- AI生成
 title: kubectl 命令执行流程图
 ---
 # 🔧 kubectl 命令执行流程图
@@ -54,14 +49,24 @@ graph TB
         LOGS["kubectl logs<br/>📜 查看日志"]
     end
     
-     控制面组件交互
+    %% 用户交互
+    U --> kubectl
+    kubectl --> API
+    
+    %% 控制面组件交互
     API <--> etcd
     API --> CM
     API --> Scheduler
     CM --> API
     Scheduler --> API
     
-     命令流程
+    %% 数据面组件交互
+    API --> kubelet
+    API --> proxy
+    kubelet <--> CRI
+    kubelet --> API
+    
+    %% 命令流程
     GET --> API
     DELETE --> API
     APPLY --> API

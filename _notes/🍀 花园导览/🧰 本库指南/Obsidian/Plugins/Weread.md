@@ -1,4 +1,5 @@
 ---
+aliases: obsidian-weread-plugin
 created: '2023-01-23'
 cssclasses: ''
 modified: '2023-03-14'

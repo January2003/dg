@@ -1,4 +1,5 @@
 ---
+aliases: copy-url-in-preview
 created: '2024-11-18'
 cssclasses: ''
 modified: '2024-11-18'

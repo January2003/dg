@@ -6,7 +6,6 @@ permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Open in cursor 
 publish: true
 tags:
 - obsidian插件
-- 自己开发
 title: Open in cursor 插件
 ---
 发布太麻烦了，自己用吧。

@@ -1,4 +1,5 @@
 ---
+aliases: better-search-views
 created: '2024-05-11'
 cssclasses: ''
 modified: '2025-07-10'

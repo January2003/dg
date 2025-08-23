@@ -1,4 +1,5 @@
 ---
+aliases: power-mode
 created: '2025-04-28'
 cssclasses: ''
 modified: '2025-07-10'

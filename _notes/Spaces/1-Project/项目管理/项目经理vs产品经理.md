@@ -1,7 +1,7 @@
 ---
 created: '2025-07-29T23:04:32.617+08:00'
 cssclasses: ''
-modified: '2025-07-29T23:04:32.620+08:00'
+modified: '2025-08-15T22:00:03.663+08:00'
 permalink: /Spaces/1-Project/项目管理/项目经理vs产品经理.md
 publish: true
 title: 项目经理vs产品经理

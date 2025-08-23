@@ -1,8 +1,9 @@
 ---
-date created: 2022-06-09
-date modified: 2023-03-14
+created: '2022-06-09'
+cssclasses: ''
+modified: '2023-03-14'
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Remotely Save.md
 publish: true
-rating: 4
 tags:
 - obsidian插件
 title: Remotely Save

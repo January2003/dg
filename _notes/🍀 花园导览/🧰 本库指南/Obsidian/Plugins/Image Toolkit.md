@@ -1,4 +1,6 @@
 ---
+aliases:
+- obsidian-image-toolkit
 date created: 2024-11-18
 date modified: 2024-11-18
 publish: true

@@ -1,7 +1,7 @@
 ---
 created: '2023-02-27'
 cssclasses: ''
-modified: '2025-07-29'
+modified: '2025-08-19'
 permalink: /Atlas/Canvas/» canvas使用经验和技巧.md
 publish: true
 title: » canvas使用经验
@@ -22,6 +22,7 @@ title: » canvas使用经验
 
 ## 使用技巧
 
+- 2025-8-19：可以使用canvas做临时中转台，然后将想要移动的文件先拖进来，接着批量框选文件，批量移动，很方便。或者使用[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/File Cooker]]，有几个可以批量插入链接到canvas的命令。
 - canvas选中文件，然后使用 move to 功能，可以很方便转移文件到指定文件夹。
 - 将canvas pin以后，双击白板内的md文件的标题，会在另一个tab页中打开该文件，非常实用。
 - 要检索某个md文件或canvas文件，是否被其他canvas引用，目前反向链接面板无数据，可以通过[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Omnisearch]]搜索，曲线救国实现。
@@ -45,3 +46,7 @@ title: » canvas使用经验
 使用[[Atlas/Canvas/candy/canvas candy]]
 
 当然，[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Advanced Canvas]]插件本身就已经有很多预置的美化可以使用了。
+
+## canvas的卡片移动至不同group，联动改变其properties
+
+[Why Canvas is great in Obsidian - YouTube](https://www.youtube.com/watch?v=fenyXDW30Kc&t=53s)

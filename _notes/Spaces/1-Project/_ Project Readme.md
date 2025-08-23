@@ -1,6 +1,8 @@
 ---
-date created: 2025-04-09
-date modified: 2025-06-27
+created: '2025-04-09'
+cssclasses: ''
+modified: '2025-06-27'
+permalink: /Spaces/1-Project/_ Project Readme.md
 publish: true
 tags:
 - 本库教程

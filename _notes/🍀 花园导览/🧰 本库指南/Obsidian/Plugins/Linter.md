@@ -1,4 +1,5 @@
 ---
+aliases: obsidian-linter
 created: '2023-01-23'
 cssclasses: ''
 modified: '2023-03-14'

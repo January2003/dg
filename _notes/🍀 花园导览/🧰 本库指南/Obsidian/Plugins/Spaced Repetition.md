@@ -1,5 +1,5 @@
 ---
-aliases: 间隔重复
+aliases: 间隔重复 obsidian-spaced-repetition
 created: '2022-06-09'
 cssclasses: ''
 modified: '2023-03-14'
