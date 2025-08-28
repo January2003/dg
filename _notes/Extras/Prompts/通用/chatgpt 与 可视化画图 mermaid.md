@@ -1,7 +1,7 @@
 ---
 created: '2024-11-04'
 cssclasses: ''
-modified: '2024-11-06'
+modified: '2025-08-27'
 permalink: /Extras/Prompts/通用/chatgpt 与 可视化画图 mermaid.md
 publish: true
 title: chatgpt 与 可视化画图 mermaid
@@ -10,7 +10,6 @@ title: chatgpt 与 可视化画图 mermaid
 
 也可以用Graphviz画[[Spaces/1-Project/入门到精通 ChatGPT和LLM 应用及原理/chatgpt 可视化 Graphviz]]
 
-
 ## 阅读材料可视化
 
 转成思维导图，mermaid 图等
@@ -18,7 +17,6 @@ title: chatgpt 与 可视化画图 mermaid
 ![](https://pub-pic.oldwinter.top/2024/11/7fcf198434c4e6eb5a689fcd32f10ea5.png)
 
 ##
-
 
 ## 参考
 

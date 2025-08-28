@@ -6,9 +6,6 @@ description: A template plugin for obsidian
 modified: 2023-03-14 - obsidian插件
 permalink: /Sources/GithubStarsSync/Templater.md
 publish: true
-tags:
-- github开源
-- obsidian插件
 title: Templater
 ---
 [[Sources/AIGC/Templater 高级应用指南]]

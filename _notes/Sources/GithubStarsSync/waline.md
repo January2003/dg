@@ -1,13 +1,41 @@
 ---
-created: '2025-06-20T01:50:34.294+08:00'
-cssclasses: ''
+created_date: 2020-10-31
 description: 💬 A Simple, Safe Comment System
-modified: '2025-08-15T22:00:01.169+08:00'
-permalink: /Sources/GithubStarsSync/waline.md
+forks: 452
+is_fork: false
+issues: 61
+language: JavaScript
+license: GNU General Public License v2.0
 publish: true
-tags:
-- github开源
+pushed_date: 2025-06-19
+repo_name: walinejs/waline
+repo_url: https://github.com/walinejs/waline
+size_kb: 65531
+star_date: 2022-09-01 12:06:29
+stars: 2601
 title: waline
+topics:
+- aliyun
+- baidu
+- blog
+- cloudbase
+- comment
+- comment-system
+- disqus
+- leancloud
+- mongodb
+- mysql
+- netlify
+- postgresql
+- railway
+- self-hosted
+- sqlite
+- tidb
+- vercel
+- zeabur
+updated_date: 2025-06-18
+分类:
+- '[[Atlas/Categories/github开源 - fileclass]]'
 ---
 # walinejs/waline
 

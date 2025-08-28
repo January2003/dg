@@ -4,8 +4,6 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /Cards/让Cursor将Cards中的笔记，针对某个主题进行有机串联，然后统一归入PARA.md
 publish: true
-tags:
-- obsidian与AI
 title: 让Cursor将Cards中的笔记，针对某个主题进行有机串联，然后统一归入PARA
 ---
 ## 第一步：让cursor针对cards目录搜索，并基于某个主题创作moc

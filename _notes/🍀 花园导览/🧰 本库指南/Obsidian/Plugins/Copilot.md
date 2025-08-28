@@ -6,9 +6,8 @@ date modified: 2025-07-10
 publish: true
 rating: 4
 status: null
-tags:
-- obsidian插件
 title: Copilot
+分类: '[[Atlas/Categories/obsidian插件 - fileclass]]'
 ---
 停用所有ai插件了，比如[[Cards/Text Generator\|Text Generator]]等等
 

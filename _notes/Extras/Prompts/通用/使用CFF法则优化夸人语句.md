@@ -1,9 +1,9 @@
 ---
-date created: 2025-06-05
-date modified: 2025-06-05
+created: '2025-06-05'
+cssclasses: ''
+modified: '2025-06-05'
+permalink: /Extras/Prompts/通用/使用CFF法则优化夸人语句.md
 publish: true
-tags:
-- Prompt
 title: 使用CFF法则优化夸人语句
 ---
 [[Extras/Prompts/通用/CFF法则 - 夸奖别人的方法\|CFF]]

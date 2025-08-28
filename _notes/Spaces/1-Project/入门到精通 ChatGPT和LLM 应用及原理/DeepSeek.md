@@ -4,8 +4,6 @@ cssclasses: ''
 modified: '2025-02-26'
 permalink: /Spaces/1-Project/入门到精通 ChatGPT和LLM 应用及原理/DeepSeek.md
 publish: true
-tags:
-- AI产品
 title: DeepSeek
 ---
 [[Sources/Clippings/ChatGPT/deepseek 提示词技巧]]

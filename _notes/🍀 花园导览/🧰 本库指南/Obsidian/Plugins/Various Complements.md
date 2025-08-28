@@ -1,13 +1,10 @@
 ---
-aliases:
-- various-complements
-date created: 2022-06-09
-date modified: 2025-06-06
+aliases: various-complements
+created: '2022-06-09'
+cssclasses: ''
+modified: '2025-06-06'
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Various Complements.md
 publish: true
-rating: 6
-status: null
-tags:
-- obsidian插件
 title: Various Complements
 ---
 ## Various Complements

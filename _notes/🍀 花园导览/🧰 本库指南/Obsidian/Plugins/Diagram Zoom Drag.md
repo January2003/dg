@@ -4,9 +4,8 @@ date modified: 2025-07-10
 publish: true
 rating: 5
 status: null
-tags:
-- obsidian插件
 title: Diagram Zoom Drag
+分类: '[[Atlas/Categories/obsidian插件 - fileclass]]'
 ---
 给自带的[[Sources/GithubStarsSync/mermaid]]加上方便查看的按钮，以及给其他几个常用图形工具也加上查看按钮。
 

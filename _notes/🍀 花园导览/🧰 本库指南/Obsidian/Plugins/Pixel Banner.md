@@ -1,11 +1,10 @@
 ---
-created: '2025-06-09'
-cssclasses: ''
-modified: '2025-06-09'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Pixel Banner.md
+date created: 2025-06-09
+date modified: 2025-06-09
 publish: true
-tags:
-- obsidian插件
+rating: 5
+status: null
 title: Pixel Banner
+分类: '[[Atlas/Categories/obsidian插件 - fileclass]]'
 ---
 方便地设置头图、logo等，类似notion

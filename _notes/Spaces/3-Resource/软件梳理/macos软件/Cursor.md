@@ -4,14 +4,9 @@ cssclasses: ''
 modified: '2024-11-21'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/Cursor.md
 publish: true
-tags:
-- windows软件
-- macOS软件
-- AI产品/编程
-- raycast插件
 title: Cursor
 ---
-[[📥 Inbox/cursor cli]]
+[[Cards/cursor cli]]
 
 [[Spaces/1-Project/Cursor/cursor 使用技巧总结]]
 [[Spaces/1-Project/Cursor/cursor和idea比如goland之间互相跳转]]

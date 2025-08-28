@@ -1,12 +1,10 @@
 ---
-created: '2022-08-06'
-cssclasses: ''
-modified: '2025-07-12'
-permalink: /Extras/Other/_ Other readme.md
+date created: 2022-08-06
+date modified: 2025-07-12
 publish: true
-tags:
-- 本库教程
 title: README
+分类:
+- '[[Atlas/Categories/本库教程 - fileclass]]'
 ---
 # Extras/Other 工具脚本说明
 

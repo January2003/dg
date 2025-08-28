@@ -5,11 +5,6 @@ cssclasses: ''
 modified: '2024-05-30'
 permalink: /Extras/Prompts/通用/CFF法则 - 夸奖别人的方法.md
 publish: true
-tags:
-- review
-- prompts
-- action
-- adventure
 title: CFF法则 - 夸奖别人的方法
 ---
 真诚是第一位。

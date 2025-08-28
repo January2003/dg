@@ -1,10 +1,11 @@
 ---
-created: '2025-06-06'
-cssclasses: ''
-modified: '2025-06-06'
-permalink: /Spaces/3-Resource/chrome插件/Cubox Chrome 剪藏插件.md
+date created: 2025-06-06
+date modified: 2025-06-06
 publish: true
-tags:
-- chrome插件
 title: Cubox Chrome 剪藏插件
+分类:
+- '[[Atlas/Categories/chrome插件 - fileclass]]'
+备注: zen安装一直有bug，登录不上
+设置同步: 不需要
+评价: 6
 ---

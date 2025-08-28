@@ -19,8 +19,6 @@ repo_url: https://github.com/version-fox/vfox
 size_kb: 22909
 star_date: 2024-07-26 08:39:06
 stars: 3354
-tags:
-- github开源
 title: vfox
 topics:
 - asdf
@@ -42,6 +40,8 @@ topics:
 - windows
 - zsh
 updated_date: 2025-06-19
+分类:
+- '[[Atlas/Categories/github开源 - fileclass]]'
 ---
 # version-fox/vfox
 

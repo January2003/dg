@@ -4,10 +4,10 @@ date created: 2023-03-01
 date modified: 2024-08-15
 icon: '[[icon-cc-image-Edge.png]]'
 publish: true
-tags:
-- macOS软件
-- 安卓软件
 title: Edge
+分类:
+- '[[Atlas/Categories/macOS软件 - fileclass]]'
+- '[[Atlas/Categories/安卓软件 - fileclass]]'
 是否已备份: 'true'
 设置同步: 微软账号自动同步
 评价: 4

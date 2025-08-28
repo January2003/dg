@@ -6,9 +6,6 @@ permalink: /Spaces/3-Resource/软件梳理/安卓软件/Obsidian.md
 publish: true
 tags:
 - 评论/少数派
-- macOS软件
-- 安卓软件
-- windows软件
 title: Obsidian
 ---
 up:: [[Cards/笔记软件的选择]]  

@@ -1,13 +1,15 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
-modified: '2024-11-21'
-permalink: /Spaces/2-Area/windows高效使用/∑ 快捷键（MacOS + Windows）.md
+date created: 2022-06-09
+date modified: 2024-11-21
 publish: true
+sr-due: 2023-01-21
+sr-ease: 310
+sr-interval: 238
 tags:
 - todo/持续迭代
-- moc
 title: ∑ 快捷键
+分类:
+- '[[Atlas/Categories/MOC内容地图 - fileclass]]'
 ---
 [[Cards/快捷键、图标、命令行的对比与选择]]
 

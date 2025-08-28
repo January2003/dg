@@ -2,7 +2,7 @@
 created: '2025-08-01'
 cssclasses: ''
 modified: '2025-08-01'
-permalink: /📥 Inbox/Obsidian Flight School.md
+permalink: /Cards/Obsidian Flight School.md
 publish: true
 title: Obsidian Flight School
 ---

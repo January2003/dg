@@ -1,16 +1,25 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
-modified: '2025-07-31'
-permalink: /Spaces/3-Resource/软件梳理/安卓软件/Notion.md
+brew安装命令: brew install --cask notion
+date created: 2022-06-09
+date modified: 2025-07-31
+icon: '[[icon-cc-image-Notion.png]]'
 publish: true
 tags:
 - 评论/少数派
-- macOS软件
-- windows软件
-- AI产品
-- 安卓软件
 title: Notion
+作用: 打造数字花园
+分类:
+- '[[Atlas/Categories/macOS软件 - fileclass]]'
+- '[[Atlas/Categories/安卓软件 - fileclass]]'
+- '[[Atlas/Categories/windows软件 - fileclass]]'
+- '[[Atlas/Categories/AI产品 - fileclass]]'
+当前是否还在使用: true
+是否已备份: y
+是否已重装: true
+是否通过UniGetUI安装: true
+设置同步: 谷歌账号
+评价: 6
+跨平台技术栈: '[[Atlas/Categories/Electron]]'
 ---
 ## notion 教程
 

@@ -1,12 +1,10 @@
 ---
-created: '2025-07-09'
-cssclasses: ''
-modified: '2025-07-09'
-permalink: /Cards/impoter.md
+date created: 2025-07-09
+date modified: 2025-07-09
 publish: true
-tags:
-- obsidian插件
+rating: 2
 title: impoter
+分类: '[[Atlas/Categories/obsidian插件 - fileclass]]'
 ---
 主流的笔记软件都支持，obsidian官方开发，值得信赖。
 

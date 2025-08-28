@@ -15,8 +15,6 @@ repo_url: https://github.com/go-nv/goenv
 size_kb: 3029
 star_date: 2025-03-11 05:19:18
 stars: 2290
-tags:
-- github开源
 title: goenv
 topics:
 - bash
@@ -29,6 +27,8 @@ topics:
 - shims-goenv
 - version-manager
 updated_date: 2025-06-19
+分类:
+- '[[Atlas/Categories/github开源 - fileclass]]'
 ---
 # go-nv/goenv
 

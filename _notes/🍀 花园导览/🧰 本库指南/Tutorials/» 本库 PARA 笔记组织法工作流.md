@@ -1,12 +1,10 @@
 ---
-date created: 2022-08-04
-date modified: 2025-07-09
+created: '2022-08-04'
+cssclasses: ''
+modified: '2025-07-09'
+permalink: /🍀 花园导览/🧰 本库指南/Tutorials/» 本库 PARA 笔记组织法工作流.md
 publish: true
-tags:
-- 本库教程
-- workflow
 title: » 本库 PARA 笔记组织法工作流
-是否已review: true
 ---
 x:: [[Spaces/2-Area/知识管理/P.A.R.A]], [[Spaces/2-Area/数字花园建设与维护/∑ Building a Second Brain 翻译和读书笔记]]
 

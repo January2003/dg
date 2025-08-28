@@ -1,13 +1,12 @@
 ---
-created: '2023-03-01'
-cssclasses: ''
-modified: '2025-07-15'
-permalink: /Atlas/Bases/_ About Bases.md
+date created: 2023-03-01
+date modified: 2025-07-15
 publish: true
-tags:
-- 本库教程
-- workflow
 title: About DB folders
+分类:
+- '[[Atlas/Categories/工作流workflow - fileclass]]'
+- '[[Atlas/Categories/本库教程 - fileclass]]'
+是否已review: true
 ---
 > obsidian版本号>=1.9，才能使用base功能哦。未拥有obsidian catalyst的用户，请耐心等待这个大版本公开，个人预估在25年8月左右。
 

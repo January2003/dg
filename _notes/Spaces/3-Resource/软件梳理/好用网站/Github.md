@@ -2,10 +2,10 @@
 date created: 2022-06-09
 date modified: 2023-03-14
 publish: true
-tags:
-- 好用网站
-- raycast插件
 title: 🔗github
+分类:
+- '[[Atlas/Categories/好用网站 - fileclass]]'
+- '[[Atlas/Categories/raycast插件 - fileclass]]'
 评价: 7
 ---
 [[Spaces/2-Area/计算机知识/github star 列表导出]]

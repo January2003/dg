@@ -5,8 +5,6 @@ cssclasses: ''
 modified: '2025-07-09'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Lineage.md
 publish: true
-tags:
-- obsidian插件
 title: Lineage
 ---
 相比使用[[Spaces/2-Area/计算机知识/gingko]]的优势：

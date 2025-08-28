@@ -2,7 +2,7 @@
 created: '2025-07-12'
 cssclasses: ''
 modified: '2025-07-12'
-permalink: /📥 Inbox/bodycombat.md
+permalink: /Cards/bodycombat.md
 publish: true
 title: bodycombat
 ---

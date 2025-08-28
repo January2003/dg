@@ -5,13 +5,11 @@ cssclasses: ''
 modified: '2025-07-17'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Style Settings.md
 publish: true
-tags:
-- obsidian插件
 title: Style Settings
 ---
 ## 给style setting中某些字段，配置快捷命令的方式。
 
-这样有些需要高频切换开关的style设置，就不需要每次都到设置里面进行切换了。比如[[📥 Inbox/willemstad]]主题canvas隐藏node和group的标题的功能。
+这样有些需要高频切换开关的style设置，就不需要每次都到设置里面进行切换了。比如[[Cards/willemstad]]主题canvas隐藏node和group的标题的功能。
 
 启用如下snippets既可，然后命令行中就出现了。重点是找到原来的配置，加上一行`addcommand:true` 既可。
 

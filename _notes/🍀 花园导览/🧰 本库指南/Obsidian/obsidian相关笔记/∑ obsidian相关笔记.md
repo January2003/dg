@@ -1,13 +1,11 @@
 ---
-created: '2025-07-09'
-cssclasses: ''
-modified: '2025-07-13'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/∑ obsidian相关笔记.md
+date created: 2025-07-09
+date modified: 2025-07-13
 publish: true
-tags:
-- MOC
-- AI生成
 title: ∑ obsidian相关笔记
+分类:
+- '[[Atlas/Categories/AI生成 - fileclass]]'
+- '[[Atlas/Categories/MOC内容地图 - fileclass]]'
 ---
 # ∑ Obsidian 相关笔记
 

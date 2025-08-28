@@ -1,14 +1,32 @@
 ---
-created: '2025-06-20T01:50:31.864+08:00'
-cssclasses: ''
+created_date: 2023-11-10
 description: Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins,
   Prompts leaking
-modified: '2025-08-15T21:59:59.891+08:00'
-permalink: /Sources/GithubStarsSync/Awesome-AI-GPTs.md
+forks: 150
+is_fork: false
+issues: 0
+language: null
+license: Creative Commons Zero v1.0 Universal
 publish: true
-tags:
-- github开源
+pushed_date: 2024-06-27
+repo_name: EmbraceAGI/Awesome-AI-GPTs
+repo_url: https://github.com/EmbraceAGI/Awesome-AI-GPTs
+size_kb: 256
+star_date: 2024-02-21 08:32:17
+stars: 1145
 title: Awesome-AI-GPTs
+topics:
+- aigpts
+- bots
+- chatbot
+- gpt-3
+- gpt-4
+- gpts
+- openai
+- prompts
+updated_date: 2025-06-18
+分类:
+- '[[Atlas/Categories/github开源 - fileclass]]'
 ---
 # EmbraceAGI/Awesome-AI-GPTs
 

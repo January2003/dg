@@ -1,12 +1,11 @@
 ---
-created: '2025-06-17'
-cssclasses: ''
-modified: '2025-07-09'
-permalink: /📥 Inbox/_ 📥 Inbox Readme.md
+date created: 2025-06-17
+date modified: 2025-07-09
 publish: true
-tags:
-- workflow
 title: _ 📥 Inbox Readme
+分类:
+- '[[Atlas/Categories/工作流workflow - fileclass]]'
+是否已review: true
 ---
 # 📥 收件箱 (Inbox) 说明
 

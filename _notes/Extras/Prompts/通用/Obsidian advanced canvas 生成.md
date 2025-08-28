@@ -1,12 +1,10 @@
 ---
-created: '2025-05-14'
-cssclasses: ''
-modified: '2025-05-26'
-permalink: /Extras/Prompts/通用/Obsidian advanced canvas 生成.md
+date created: 2025-05-14
+date modified: 2025-05-26
 publish: true
-tags:
-- prompts
 title: Obsidian advanced canvas 生成
+分类:
+- '[[Atlas/Categories/提示词prompts - fileclass]]'
 ---
 ## 提示词
 

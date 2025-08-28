@@ -1,12 +1,10 @@
 ---
-created: '2022-06-09 00:00:00+00:00'
-cssclasses: ''
-modified: '2023-03-14 00:00:00+00:00'
-permalink: /Spaces/Published/已发布文章/2022年7月，obsidian 依然必装的 10 个插件.md
+date created: 2022-06-09 00:00:00+00:00
+date modified: 2023-03-14 00:00:00+00:00
 publish: true
-tags:
-- 文章/已完成
 title: 2022年7月，obsidian 依然必装的 10 个插件
+分类:
+- '[[Atlas/Categories/文章-已完成 - fileclass]]'
 ---
 内心OS：**obsidian的插件，既是春药，也是毒药**
 

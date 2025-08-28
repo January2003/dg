@@ -1,14 +1,10 @@
 ---
-aliases:
-- 非md资源文件管理
-- 附件管理
-date created: 2022-08-07
-date modified: 2023-03-14
+aliases: 非md资源文件管理 附件管理
+created: '2022-08-07'
+cssclasses: ''
+modified: '2023-03-14'
+permalink: /🍀 花园导览/🧰 本库指南/Tutorials/» 本库非md的资源文件管理工作流.md
 publish: true
-tags:
-- AI生成
-- workflow
-- file-management
 title: » 本库非md的资源文件管理工作流
 ---
 # 非 MD 资源文件管理工作流

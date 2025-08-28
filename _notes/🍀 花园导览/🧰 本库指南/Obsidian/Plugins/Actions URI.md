@@ -1,12 +1,11 @@
 ---
-created: '2024-05-11'
-cssclasses: ''
-modified: '2025-06-06'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Actions URI.md
+date created: 2024-05-11
+date modified: 2025-06-06
 publish: true
-tags:
-- obsidian插件
+rating: 4
+status: null
 title: Actions URI
+分类: '[[Atlas/Categories/obsidian插件 - fileclass]]'
 ---
 > 现在还没用上，更倾向于all in ob以后，需要和obsidian软件外联动的不多，没用起来。[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Advanced URI]]用用足够了对我来说。
 

@@ -15,8 +15,6 @@ repo_url: https://github.com/foambubble/foam
 size_kb: 60162
 star_date: 2022-03-08 05:21:16
 stars: 16197
-tags:
-- github开源
 title: foam
 topics:
 - graph-visualisation
@@ -29,6 +27,8 @@ topics:
 - vscode
 - zettelkasten
 updated_date: 2025-06-19
+分类:
+- '[[Atlas/Categories/github开源 - fileclass]]'
 评价: 6
 ---
 # foambubble/foam

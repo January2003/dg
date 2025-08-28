@@ -5,8 +5,6 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Linter.md
 publish: true
-tags:
-- obsidian插件
 title: Linter
 ---
 神器，必备。

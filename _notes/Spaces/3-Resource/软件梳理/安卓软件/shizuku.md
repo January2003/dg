@@ -1,14 +1,11 @@
 ---
-created: '2025-07-29T23:04:30.991+08:00'
+created: '2024-04-13T22:16:30.978+08:00'
 cssclasses: ''
 description: Using system APIs directly with adb/root privileges from normal apps
   through a Java process started with app_process.
-modified: '2025-08-15T22:00:04.303+08:00'
+modified: '2025-08-25T19:24:19.426+08:00'
 permalink: /Spaces/3-Resource/软件梳理/安卓软件/shizuku.md
 publish: true
-tags:
-- github开源
-- 安卓软件
 title: shizuku
 ---
 目前可以使用 Shiziku 的应用，比如小黑屋（冻结应用）、LSPatch（免ROOT使用 Lsposed框架）、黑域（管理/限制应用后台进程）、权限狗（管理/限制应用权限）、冰箱（冻结应用）、安装狮（接管系统安装应用程序）、自动跳过（跳过软件开屏启动页的广告）、爱玩机工具箱（综合性的玩机工具箱）、Scene5（手机性能调试工具）等等。

@@ -1,13 +1,12 @@
 ---
-created: '2022-08-14'
-cssclasses: ''
-modified: '2025-07-09'
-permalink: /Spaces/2-Area/数字花园建设与维护/§ TOCs.md
+date created: 2022-08-14
+date modified: 2025-07-09
 publish: true
 tags:
-- 目录笔记
 - todo/持续迭代
 title: § TOCs
+分类:
+- '[[Atlas/Categories/目录笔记 - fileclass]]'
 ---
 > 尝试定期将笔记库局部内容结构化，结构化的过程中，会有新的体会。
 
@@ -110,11 +109,11 @@ title: § TOCs
 		 - [[Spaces/2-Area/数字花园建设与维护/∑ 必备软件]]
 		 - [[Cards/个人高效学习系统]]
 		 - [[Spaces/3-Resource/个人成长/个人查找搜索系统]]
-	  - [[Spaces/2-Area/运动健康/∑ 运动与健康]]
+	  - [[Spaces/2-Area/运动健康/∑ 运动健康]]
 		 - [[健身]]
 		 - [[跑步]]
 		 - [[饮食]]
-	  - [[∑ 知识管理]]
+	  - [[Spaces/2-Area/知识管理/∑ 知识管理]]
 		 - [[Spaces/3-Resource/软件梳理/安卓软件/Notion]]
 		 - [[Spaces/3-Resource/软件梳理/安卓软件/Obsidian]]
 		 - [[Spaces/3-Resource/软件梳理/macos软件/Cubox]]
@@ -153,4 +152,4 @@ title: § TOCs
 		 - [[南京]]
 		 - [[句容]]
    - [[About Archive]]
-	  - [[Spaces/4-Archive/Dataviews/Index for 已发布文章和草稿]]
+	  - [[Spaces/4-Archive/黑洞/Dataviews/Index for 已发布文章和草稿]]

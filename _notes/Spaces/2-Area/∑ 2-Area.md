@@ -4,8 +4,6 @@ cssclasses: ''
 modified: '2025-06-27'
 permalink: /Spaces/2-Area/∑ 2-Area.md
 publish: true
-tags:
-- moc
 title: ∑ 2-Area
 ---
 ![A.Obsidian-ABCDE预制仓库模版 7.3(阿泽小朋友更新).zip](https://drive.google.com/open?id=1YqJsJCppdPu_6SwIraiRz0fpddZQrxS0)
@@ -13,9 +11,9 @@ title: ∑ 2-Area
 
 ## 2025-06-27 cursor整理
 
-![[Spaces/2-Area/运动健康/∑ 运动与健康]]
+![[Spaces/2-Area/运动健康/∑ 运动健康]]
 
-![[Spaces/2-Area/知识管理/_ 知识管理]]
+![[Spaces/2-Area/知识管理/∑ 知识管理]]
 
 ![[Spaces/2-Area/云服务和部署/_ 云服务和部署]]
 
@@ -32,4 +30,4 @@ title: ∑ 2-Area
 - [[Cards/AIGC]]
 - [[Spaces/2-Area/知识管理/∑ PKM]]
 - [[Cards/效率工具与服务专题]]
-- [[Spaces/2-Area/运动健康/∑ 运动与健康]]
+- [[Spaces/2-Area/运动健康/∑ 运动健康]]

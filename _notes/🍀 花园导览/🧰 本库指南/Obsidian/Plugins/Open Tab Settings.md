@@ -1,11 +1,10 @@
 ---
-created: '2025-06-06'
-cssclasses: ''
-modified: '2025-06-16'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Open Tab Settings.md
+date created: 2025-06-06
+date modified: 2025-06-16
 publish: true
-tags:
-- obsidian插件
+rating: 4
+status: null
 title: Open Tab Settings
+分类: '[[Atlas/Categories/obsidian插件 - fileclass]]'
 ---
 设置tab打开的默认行为

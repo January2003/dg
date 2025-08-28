@@ -1,13 +1,10 @@
 ---
-aliases:
-- note-toolbar
-date created: 2024-05-11
-date modified: 2025-06-06
+aliases: note-toolbar
+created: '2024-05-11'
+cssclasses: ''
+modified: '2025-06-06'
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Note Toolbar.md
 publish: true
-rating: 7
-status: null
-tags:
-- obsidian插件
 title: Note Toolbar
 ---
 神器。

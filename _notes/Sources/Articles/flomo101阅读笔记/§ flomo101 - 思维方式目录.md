@@ -2,9 +2,9 @@
 date created: 2022-07-20
 date modified: 2023-03-14
 publish: true
-tags:
-- 目录笔记
 title: § flomo101 - 思维方式目录
+分类:
+- '[[Atlas/Categories/目录笔记 - fileclass]]'
 ---
 [🌱 思维方式目录 | flomo 101](https://help.flomoapp.com/thinking/start.html)
 

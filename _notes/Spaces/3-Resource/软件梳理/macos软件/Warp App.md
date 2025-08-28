@@ -1,17 +1,24 @@
 ---
-aliases: Warp
-created: '2023-01-06'
-cssclasses: ''
-modified: '2024-08-07'
-permalink: /Spaces/3-Resource/软件梳理/macos软件/Warp App.md
+aliases:
+- Warp
+brew安装命令: brew install --cask warp
+date created: 2023-01-06
+date modified: 2024-08-07
+icon: '[[icon-cc-image-Warp.png]]'
 publish: true
-tags:
-- macOS软件
-- AI产品/编程
-- windows软件
-- raycast插件
-- AI工具
 title: Warp
+分类:
+- '[[Atlas/Categories/macOS软件 - fileclass]]'
+- '[[Atlas/Categories/windows软件 - fileclass]]'
+- '[[Atlas/Categories/AI产品-编程 - fileclass]]'
+- '[[Atlas/Categories/raycast插件 - fileclass]]'
+- '[[Atlas/Categories/AI产品 - fileclass]]'
+当前使用频率: 5
+当前是否还在使用: true
+是否已重装: true
+设置同步: 官方账号
+评价: 6
+跨平台技术栈: '[[Cards/Swift]]'
 ---
 ## 最牛逼的特性
 

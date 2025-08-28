@@ -93,7 +93,7 @@ title: 2025年我的macOS软件天梯榜-文字版
 - [[Spaces/3-Resource/软件梳理/macos软件/Heptabase]]
 - [[Spaces/3-Resource/chrome插件/豆包]]
 - [[Spaces/3-Resource/软件梳理/macos软件/Onedrive]]
-- [[Spaces/3-Resource/软件梳理/macos软件/parallels Desk]]
+- [[Spaces/3-Resource/软件梳理/macos软件/Parallels Desktop]]
 - [[Cards/Canva]]
 
 ## D

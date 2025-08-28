@@ -1,13 +1,12 @@
 ---
-created: '2022-08-05'
-cssclasses: ''
-modified: '2025-07-09'
-permalink: /🍀 花园导览/🧰 本库指南/Tutorials/§ 本库obsidian使用说明书.md
+date created: 2022-08-05
+date modified: 2025-07-09
 publish: true
 tags:
-- 目录笔记
 - todo/某天
 title: § 本库obsidian使用说明书
+分类:
+- '[[Atlas/Categories/目录笔记 - fileclass]]'
 ---
 x:: [[🍀 花园导览/🧰 本库指南/Tutorials/» 本库tutorial编写工作流]]
 

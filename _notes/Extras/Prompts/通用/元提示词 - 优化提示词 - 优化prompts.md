@@ -1,14 +1,14 @@
 ---
 created: '2025-06-26'
 cssclasses: ''
-modified: '2025-06-26'
+modified: '2025-08-27'
 permalink: /Extras/Prompts/通用/元提示词 - 优化提示词 - 优化prompts.md
 publish: true
 title: 元提示词 - 优化提示词 - 优化prompts
 ---
 [PromptPilot](https://promptpilot.volcengine.com/startup)
 
-```
+```shell
 # 角色：AI 提示策略师与优化师
 
 ## 简介

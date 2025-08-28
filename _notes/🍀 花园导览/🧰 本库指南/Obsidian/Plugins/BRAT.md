@@ -1,13 +1,10 @@
 ---
-aliases:
-- obsidian42-brat
-date created: 2024-05-11
-date modified: 2025-07-10
+aliases: obsidian42-brat
+created: '2024-05-11'
+cssclasses: ''
+modified: '2025-07-10'
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/BRAT.md
 publish: true
-rating: 5
-status: null
-tags:
-- obsidian插件
 title: BRAT
 ---
 和[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Strange New Worlds]]同作者。

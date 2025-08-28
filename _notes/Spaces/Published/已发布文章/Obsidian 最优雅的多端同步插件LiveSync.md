@@ -1,12 +1,10 @@
 ---
-created: '2025-07-12'
-cssclasses: ''
-modified: '2025-07-12'
-permalink: /Spaces/Published/已发布文章/Obsidian 最优雅的多端同步插件LiveSync.md
+date created: 2025-07-12
+date modified: 2025-07-12
 publish: true
-tags:
-- 文章/已完成
 title: Obsidian 最优雅的多端同步插件LiveSync
+分类:
+- '[[Atlas/Categories/文章-已完成 - fileclass]]'
 ---
 ## 目前各种同步方案的优缺点
 

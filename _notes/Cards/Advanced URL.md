@@ -1,12 +1,12 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /Cards/Advanced URL.md
+date created: 2022-06-09
+date modified: 2023-03-14
 publish: true
-tags:
-- obsidian插件
+rating: 6
 title: Advanced URL
+分类: '[[Atlas/Categories/obsidian插件 - fileclass]]'
+当前使用频率: 3
+当前是否还在使用: true
 ---
 iii:: [[Spaces/1-Project/2025下半年小红书探索/小红书\|小红书]]
 

@@ -1,13 +1,10 @@
 ---
-aliases:
-- pane-relief
-date created: 2024-05-11
-date modified: 2025-07-10
+aliases: pane-relief
+created: '2024-05-11'
+cssclasses: ''
+modified: '2025-07-10'
+permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Pane Relief.md
 publish: true
-rating: 6
-status: null
-tags:
-- obsidian插件
 title: Pane Relief
 ---
 最有用的就是他的前进和返回功能的数量显示功能，可以直观看到当前tab，已经覆盖打开了多少个文件了，这正是有了这个功能，我使用obsidian默认的覆盖标签页还算舒适，不会让标签页爆炸。如果更喜欢新建tab的功能，可以使用插件[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Open Tab Settings]]进行设置。

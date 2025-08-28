@@ -8,4 +8,5 @@ publish: true
 revision: 20141209.1
 title: 白帽子讲Web安全
 update_time: 2017-06-26 12:39:31
+分类: '[[Atlas/Categories/多看阅读同步 - fileclass]]'
 ---

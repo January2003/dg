@@ -1,14 +1,32 @@
 ---
-created: '2022-08-21'
-cssclasses: ''
+created_date: 2021-07-18
+date created: 2022-08-21
+date modified: 2025-07-29
 description: 🌱 a fast, batteries-included static-site generator that transforms Markdown
   content into fully functional websites
-modified: '2025-07-29'
-permalink: /Sources/GithubStarsSync/quartz.md
+forks: 2916
+is_fork: false
+issues: 178
+language: TypeScript
+license: MIT License
 publish: true
-tags:
-- github开源
+pushed_date: 2025-06-18
+repo_name: jackyzha0/quartz
+repo_url: https://github.com/jackyzha0/quartz
+size_kb: 16233
+star_date: 2022-06-03 13:04:42
+stars: 9317
 title: quartz
+topics:
+- digital-garden
+- networked-thought
+- obsidian
+- obsidian-md
+- quartz-ssg
+- static-site-generator
+updated_date: 2025-06-19
+分类:
+- '[[Atlas/Categories/github开源 - fileclass]]'
 ---
 x:: [[Cards/quartz syncer]]
 

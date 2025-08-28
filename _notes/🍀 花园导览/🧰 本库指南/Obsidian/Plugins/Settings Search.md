@@ -1,12 +1,11 @@
 ---
-created: '2023-01-23'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Settings Search.md
+date created: 2023-01-23
+date modified: 2023-03-14
 publish: true
-tags:
-- obsidian插件
+rating: 5
+status: null
 title: Settings Search
+分类: '[[Atlas/Categories/obsidian插件 - fileclass]]'
 ---
 ## Settings Search
 

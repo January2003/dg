@@ -4,8 +4,6 @@ cssclasses: dashboard
 modified: '2023-10-09'
 permalink: /Atlas/_ Atlas Readme.md
 publish: true
-tags:
-- workflow
 title: About Atlas
 ---
 # 🗺️ 知识图谱 (Atlas) 说明

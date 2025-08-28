@@ -5,8 +5,6 @@ cssclasses: ''
 modified: '2025-07-10'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Advanced Canvas.md
 publish: true
-tags:
-- obsidian插件
 title: Advanced Canvas
 ---
 2025-6-7 新版本可以完全平替掉[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Enhanced Canvas\|Enhanced Canvas]]的功能，只需要到反向面板中查看既可，而且也能直接跳转到canvas中对应的位置，而且canvas中的卡片如果有引用，也可以显示。

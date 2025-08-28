@@ -4,8 +4,6 @@ cssclasses: ''
 modified: '2023-03-14'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/Alfred.md
 publish: true
-tags:
-- macOS软件
 title: Alfred
 ---
 其他竞品：[[Spaces/3-Resource/软件梳理/macos软件/uTools]]，[[Sources/GithubStarsSync/Go]]

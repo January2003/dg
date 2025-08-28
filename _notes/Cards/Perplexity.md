@@ -3,11 +3,8 @@ aliases: perplexity.ai pplx
 created: '2024-02-04'
 cssclasses: ''
 modified: '2024-10-28'
-permalink: /📥 Inbox/Perplexity.md
+permalink: /Cards/Perplexity.md
 publish: true
-tags:
-- AI产品
-- 安卓软件
 title: Perplexity
 ---
 ## Perplexity.ai

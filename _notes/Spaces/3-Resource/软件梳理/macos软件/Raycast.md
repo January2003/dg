@@ -1,12 +1,18 @@
 ---
-created: '2022-12-17'
-cssclasses: ''
-modified: '2025-07-30'
-permalink: /Spaces/3-Resource/软件梳理/macos软件/Raycast.md
+brew安装命令: brew install --cask raycast
+date created: 2022-12-17
+date modified: 2025-07-30
+icon: '[[icon-cc-image-Raycast.png]]'
+icon-3d: '[[raycast-3d-icon-cc-image.png]]'
 publish: true
-tags:
-- macOS软件
 title: Raycast
+分类: '[[Atlas/Categories/macOS软件 - fileclass]]'
+当前使用频率: 5
+当前是否还在使用: true
+是否已重装: true
+订阅费用（年）: 750 元
+设置同步: 手动
+评价: 7
 ---
 ## 评价 翻译from x
 

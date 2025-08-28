@@ -4,8 +4,6 @@ cssclasses: ''
 modified: '2025-06-18'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/BetterTouchTool.md
 publish: true
-tags:
-- macOS软件
 title: BetterTouchTool
 ---
 2025-07-29 目前在macOS 26 beta上面还有bug，设置hyper键，会让屏幕突然失效，无法点击，或者左键变成了右键的效果。

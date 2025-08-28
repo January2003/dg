@@ -26,7 +26,7 @@ title: macos m3 重装list
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/夸克网盘]]
 - [x] [[Spaces/3-Resource/软件梳理/安卓软件/Obsidian]]
 - [x] [[Spaces/3-Resource/软件梳理/安卓软件/Notion]]
-	- [x] [[飞书]]
+	- [x] [[📥 Inbox/飞书]]
 - [x] [[Sources/GithubStarsSync/Bob]]
 - [x] [[Spaces/3-Resource/软件梳理/安卓软件/滴答清单]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/VSCode]]
@@ -55,7 +55,7 @@ title: macos m3 重装list
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/Reeder]] ✅ 2024-07-23
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/Latest - MacOS软件]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/1Piece]]
-- [x] [[腾讯会议]]
+- [x] [[📥 Inbox/腾讯会议]]
 - [x] [[Spaces/3-Resource/软件梳理/安卓软件/微信]]
 - [x] [[Spaces/3-Resource/软件梳理/安卓软件/微信读书]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/AlDente]]
@@ -66,7 +66,7 @@ title: macos m3 重装list
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/Keka]]
 - [x] [[Spaces/3-Resource/软件梳理/安卓软件/localsend]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/menubarX]]
-- [x] [[📥 Inbox/Linear Mouse]]
+- [x] [[Cards/Linear Mouse]]
 - [x] [[Spaces/3-Resource/软件梳理/windows软件/OpenAI Translater]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/OrbStack]]
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/Presentify]] ✅ 2025-06-25
@@ -74,7 +74,7 @@ title: macos m3 重装list
 - [x] [[Cards/QuickRecorder]]
 - [x] [[UTM]] ✅ 2024-07-23
 	- [x] [[Spaces/3-Resource/软件梳理/macos软件/VMware]] ✅ 2024-07-23
-	- [x] [[Spaces/3-Resource/软件梳理/macos软件/parallels Desk]]
+	- [x] [[Spaces/3-Resource/软件梳理/macos软件/Parallels Desktop]]
 - [x] [[Cards/Steam]] ✅ 2024-07-23
 	- [x] 只有 intel 架构版本，不用了。 ✅ 2024-07-23
 - [x] [[Spaces/3-Resource/软件梳理/macos软件/Amnesia macos软件]] ✅ 2025-06-25
@@ -113,7 +113,7 @@ keyboardholder		tencent-meeting
 	- brew install --cask input-source-pro
 - [[Spaces/3-Resource/软件梳理/macos软件/KeyboardHolder]]
 	- brew install --cask keyboardholder
-- [[📥 Inbox/Linear Mouse]]
+- [[Cards/Linear Mouse]]
 	- brew install --cask linearmouse
 - [[Spaces/3-Resource/软件梳理/macos软件/Warp App]]
 	- brew install --cask warp

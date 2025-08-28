@@ -1,14 +1,26 @@
 ---
-created: '2025-06-18'
-cssclasses: ''
+created_date: 2023-01-09
+date created: 2025-06-18
+date modified: 2025-07-04
 description: dev tools, env vars, task runner
-modified: '2025-07-04'
-permalink: /Spaces/2-Area/windows高效使用/mise.md
+forks: 535
+is_fork: false
+issues: 43
+language: Rust
+license: MIT License
 publish: true
-tags:
-- linux命令
-- github开源
+pushed_date: 2025-06-18
+repo_name: jdx/mise
+repo_url: https://github.com/jdx/mise
+size_kb: 25482
+star_date: 2025-06-17 18:01:04
+stars: 16303
 title: mise
+topics: []
+updated_date: 2025-06-19
+分类:
+- '[[Atlas/Categories/linux命令 - fileclass]]'
+- '[[Atlas/Categories/github开源 - fileclass]]'
 ---
 在macos和linux上，可以替换掉[[Sources/GithubStarsSync/goenv\|goenv]]、[[Cards/rvm]]、[[Sources/GithubStarsSync/vfox]]了。windows还是得继续用这些。
 

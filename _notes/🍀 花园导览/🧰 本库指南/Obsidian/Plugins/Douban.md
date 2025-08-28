@@ -5,8 +5,6 @@ cssclasses: ''
 modified: '2025-07-10'
 permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Douban.md
 publish: true
-tags:
-- obsidian插件
 title: Douban
 ---
 其他都很好，必备。

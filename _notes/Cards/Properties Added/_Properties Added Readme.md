@@ -1,12 +1,11 @@
 ---
-created: '2025-06-17'
-cssclasses: ''
-modified: '2025-06-17'
-permalink: /Cards/Properties Added/_Properties Added Readme.md
+date created: 2025-06-17
+date modified: 2025-06-17
 publish: true
-tags:
-- workflow
 title: _Properties Added Readme
+分类:
+- '[[Atlas/Categories/工作流workflow - fileclass]]'
+是否已review: true
 ---
 cards里面是经过简单link之后的卡片笔记。当符合某些分类properties的卡片越来越多，比如超过5张，超过10张，则可以考虑给他们加上专门的properties，同时养成新的习惯，以后新建这类笔记，直接用模板，或者手动添加properties。
 

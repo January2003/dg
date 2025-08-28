@@ -1,12 +1,12 @@
 ---
-created: '2023-01-23'
-cssclasses: ''
-modified: '2025-06-23'
-permalink: /Cards/Bulk Rename.md
+date created: 2023-01-23
+date modified: 2025-06-23
 publish: true
-tags:
-- obsidian插件
+rating: 5
 title: Bulk Rename
+分类: '[[Atlas/Categories/obsidian插件 - fileclass]]'
+当前使用频率: 2
+当前是否还在使用: true
 ---
 换成使用[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/File Cooker]]，更方便一些。
 

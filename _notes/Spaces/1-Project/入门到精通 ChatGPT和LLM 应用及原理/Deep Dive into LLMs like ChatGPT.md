@@ -1,11 +1,9 @@
 ---
-author:
-- '[[Cards/Andrej Karpathy]]'
-date created: 2025-04-03
-date modified: 2025-04-09
+created: '2025-04-03'
+cssclasses: ''
+modified: '2025-04-09'
+permalink: /Spaces/1-Project/入门到精通 ChatGPT和LLM 应用及原理/Deep Dive into LLMs like ChatGPT.md
 publish: true
-tags:
-- youtube长视频
 title: Deep Dive into LLMs like ChatGPT
 ---
 [Deep Dive into LLMs like ChatGPT - YouTube](https://www.youtube.com/watch?v=7xTGNNLPyMI&list=WL&index=1&t=276s)

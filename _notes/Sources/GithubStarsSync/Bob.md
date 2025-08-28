@@ -1,14 +1,53 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
+brew安装命令: 用破解版
+created_date: 2019-10-19
+date created: 2022-06-09
+date modified: 2025-07-28
 description: Bob 是一款 macOS 平台的翻译和 OCR 软件。
-modified: '2025-07-28'
-permalink: /Sources/GithubStarsSync/Bob.md
+forks: 524
+icon: '[[icon-cc-image-Bob.png]]'
+is_fork: false
+issues: 109
+language: null
+license: null
 publish: true
-tags:
-- macOS软件
-- raycast插件
+pushed_date: 2025-01-24
+repo_name: ripperhe/Bob
+repo_url: https://github.com/ripperhe/Bob
+size_kb: 99
+star_date: 2022-05-20 12:40:59
+stars: 9332
 title: Bob
+topics:
+- bobapp
+- chatgpt
+- deepseek
+- doubao
+- ernie
+- gemini
+- groq
+- hunyuan
+- kimi
+- macos
+- ocr
+- openai
+- qwen
+- translate
+- translation
+- translator
+- zhipuai
+updated_date: 2025-06-19
+作用: 查词翻译，但沙拉查词能和Anki 联动
+分类:
+- '[[Atlas/Categories/macOS软件 - fileclass]]'
+- '[[Atlas/Categories/raycast插件 - fileclass]]'
+当前使用频率: 5
+是否已备份: y
+是否已重装: true
+是否有破解版: true
+设置同步: icloud 同步，手动导出
+评价: 6
+跨平台技术栈: '[[Cards/Swift]]'
 ---
 ## 配置同步
 

@@ -4,9 +4,6 @@ cssclasses: ''
 modified: '2025-07-12'
 permalink: /Spaces/3-Resource/∑ 3-Resource.md
 publish: true
-tags:
-- AI生成
-- MOC
 title: ∑ 3-Resource
 ---
 # ∑ Resources MOC
@@ -17,11 +14,9 @@ title: ∑ 3-Resource
 
 ## 资源主题
 
-![[软件梳理与工具链]]
+![[Spaces/3-Resource/chrome插件/∑ chrome插件]]
 
-![[Spaces/3-Resource/chrome插件/∑ Chrome插件]]
-
-![[📥 Inbox/VSCode 插件]]
+![[Cards/VSCode 插件]]
 
 ![[账号与安全]]
 

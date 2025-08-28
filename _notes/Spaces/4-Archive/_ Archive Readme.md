@@ -1,11 +1,9 @@
 ---
-created: '2022-08-05'
-cssclasses: ''
-modified: '2025-07-12'
-permalink: /Spaces/4-Archive/_ Archive Readme.md
+date created: 2022-08-05
+date modified: 2025-07-12
 publish: true
-tags:
-- workflow
 title: _ Archive Readme
+分类:
+- '[[Atlas/Categories/工作流workflow - fileclass]]'
 ---
 定期归档，缓解焦虑。

@@ -15,13 +15,13 @@ repo_url: https://github.com/pyenv/pyenv
 size_kb: 6189
 star_date: 2023-12-06 05:46:59
 stars: 42385
-tags:
-- github开源
 title: pyenv
 topics:
 - python
 - shell
 updated_date: 2025-06-19
+分类:
+- '[[Atlas/Categories/github开源 - fileclass]]'
 ---
 # pyenv/pyenv
 

@@ -1,14 +1,34 @@
 ---
-created: '2024-08-17'
-cssclasses: ''
+created_date: 2021-10-18
+date created: 2024-08-17
+date modified: 2025-07-13
 description: 一款基于 AutoHotkey 的键盘映射工具
-modified: '2025-07-13'
-permalink: /Spaces/3-Resource/软件梳理/windows软件/MyKeyMap.md
+forks: 75
+icon: '[[icon-cc-image-MyKeyMap.png]]'
+is_fork: false
+issues: 19
+language: AutoHotkey
+license: GNU General Public License v3.0
 publish: true
-tags:
-- windows软件
-- github开源
+pushed_date: 2025-06-09
+repo_name: xianyukang/MyKeymap
+repo_url: https://github.com/xianyukang/MyKeymap
+size_kb: 26005
+star_date: 2024-08-09 15:10:21
+stars: 874
 title: MyKeyMap
+topics:
+- autohotkey
+- capslock
+- keymapping
+- launchy
+- productivity
+- windows
+updated_date: 2025-06-16
+分类:
+- '[[Atlas/Categories/windows软件 - fileclass]]'
+- '[[Atlas/Categories/github开源 - fileclass]]'
+评价: 7
 ---
 目前可以用于取代[[Spaces/3-Resource/软件梳理/macos软件/Raycast]]中的热键，按一次呼出，再按一次隐藏。就很优雅。
 

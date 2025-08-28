@@ -5,10 +5,6 @@ cssclasses: ''
 modified: '2025-07-25'
 permalink: /Spaces/3-Resource/软件梳理/macos软件/Cubox.md
 publish: true
-tags:
-- macOS软件
-- windows软件
-- obsidian插件
 title: Cubox
 ---
 插件：[[Spaces/3-Resource/chrome插件/Cubox Chrome 剪藏插件]]

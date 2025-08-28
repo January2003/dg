@@ -1,12 +1,13 @@
 ---
-created: '2022-06-09'
-cssclasses: ''
-modified: '2023-03-14'
-permalink: /🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Admonition.md
+date created: 2022-06-09
+date modified: 2023-03-14
 publish: true
-tags:
-- obsidian插件
+rating: 3
+status: null
 title: Admonition
+分类: '[[Atlas/Categories/obsidian插件 - fileclass]]'
+当前使用频率: 0
+当前是否还在使用: false
 ---
 > 应该算是被obsidian官方的callout功能淘汰了，其他功能我也用不上。
 

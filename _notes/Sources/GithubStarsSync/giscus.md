@@ -1,14 +1,38 @@
 ---
-created: '2025-06-20T01:50:32.039+08:00'
-cssclasses: ''
+created_date: 2021-03-27
 description: 'A commenting system powered by GitHub Discussions. :octocat: :speech_balloon:
   :gem:'
-modified: '2025-08-15T22:00:00.635+08:00'
-permalink: /Sources/GithubStarsSync/giscus.md
+forks: 387
+is_fork: false
+issues: 97
+language: TypeScript
+license: MIT License
 publish: true
-tags:
-- github开源
+pushed_date: 2025-04-21
+repo_name: giscus/giscus
+repo_url: https://github.com/giscus/giscus
+size_kb: 3547
+star_date: 2022-08-16 16:57:38
+stars: 9909
 title: giscus
+topics:
+- blog
+- comment-system
+- comments
+- comments-widget
+- giscus
+- github
+- github-discussions
+- hacktoberfest
+- javascript
+- nextjs
+- react
+- reactjs
+- utterances
+- widget
+updated_date: 2025-06-19
+分类:
+- '[[Atlas/Categories/github开源 - fileclass]]'
 ---
 # giscus/giscus
 

@@ -1,12 +1,10 @@
 ---
-created: '2025-05-03'
-cssclasses: ''
-modified: '2025-05-26'
-permalink: /Extras/Prompts/通用/mermaid 生成 - 文本生成.md
+date created: 2025-05-03
+date modified: 2025-05-26
 publish: true
-tags:
-- prompts
 title: mermaid 生成 - 文本生成
+分类:
+- '[[Atlas/Categories/提示词prompts - fileclass]]'
 ---
 Role：你是最擅长内容和数据视觉化、信息图展示的大师。
 
